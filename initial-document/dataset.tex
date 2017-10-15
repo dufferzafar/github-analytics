@@ -1,0 +1,44 @@
+\newpage
+\section{Dataset}
+
+We're using the dataset from a code hosting website called \href{http://github.com/}{GitHub}.
+The dataset is provided by the \href{http://ghtorrent.org/}{GHTorrent} project which montiors the GitHub event stream and stores the data.
+We downloaded the \href{http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2017-09-01.tar.gz}{latest dataset}, which is a 60 GB compressed tarball that contains 20 CSV files, each corresponding to a MySQL table. The details are given in Table 1. When uncompressed, the total size of the dataset is 222 GB of plain text.
+
+\par
+
+\begin{table}[htb]
+    \centering
+    \begin{tabular}{@{}llcl@{}}
+
+        \toprule
+             & File & Size & Data \\
+
+        \midrule
+
+            1 & users.csv                   & 1.6 GB   & GitHub Users \\
+            2 & organization\_members.csv   & 16.1 MB  & Users that are members of an organization \\
+            3 & followers.csv               & 588.7 MB & Users that follow another user \\
+            4 & watchers.csv                & 2.9 GB   & Users that watch a project \\
+            5 & projects.csv                & 11.1 GB  & GitHub Projects \\
+            6 & project\_commits.csv        & 89.8 GB  & Commits of projects \\
+            7 & project\_languages.cs       & 4.3 GB   & Programming languages used in projects \\
+            8 & project\_members.csv        & 491.8 MB & Users that are contributors to projects \\
+            9 & repo\_labels.csv            & 6.6 GB   & Labels used in a project \\
+           10 & commits.csv                 & 68.8 GB  & Commits on projects \\
+           11 & commit\_comments.csv        & 731.6 MB & Comments made on commits \\
+           12 & commit\_parents.csv         & 13.7 GB  & Parent(s) of commits \\
+           13 & issues.csv                  & 3.0 GB   & GitHub Issues made on projects \\
+           14 & issue\_comments.csv         & 4.1 GB   & Comments made on issues \\
+           15 & issue\_events.csv           & 4.9 GB   & Actions taken on issues (closing etc.) \\
+           16 & issue\_labels.csv           & 262.6 MB & Labels assigned to issues \\
+           17 & pull\_requests.csv          & 1.2 GB   & GitHub Pull-requests made on projects \\
+           18 & pull\_request\_comments.csv & 2.7 GB   & Comments made on pull-requests \\
+           19 & pull\_request\_commits.csv  & 2.3 GB   & Commits made on pull-requests \\
+           20 & pull\_request\_history.csv  & 3.5 GB   & Actions taken on pull-requests (merging etc.) \\
+
+        \bottomrule
+    \end{tabular}
+
+    \caption{GHTorrent Dataset Contents (mysql-2017-09-01.tar.gz)}
+\end{table}
