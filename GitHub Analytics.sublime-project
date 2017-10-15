@@ -1,0 +1,46 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"*.egg-info",
+				".cache",
+				"_Help/**"
+			],
+			"path": "."
+		},
+		{
+			"path": "_Help/wiki"
+		},
+		{
+			"path": "_Help/initial-document"
+		}
+	],
+	"settings":
+	{
+		"pep257_ignore":
+		[
+			"D100",
+			"D200",
+			"D208",
+			"D209",
+			"D202",
+			"D203",
+			"D205",
+			"D211",
+			"D102",
+			"D101",
+			"D103",
+			"D105",
+			"D400",
+			"D401"
+		],
+		"pep8_ignore":
+		[
+			"E501",
+			"E251"
+		],
+		"python_interpreter": "python3"
+	}
+}
