@@ -1,0 +1,66 @@
+\newpage
+\section{Analysis}
+
+We plan to do the following analyses on the data
+
+% Ordered list
+\begin{enumerate}
+
+   \item Correlation between time of day and activities?
+        
+        Do users commit more often at some particular time?
+
+        \bigbreak
+        
+        This can be done for various kinds of GitHub activities:
+           \begin{itemize}
+                \item Commits
+                \item Comments
+                \item Opening of Issues
+                \item Creation of Pull Requests
+           \end{itemize}
+
+    % \item What percentage of commits get reverted \\
+    %       Is there a correlation between number of reverted commits and commit time 
+    %       \bigbreak
+      
+    \item Lifespan of a project
+            
+          \begin{itemize}
+              \item After what time period activities in a github project becomes stagnant or comes below a certain threshold.
+              \item How, on an average, the frequency of commits varies for a project during its lifespan. %bellcurve ?
+              \item Do project based on certain set of languages tend to have longer lifespan than others?
+          \end{itemize}
+      
+    % \item What percentage of pull request get accepted?
+        
+    %       Is there a regional or national bias in terms of the number of pull requests accepted?
+
+    \item Active User Acquisition Rate
+
+        How has the number of active users changed over time? This will also need to consider users that later deleted their accounts or have made no contributions on the site.
+
+        % This will require scanning the \code{users.csv} file and counting the month (of year) the user accounts were created in.
+    
+    \item Developer Countries
+    
+        Which countries do developers reside in and how has that data varied over time?
+        
+    \item Forks
+        
+        Is there a correlation between the number of times a project is forked and the languages used in that project?
+    
+    \item Most Active Users
+    
+        Who were the most active users for a range of time, what language they wrote code in.
+        Activities can again be measured with commits, issues etc. \\
+        Other parameters can be the number of followers a user has or the number of organizations he is a member of.
+    
+    \item How much of a project is community driven?
+        
+        What percentage of commits in a project were part of a pull request?
+        or were authored by users who are not the creator of the project.
+        
+        After a project's creation, how much time does it take for the first community participation to occur?
+        
+\end{enumerate}
