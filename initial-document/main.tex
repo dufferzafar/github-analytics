@@ -2,6 +2,8 @@
 
 \usepackage[utf8]{inputenc}
 
+\usepackage[final]{pdfpages}
+
 % For URLs
 \usepackage{hyperref}
 
@@ -19,15 +21,20 @@
 \author{Harish Thuwal, Shadab Zafar}
 \date{October 2017}
 
+% <code> like tags
+\def\code#1{\texttt{#1}}
+
 \begin{document}
 
 % Document title, authors etc.
 \maketitle
 
 % ToC
-\vspace{15px}
-\tableofcontents
+% \vspace{15px}
+% \tableofcontents
 
 \input{dataset.tex}
+
+\input{analysis.tex}
 
 \end{document}
