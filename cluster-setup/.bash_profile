@@ -1,7 +1,7 @@
 
 # Hadoop + Spark
-export HADOOP_HOME=/usr/local/hadoop
-export SPARK_HOME=/usr/local/spark
+export HADOOP_HOME=~/hadoop
+export SPARK_HOME=~/spark
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 
 # for pseudo distributed mode
