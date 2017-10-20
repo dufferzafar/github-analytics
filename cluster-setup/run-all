@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for NODE in $(cat nodes.txt);
+do
+    echo $NODE;
+    ssh -t $NODE $*;
+    printf "\n";
+done
