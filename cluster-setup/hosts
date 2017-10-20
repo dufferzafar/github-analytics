@@ -1,0 +1,17 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1		localhost
+255.255.255.255	broadcasthost
+::1				localhost
+fe80::1%lo0		localhost
+
+# vm1 has 8 GB RAM, the others have 4
+# All machines have 80 GB HDD and 4 cores
+10.17.6.30		vm1
+10.17.6.89		vm2
+10.17.6.78		vm3
+10.17.6.63		vm4
