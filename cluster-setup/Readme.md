@@ -29,14 +29,16 @@
 
 `./run-all sudo apt install ranger`
 
+* Symlink environment details
+
+`./run-all ln -sf "/home/baadalvm/github-analytics/cluster-setup/.bash_profile" "/home/baadalvm/.bash_profile"`
+
 # Master
 
-``
+* scp hadoop tarball to master
+* untar
+* overwrite with our config files
 
 # Todo
-
-* wake up vm1
-
-* scp hadoop on master
 
 * hadoop config files?!
