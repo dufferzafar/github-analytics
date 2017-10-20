@@ -9,14 +9,18 @@
 
 `ssh-copy-id -i ~/.ssh/id_rsa.pub vm*`
 
-* Update/Upgrade all 
+* Update/Upgrade
 
 `sudo apt up{date, grade}`
 
+* Installed Java
 
+`sudo apt install openjdk-8-{jre,jdk}`
 
 # Todo
 
-* Install Java
+* wake up vm1
 
+* scp hadoop on master
 
+* hadoop config files?!
