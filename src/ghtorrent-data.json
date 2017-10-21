@@ -53,14 +53,14 @@
 
     ////////////////////////////////////////////////////////////
 
-    // Useless Column: 2 (sha)
     // Size: 68.8 GB
+    // Useless Column: 2 (sha)
     "commits.csv": [
         "id", "sha", "author_id", "committer_id", "project_id", "created_at"
     ],
 
-    // Issue: body contains free text
     // Size: 731.6 MB
+    // Issue: body contains free text
     "commit_comments.csv": [
         "id", "commit_id", "user_id", "body", "line", "position", "comment_id", "created_at"
     ],
@@ -84,6 +84,7 @@
     ],
 
     // Size: 4.9 GB
+    // Useless Column: 5 (action_specific)
     "issue_events.csv": [
         "event_id", "issue_id", "actor_id", "action", "action_specific", "created_at"
     ],
@@ -102,6 +103,7 @@
     ],
 
     // Size: 2.7 GB
+    // Issue: body contains free text
     "pull_request_comments.csv": [
         "pull_request_id", "user_id", "comment_id", "position", "body", "commit_id", "created_at"
     ],
