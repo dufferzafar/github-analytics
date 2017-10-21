@@ -1,0 +1,119 @@
+{
+    // Size: 1.6 GB
+    "users.csv": [
+        "id", "login", "company", "created_at", "type", "fake", "deleted", "long", "lat", "country_code", "state", "city", "location"
+    ],
+
+    // Size: 588.7 MB
+    "followers.csv": [
+        "follower_id", "user_id", "created_at"
+    ],
+
+    // Size: 16.1 MB
+    "organization_members": [
+        "org_id", "user_id", "created_at"
+    ],
+
+    ////////////////////////////////////////////////////////////
+
+    // Size: 11.1 GB
+    // Issue: description contains free text
+    // (issue in line 3060)
+    "projects.csv": [
+        "id", "url", "owner_id", "name", "description", "language", "created_at", "forked_from", "deleted", "updated_at"
+    ],
+
+    // Size: 89.8 GB
+    "project_commits.csv": [
+        "project_id", "commit_id",
+    ],
+
+    // Size: 4.3 GB
+    // Useless Column: 4 (created_at)
+    "project_languages.csv": [
+        "project_id", "language", "bytes", "created_at"
+    ],
+
+    // Size: 491.8 MB
+    // Useless Column: 4 (ext_ref_id)
+    "project_members.csv": [
+        "repo_id", "user_id", "created_at", "ext_ref_id"
+    ],
+
+    // Size: 6.6 GB
+    // Useless table?
+    "repo_labels.csv": [
+        "id", "repo_id", "name"
+    ],
+
+    // Size: 2.9 GB
+    "watchers.csv": [
+        "repo_id", "user_id", "created_at"
+    ],
+
+    ////////////////////////////////////////////////////////////
+
+    // Useless Column: 2 (sha)
+    // Size: 68.8 GB
+    "commits.csv": [
+        "id", "sha", "author_id", "committer_id", "project_id", "created_at"
+    ],
+
+    // Issue: body contains free text
+    // Size: 731.6 MB
+    "commit_comments.csv": [
+        "id", "commit_id", "user_id", "body", "line", "position", "comment_id", "created_at"
+    ],
+
+    // Size: 13.7 GB
+    // Useless table?
+    "commit_parents.csv": [
+        "commit_id", "parent_id"
+    ],
+
+    ////////////////////////////////////////////////////////////
+
+    // Size: 3.0 GB
+    "issues.csv": [
+        "id", "repo_id", "reporter_id", "assignee_id", "pull_request", "pull_request_id", "created_at", "issue_id"
+    ],
+
+    // Size: 4.1 GB
+    "issue_comments.csv": [
+        "issue_id", "user_id", "comment_id", "created_at"
+    ],
+
+    // Size: 4.9 GB
+    "issue_events.csv": [
+        "event_id", "issue_id", "actor_id", "action", "action_specific", "created_at"
+    ],
+
+    // Size: 262.6 MB
+    // Useless table?
+    "issue_labels": [
+        "label_id", "issue_id"
+    ],
+
+    ////////////////////////////////////////////////////////////
+
+    // Size: 1.2 GB
+    "pull_requests.csv": [
+        "id", "head_repo_id", "base_repo_id", "head_commit_id", "base_commit_id", "pullreq_id", "intra_branch"
+    ],
+
+    // Size: 2.7 GB
+    "pull_request_comments.csv": [
+        "pull_request_id", "user_id", "comment_id", "position", "body", "commit_id", "created_at"
+    ],
+
+    // Size: 2.3 GB
+    "pull_request_commits.csv": [
+        "pull_request_id", "commit_id"
+    ],
+
+    // Size: 3.5 GB
+    "pull_request_history.csv": [
+        "id", "pull_request_id", "created_at", "action", "actor_id"
+    ],
+
+}
