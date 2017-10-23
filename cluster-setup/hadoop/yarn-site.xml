@@ -14,6 +14,12 @@
 -->
 <configuration>
   <property>
+    <name>yarn.resourcemanager.hostname</name>
+    <value>vm1</value>
+    <description>The hostname of the RM.</description>
+  </property>
+
+  <property>
     <name>yarn.resourcemanager.resource-tracker.address</name>
     <value>vm1:8025</value>
   </property>
@@ -26,5 +32,15 @@
   <property>
     <name>yarn.resourcemanager.address</name>
     <value>vm1:8050</value>
+  </property>
+
+  <property>
+    <name>yarn.nodemanager.resource.memory-mb</name>
+    <value>7168</value>
+  </property>
+
+  <property>
+    <name>yarn.nodemanager.resource.cpu-vcores</name>
+    <value>4</value>
   </property>
 </configuration>
