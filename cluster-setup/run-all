@@ -3,6 +3,6 @@
 for NODE in $(cat nodes.txt);
 do
     echo $NODE;
-    ssh -t $NODE $*;
+    ssh -qt $NODE $*;
     printf "\n";
 done
