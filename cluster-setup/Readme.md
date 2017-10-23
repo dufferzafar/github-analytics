@@ -1,7 +1,7 @@
 
-# Cluster Setup
+## Cluster
 
-**20/10/2017**
+### 20/10/2017
 
 * Change password to: `G1thu8`
 
@@ -35,7 +35,7 @@
 
 `./run-all ln -sf "/home/baadalvm/github-analytics/cluster-setup/.bash_profile" "/home/baadalvm/.bash_profile"`
 
-**23/10/2017**
+### 23/10/2017
 
 * Change password of all root accounts to `G1thu8`
 
