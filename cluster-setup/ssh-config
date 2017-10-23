@@ -1,0 +1,11 @@
+Host vm1
+    User vm1
+
+Host vm2
+    User vm2
+
+Host vm3
+    User vm3
+
+Host vm4
+    User vm4
