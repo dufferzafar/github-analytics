@@ -24,11 +24,11 @@
 
    <property>
       <name>dfs.name.dir</name>
-      <value>file:/home/baadalvm/hdfs/namenode</value>
+      <value>file:/home/vm*/hdfs/namenode</value>
    </property>
 
   <property>
     <name>dfs.data.dir</name>
-    <value>file:/home/baadalvm/hdfs/datanode</value>
+    <value>file:/home/vm*/hdfs/datanode</value>
   </property>
 </configuration>
