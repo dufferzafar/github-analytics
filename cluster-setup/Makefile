@@ -44,5 +44,8 @@ sync-yarn-config:
 restart-all:
 	./run-all sudo shutdown -r now
 
-hdfs-usage:
+hdfs-du:
 	./run-all du -h -d0 "~/hdfs"
+
+hdfs-report:
+	./run vm1 hdfs dfsadmin -report
