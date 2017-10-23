@@ -21,3 +21,8 @@ stop-dfs:
 	./run vm3 "~/hadoop/sbin/hadoop-daemon.sh" stop datanode
 	./run vm4 "~/hadoop/sbin/hadoop-daemon.sh" stop datanode
 
+restart-all:
+	./run-all sudo shutdown -r now
+
+hdfs-usage:
+	./run-all du -h -d0 "~/hdfs"

@@ -2,6 +2,8 @@
 
 # Run command on all nodes
 
+# TODO: Expand $NODE in all arguments
+# eg: ./run-all ls /home/$NODE
 for NODE in $(cat nodes.txt);
 do
     echo $NODE;
