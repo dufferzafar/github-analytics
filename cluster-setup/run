@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Run command on one node
+
+vm=$1
+shift
+
+ssh -qt $vm $*;

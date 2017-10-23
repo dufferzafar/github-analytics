@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Run command on all nodes
+
 for NODE in $(cat nodes.txt);
 do
     echo $NODE;
