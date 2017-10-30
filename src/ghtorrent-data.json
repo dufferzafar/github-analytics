@@ -46,6 +46,7 @@
     ],
 
     // Size: 2.9 GB
+    // What are now called stars were previously known as watchers
     "watchers.csv": [
         "repo_id", "user_id", "created_at"
     ],
