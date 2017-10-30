@@ -29,7 +29,6 @@
     ],
 
     // Size: 4.3 GB
-    // Useless Column: 4 (created_at)
     "project_languages.csv": [
         "project_id", "language", "bytes", "created_at"
     ],
