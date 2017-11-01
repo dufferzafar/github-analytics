@@ -13,8 +13,8 @@ df = sc.read.csv(path+"/projects.csv")
 # drop 4th column
 df = df.drop("_c3")
 
-# save the modified table, this works but saves each partition of the data, i.e
-# 5 RDDs seperately in a folder
+# save the modified table, this works but saves each partition
+# of the data seperately, i.e 5 RDDs seperately in a folder
 # df.write.csv(path+"/projects_new.csv")
 
 # trying to combine all RDDs into one
