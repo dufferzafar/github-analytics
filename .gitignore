@@ -4,3 +4,13 @@
 /github-analytics.sublime-project
 
 /github-analytics.sublime-workspace
+
+/derby.log
+
+/metastore_db/
+
+/src/.ipynb_checkpoints/
+
+/src/derby.log
+
+/src/metastore_db/
