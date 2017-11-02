@@ -57,5 +57,13 @@
         {"name": "pull_request_id"  , "type": "long"        ,"nullable": true  ,"metadata": {}} ,
         {"name": "created_at"       , "type": "timestamp"   ,"nullable": false ,"metadata": {}} ,
         {"name": "issue_id"         , "type": "long"        ,"nullable": false ,"metadata": {}} 
+    ],
+
+    "pull_request_history.csv": [
+        { "name":"id"               , "type": "long"        , "nullable": false ,"metadata": {}} ,
+        { "name":"pull_request_id"  , "type": "long"        , "nullable": false ,"metadata": {}} ,
+        { "name":"created_at"       , "type": "timestamp"   , "nullable": false ,"metadata": {}} ,
+        { "name":"action"           , "type": "string"      , "nullable": false ,"metadata": {}} ,
+        { "name":"actor_id"         , "type": "long"        , "nullable": true  ,"metadata": {}} 
     ]
 }
