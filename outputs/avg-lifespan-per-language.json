@@ -1,0 +1,173 @@
+{"language":"AGS Script","avglife_commits":19.5,"avglife_issues":57.5,"avglife_pull_requests":282.5}
+{"language":"API Blueprint","avglife_commits":199.0,"avglife_issues":493.0,"avglife_pull_requests":282.0}
+{"language":"ASP","avglife_commits":10.71429,"avglife_issues":81.28571,"avglife_pull_requests":87.71429}
+{"language":"ATS","avglife_commits":81.0,"avglife_issues":226.0,"avglife_pull_requests":401.0}
+{"language":"ActionScript","avglife_commits":146.8024,"avglife_issues":229.16766,"avglife_pull_requests":146.55689}
+{"language":"Ada","avglife_commits":77.0,"avglife_issues":114.66667,"avglife_pull_requests":169.0}
+{"language":"Agda","avglife_commits":71.66667,"avglife_issues":132.33333,"avglife_pull_requests":272.33333}
+{"language":"ApacheConf","avglife_commits":286.33333,"avglife_issues":527.66667,"avglife_pull_requests":142.0}
+{"language":"Apex","avglife_commits":160.0625,"avglife_issues":298.8125,"avglife_pull_requests":207.375}
+{"language":"AppleScript","avglife_commits":347.85714,"avglife_issues":210.42857,"avglife_pull_requests":11.42857}
+{"language":"Arduino","avglife_commits":53.82759,"avglife_issues":85.44828,"avglife_pull_requests":141.0}
+{"language":"AspectJ","avglife_commits":280.0,"avglife_issues":604.0,"avglife_pull_requests":0.0}
+{"language":"Assembly","avglife_commits":132.74359,"avglife_issues":186.71795,"avglife_pull_requests":257.51282}
+{"language":"Augeas","avglife_commits":8.0,"avglife_issues":0.0,"avglife_pull_requests":208.0}
+{"language":"AutoHotkey","avglife_commits":258.76923,"avglife_issues":347.92308,"avglife_pull_requests":197.69231}
+{"language":"AutoIt","avglife_commits":213.5,"avglife_issues":131.25,"avglife_pull_requests":167.75}
+{"language":"Awk","avglife_commits":116.5,"avglife_issues":283.5,"avglife_pull_requests":0.0}
+{"language":"Batchfile","avglife_commits":184.5,"avglife_issues":244.16667,"avglife_pull_requests":335.66667}
+{"language":"BitBake","avglife_commits":142.66667,"avglife_issues":184.0,"avglife_pull_requests":163.16667}
+{"language":"BlitzBasic","avglife_commits":64.0,"avglife_issues":274.33333,"avglife_pull_requests":307.66667}
+{"language":"Boo","avglife_commits":202.75,"avglife_issues":152.75,"avglife_pull_requests":590.5}
+{"language":"Brightscript","avglife_commits":115.66667,"avglife_issues":380.66667,"avglife_pull_requests":452.66667}
+{"language":"Bro","avglife_commits":84.0,"avglife_issues":0.0,"avglife_pull_requests":0.0}
+{"language":"C","avglife_commits":187.70775,"avglife_issues":233.80603,"avglife_pull_requests":227.89296}
+{"language":"C#","avglife_commits":137.2081,"avglife_issues":224.719,"avglife_pull_requests":201.73583}
+{"language":"C++","avglife_commits":159.75189,"avglife_issues":226.40823,"avglife_pull_requests":215.15785}
+{"language":"CMake","avglife_commits":315.2381,"avglife_issues":269.19048,"avglife_pull_requests":372.90476}
+{"language":"CSS","avglife_commits":135.66038,"avglife_issues":277.98383,"avglife_pull_requests":263.3558}
+{"language":"CartoCSS","avglife_commits":136.0,"avglife_issues":411.25,"avglife_pull_requests":123.0}
+{"language":"Ceylon","avglife_commits":93.0,"avglife_issues":492.0,"avglife_pull_requests":0.0}
+{"language":"Clojure","avglife_commits":137.51313,"avglife_issues":278.82137,"avglife_pull_requests":264.70053}
+{"language":"CoffeeScript","avglife_commits":85.9568,"avglife_issues":200.48,"avglife_pull_requests":175.7616}
+{"language":"ColdFusion","avglife_commits":192.4186,"avglife_issues":257.17442,"avglife_pull_requests":211.97674}
+{"language":"Common Lisp","avglife_commits":224.98347,"avglife_issues":265.58678,"avglife_pull_requests":248.34711}
+{"language":"Coq","avglife_commits":259.625,"avglife_issues":104.0,"avglife_pull_requests":169.125}
+{"language":"Cucumber","avglife_commits":191.0,"avglife_issues":476.375,"avglife_pull_requests":253.0}
+{"language":"D","avglife_commits":164.55952,"avglife_issues":238.10714,"avglife_pull_requests":221.29762}
+{"language":"DCPU-16 ASM","avglife_commits":27.1,"avglife_issues":130.2,"avglife_pull_requests":3.7}
+{"language":"DM","avglife_commits":102.4,"avglife_issues":136.4,"avglife_pull_requests":187.0}
+{"language":"DOT","avglife_commits":206.6,"avglife_issues":143.8,"avglife_pull_requests":120.8}
+{"language":"Dart","avglife_commits":53.53125,"avglife_issues":175.375,"avglife_pull_requests":185.65625}
+{"language":"Delphi","avglife_commits":129.0,"avglife_issues":153.0,"avglife_pull_requests":111.75}
+{"language":"Dylan","avglife_commits":212.72727,"avglife_issues":229.54545,"avglife_pull_requests":427.36364}
+{"language":"Eagle","avglife_commits":143.13333,"avglife_issues":208.86667,"avglife_pull_requests":193.13333}
+{"language":"Ecl","avglife_commits":108.75,"avglife_issues":333.5,"avglife_pull_requests":336.5}
+{"language":"Eiffel","avglife_commits":387.9,"avglife_issues":199.4,"avglife_pull_requests":247.3}
+{"language":"Elixir","avglife_commits":46.5,"avglife_issues":177.0,"avglife_pull_requests":198.8}
+{"language":"Emacs Lisp","avglife_commits":258.59603,"avglife_issues":262.49007,"avglife_pull_requests":249.50993}
+{"language":"Erlang","avglife_commits":196.90515,"avglife_issues":317.04336,"avglife_pull_requests":342.32249}
+{"language":"F#","avglife_commits":143.0,"avglife_issues":357.31579,"avglife_pull_requests":284.68421}
+{"language":"FORTRAN","avglife_commits":150.90244,"avglife_issues":248.39024,"avglife_pull_requests":248.39024}
+{"language":"Factor","avglife_commits":253.5,"avglife_issues":275.25,"avglife_pull_requests":88.25}
+{"language":"Forth","avglife_commits":124.0,"avglife_issues":122.5,"avglife_pull_requests":410.5}
+{"language":"GAP","avglife_commits":108.0,"avglife_issues":54.57143,"avglife_pull_requests":352.14286}
+{"language":"GCC Machine Description","avglife_commits":220.0,"avglife_issues":526.5,"avglife_pull_requests":31.0}
+{"language":"GLSL","avglife_commits":449.0,"avglife_issues":610.0,"avglife_pull_requests":0.0}
+{"language":"Game Maker Language","avglife_commits":268.5,"avglife_issues":300.0,"avglife_pull_requests":617.5}
+{"language":"Gettext Catalog","avglife_commits":45.5,"avglife_issues":38.0,"avglife_pull_requests":187.5}
+{"language":"Gnuplot","avglife_commits":18.0,"avglife_issues":14.0,"avglife_pull_requests":201.0}
+{"language":"Go","avglife_commits":112.54802,"avglife_issues":233.98588,"avglife_pull_requests":247.64972}
+{"language":"Gosu","avglife_commits":80.6,"avglife_issues":115.2,"avglife_pull_requests":70.2}
+{"language":"Grammatical Framework","avglife_commits":333.0,"avglife_issues":494.0,"avglife_pull_requests":0.0}
+{"language":"Groff","avglife_commits":187.9,"avglife_issues":201.1,"avglife_pull_requests":333.1}
+{"language":"Groovy","avglife_commits":126.16254,"avglife_issues":231.50883,"avglife_pull_requests":269.37809}
+{"language":"HCL","avglife_commits":194.0,"avglife_issues":0.0,"avglife_pull_requests":0.0}
+{"language":"HTML","avglife_commits":176.5029,"avglife_issues":326.3511,"avglife_pull_requests":322.62109}
+{"language":"HaXe","avglife_commits":95.24324,"avglife_issues":153.0,"avglife_pull_requests":145.0}
+{"language":"Haskell","avglife_commits":186.81834,"avglife_issues":269.2128,"avglife_pull_requests":293.43426}
+{"language":"Haxe","avglife_commits":122.52,"avglife_issues":328.12,"avglife_pull_requests":222.52}
+{"language":"Inform 7","avglife_commits":142.0,"avglife_issues":396.5,"avglife_pull_requests":117.5}
+{"language":"Io","avglife_commits":40.0,"avglife_issues":161.5,"avglife_pull_requests":222.0}
+{"language":"Isabelle","avglife_commits":482.0,"avglife_issues":7.0,"avglife_pull_requests":342.0}
+{"language":"J","avglife_commits":65.0,"avglife_issues":70.0,"avglife_pull_requests":431.0}
+{"language":"Java","avglife_commits":138.23798,"avglife_issues":208.3843,"avglife_pull_requests":214.70782}
+{"language":"JavaScript","avglife_commits":107.79073,"avglife_issues":223.26086,"avglife_pull_requests":195.75502}
+{"language":"Julia","avglife_commits":98.42857,"avglife_issues":174.0,"avglife_pull_requests":101.28571}
+{"language":"Jupyter Notebook","avglife_commits":188.875,"avglife_issues":243.5,"avglife_pull_requests":184.9375}
+{"language":"KiCad","avglife_commits":103.2,"avglife_issues":214.8,"avglife_pull_requests":218.0}
+{"language":"Kotlin","avglife_commits":240.75,"avglife_issues":469.75,"avglife_pull_requests":455.0}
+{"language":"LLVM","avglife_commits":122.5,"avglife_issues":0.0,"avglife_pull_requests":156.0}
+{"language":"LabVIEW","avglife_commits":137.0,"avglife_issues":119.0,"avglife_pull_requests":141.0}
+{"language":"Lasso","avglife_commits":36.5,"avglife_issues":203.0,"avglife_pull_requests":2.5}
+{"language":"LilyPond","avglife_commits":113.0,"avglife_issues":195.0,"avglife_pull_requests":0.0}
+{"language":"Limbo","avglife_commits":726.0,"avglife_issues":469.0,"avglife_pull_requests":612.0}
+{"language":"Liquid","avglife_commits":24.5,"avglife_issues":461.0,"avglife_pull_requests":576.5}
+{"language":"LiveScript","avglife_commits":69.66667,"avglife_issues":380.33333,"avglife_pull_requests":262.33333}
+{"language":"Logos","avglife_commits":102.71429,"avglife_issues":63.14286,"avglife_pull_requests":24.14286}
+{"language":"Lua","avglife_commits":140.07667,"avglife_issues":207.64333,"avglife_pull_requests":180.41667}
+{"language":"M","avglife_commits":248.0,"avglife_issues":95.66667,"avglife_pull_requests":219.0}
+{"language":"M4","avglife_commits":123.33333,"avglife_issues":268.33333,"avglife_pull_requests":302.33333}
+{"language":"MAXScript","avglife_commits":87.0,"avglife_issues":0.0,"avglife_pull_requests":537.0}
+{"language":"Makefile","avglife_commits":229.51389,"avglife_issues":295.91667,"avglife_pull_requests":371.11111}
+{"language":"Mako","avglife_commits":192.5,"avglife_issues":645.0,"avglife_pull_requests":677.5}
+{"language":"Mathematica","avglife_commits":106.66667,"avglife_issues":190.0,"avglife_pull_requests":177.0}
+{"language":"Matlab","avglife_commits":106.37288,"avglife_issues":140.11864,"avglife_pull_requests":150.40678}
+{"language":"Max","avglife_commits":1468.0,"avglife_issues":315.5,"avglife_pull_requests":186.0}
+{"language":"Modelica","avglife_commits":181.0,"avglife_issues":328.0,"avglife_pull_requests":0.0}
+{"language":"Monkey","avglife_commits":69.0,"avglife_issues":179.0,"avglife_pull_requests":103.0}
+{"language":"NSIS","avglife_commits":0.0,"avglife_issues":648.0,"avglife_pull_requests":0.0}
+{"language":"Nemerle","avglife_commits":277.5,"avglife_issues":652.5,"avglife_pull_requests":642.5}
+{"language":"Nginx","avglife_commits":66.0,"avglife_issues":372.25,"avglife_pull_requests":222.75}
+{"language":"Nimrod","avglife_commits":287.33333,"avglife_issues":603.33333,"avglife_pull_requests":183.0}
+{"language":"Nix","avglife_commits":99.0,"avglife_issues":455.0,"avglife_pull_requests":363.0}
+{"language":"OCaml","avglife_commits":188.80392,"avglife_issues":239.03922,"avglife_pull_requests":247.03922}
+{"language":"Objective-C","avglife_commits":135.99871,"avglife_issues":260.12976,"avglife_pull_requests":232.63138}
+{"language":"Objective-C++","avglife_commits":409.27273,"avglife_issues":413.54545,"avglife_pull_requests":331.54545}
+{"language":"Objective-J","avglife_commits":302.85714,"avglife_issues":328.5,"avglife_pull_requests":293.85714}
+{"language":"Opa","avglife_commits":87.2,"avglife_issues":125.0,"avglife_pull_requests":158.6}
+{"language":"OpenEdge ABL","avglife_commits":231.0,"avglife_issues":136.5,"avglife_pull_requests":255.0}
+{"language":"OpenSCAD","avglife_commits":42.71429,"avglife_issues":237.42857,"avglife_pull_requests":287.14286}
+{"language":"Oz","avglife_commits":147.0,"avglife_issues":544.0,"avglife_pull_requests":327.0}
+{"language":"PHP","avglife_commits":146.60594,"avglife_issues":235.02881,"avglife_pull_requests":235.40606}
+{"language":"PLSQL","avglife_commits":106.2,"avglife_issues":162.8,"avglife_pull_requests":297.4}
+{"language":"PLpgSQL","avglife_commits":159.83333,"avglife_issues":352.75,"avglife_pull_requests":320.58333}
+{"language":"Parrot","avglife_commits":40.5,"avglife_issues":416.0,"avglife_pull_requests":475.0}
+{"language":"Pascal","avglife_commits":98.59091,"avglife_issues":330.0,"avglife_pull_requests":256.63636}
+{"language":"Perl","avglife_commits":232.19334,"avglife_issues":224.37557,"avglife_pull_requests":298.38472}
+{"language":"Perl6","avglife_commits":364.17391,"avglife_issues":284.76087,"avglife_pull_requests":343.41304}
+{"language":"Pike","avglife_commits":274.0,"avglife_issues":0.0,"avglife_pull_requests":78.0}
+{"language":"Pony","avglife_commits":171.0,"avglife_issues":501.0,"avglife_pull_requests":104.0}
+{"language":"PostScript","avglife_commits":130.1,"avglife_issues":198.2,"avglife_pull_requests":258.1}
+{"language":"PowerShell","avglife_commits":94.34694,"avglife_issues":264.32653,"avglife_pull_requests":209.40816}
+{"language":"Processing","avglife_commits":179.0,"avglife_issues":161.08333,"avglife_pull_requests":243.83333}
+{"language":"Prolog","avglife_commits":100.45455,"avglife_issues":154.72727,"avglife_pull_requests":53.36364}
+{"language":"Protocol Buffer","avglife_commits":162.0,"avglife_issues":462.0,"avglife_pull_requests":316.33333}
+{"language":"Puppet","avglife_commits":107.89243,"avglife_issues":171.74502,"avglife_pull_requests":265.99203}
+{"language":"Pure Data","avglife_commits":27.8,"avglife_issues":160.8,"avglife_pull_requests":237.0}
+{"language":"Python","avglife_commits":152.61082,"avglife_issues":238.68856,"avglife_pull_requests":252.09336}
+{"language":"QML","avglife_commits":165.33333,"avglife_issues":179.0,"avglife_pull_requests":272.33333}
+{"language":"R","avglife_commits":167.56291,"avglife_issues":240.50993,"avglife_pull_requests":193.53642}
+{"language":"REALbasic","avglife_commits":181.0,"avglife_issues":472.0,"avglife_pull_requests":1071.0}
+{"language":"Racket","avglife_commits":80.95833,"avglife_issues":186.875,"avglife_pull_requests":128.66667}
+{"language":"Ragel in Ruby Host","avglife_commits":78.5,"avglife_issues":133.0,"avglife_pull_requests":989.0}
+{"language":"Rebol","avglife_commits":8.66667,"avglife_issues":0.0,"avglife_pull_requests":0.0}
+{"language":"Ruby","avglife_commits":142.93536,"avglife_issues":256.72959,"avglife_pull_requests":255.24533}
+{"language":"Rust","avglife_commits":91.54545,"avglife_issues":161.47727,"avglife_pull_requests":206.22727}
+{"language":"SMT","avglife_commits":82.0,"avglife_issues":440.0,"avglife_pull_requests":233.0}
+{"language":"SQL","avglife_commits":20.0,"avglife_issues":377.0,"avglife_pull_requests":355.0}
+{"language":"SQLPL","avglife_commits":165.0,"avglife_issues":482.0,"avglife_pull_requests":349.0}
+{"language":"SaltStack","avglife_commits":432.0,"avglife_issues":64.0,"avglife_pull_requests":62.0}
+{"language":"Scala","avglife_commits":136.28447,"avglife_issues":254.20942,"avglife_pull_requests":202.23735}
+{"language":"Scheme","avglife_commits":242.0,"avglife_issues":177.66667,"avglife_pull_requests":135.9697}
+{"language":"Scilab","avglife_commits":206.66667,"avglife_issues":159.33333,"avglife_pull_requests":195.66667}
+{"language":"Self","avglife_commits":83.0,"avglife_issues":800.0,"avglife_pull_requests":1162.0}
+{"language":"Shell","avglife_commits":137.69748,"avglife_issues":188.55597,"avglife_pull_requests":207.60881}
+{"language":"Smali","avglife_commits":160.0,"avglife_issues":4.0,"avglife_pull_requests":246.0}
+{"language":"Smalltalk","avglife_commits":145.42857,"avglife_issues":195.42857,"avglife_pull_requests":174.0}
+{"language":"Smarty","avglife_commits":194.1,"avglife_issues":289.2,"avglife_pull_requests":419.8}
+{"language":"SourcePawn","avglife_commits":68.5,"avglife_issues":197.0,"avglife_pull_requests":224.25}
+{"language":"Standard ML","avglife_commits":273.0,"avglife_issues":206.4,"avglife_pull_requests":221.3}
+{"language":"SuperCollider","avglife_commits":63.6,"avglife_issues":235.0,"avglife_pull_requests":37.2}
+{"language":"Swift","avglife_commits":287.66667,"avglife_issues":350.83333,"avglife_pull_requests":307.5}
+{"language":"Tcl","avglife_commits":180.0,"avglife_issues":83.0,"avglife_pull_requests":142.29412}
+{"language":"TeX","avglife_commits":214.11864,"avglife_issues":219.38983,"avglife_pull_requests":215.15254}
+{"language":"Thrift","avglife_commits":130.5,"avglife_issues":231.5,"avglife_pull_requests":231.5}
+{"language":"Turing","avglife_commits":126.5,"avglife_issues":26.5,"avglife_pull_requests":66.0}
+{"language":"TypeScript","avglife_commits":123.92857,"avglife_issues":342.28571,"avglife_pull_requests":324.42857}
+{"language":"VCL","avglife_commits":217.0,"avglife_issues":125.0,"avglife_pull_requests":289.5}
+{"language":"VHDL","avglife_commits":126.66667,"avglife_issues":160.0,"avglife_pull_requests":45.11111}
+{"language":"Vala","avglife_commits":142.67857,"avglife_issues":222.82143,"avglife_pull_requests":183.5}
+{"language":"Verilog","avglife_commits":128.875,"avglife_issues":147.5,"avglife_pull_requests":150.375}
+{"language":"VimL","avglife_commits":192.72713,"avglife_issues":258.84912,"avglife_pull_requests":253.44623}
+{"language":"Visual Basic","avglife_commits":104.26667,"avglife_issues":85.53333,"avglife_pull_requests":143.96667}
+{"language":"Web Ontology Language","avglife_commits":279.0,"avglife_issues":435.5,"avglife_pull_requests":374.5}
+{"language":"XC","avglife_commits":180.0,"avglife_issues":180.0,"avglife_pull_requests":468.66667}
+{"language":"XML","avglife_commits":171.33333,"avglife_issues":208.22222,"avglife_pull_requests":215.11111}
+{"language":"XProc","avglife_commits":0.0,"avglife_issues":370.0,"avglife_pull_requests":0.0}
+{"language":"XQuery","avglife_commits":106.33333,"avglife_issues":177.0,"avglife_pull_requests":131.0}
+{"language":"XS","avglife_commits":314.0,"avglife_issues":0.0,"avglife_pull_requests":0.0}
+{"language":"XSLT","avglife_commits":215.57971,"avglife_issues":258.94203,"avglife_pull_requests":300.88406}
+{"language":"Xtend","avglife_commits":28.0,"avglife_issues":20.0,"avglife_pull_requests":90.0}
+{"language":"nesC","avglife_commits":202.6,"avglife_issues":417.8,"avglife_pull_requests":458.4}
+{"language":"ooc","avglife_commits":143.5,"avglife_issues":33.5,"avglife_pull_requests":364.5}
