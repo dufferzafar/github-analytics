@@ -31,43 +31,39 @@ assert(path_to_data)
 
 # Read projects.csv
 df_projects = spark.read.csv(
-    path=path_to_data+"projects.csv",
+    path=path_to_data + "projects.csv",
     schema=spark_schema_from_json(db_schema["projects.csv"]),
     nullValue="\\N",
 )
 
 
-
 # Read issues.csv
 df_issues = spark.read.csv(
-    path=path_to_data+"issues.csv",
+    path=path_to_data + "issues.csv",
     schema=spark_schema_from_json(db_schema["issues.csv"]),
     nullValue="\\N",
 )
 
 
-
 # Read commits.csv
 df_commits = spark.read.csv(
-    path=path_to_data+"commits.csv",
+    path=path_to_data + "commits.csv",
     schema=spark_schema_from_json(db_schema["commits.csv"]),
     nullValue="\\N",
 )
 
 
-
 # Read pull_requests.csv
 df_pull_requests = spark.read.csv(
-    path=path_to_data+"pull_requests.csv",
+    path=path_to_data + "pull_requests.csv",
     schema=spark_schema_from_json(db_schema["pull_requests.csv"]),
     nullValue="\\N",
 )
 
 
-
 # Read pull_request_history.csv
 df_pull_request_history = spark.read.csv(
-    path=path_to_data+"pull_request_history.csv",
+    path=path_to_data + "pull_request_history.csv",
     schema=spark_schema_from_json(db_schema["pull_request_history.csv"]),
     nullValue="\\N",
 )
@@ -128,34 +124,31 @@ last_act_plreq = df_pull_request_history.groupBy(df_pull_request_history.pull_re
 # last_act_plreq.show()
 
 
-
 df1 = df_pull_requests.alias("df1")
 df2 = last_act_plreq.alias("df2")
 
 # last action of pull request per (base repo, head repo)
 df_temp = df1.join(df2, sf.col("df1.id") == sf.col("df2.pull_request_id"), "inner") \
-            .select(df1.head_repo_id, df1.base_repo_id,df2.last_action_time) \
-            .where(df1.head_repo_id.isNotNull() & df1.base_repo_id.isNotNull()) \
-            .sort(sf.desc("last_action_time"))
+    .select(df1.head_repo_id, df1.base_repo_id, df2.last_action_time) \
+    .where(df1.head_repo_id.isNotNull() & df1.base_repo_id.isNotNull()) \
+    .sort(sf.desc("last_action_time"))
 
 # df_temp.show()
-
 
 
 df_temp.createOrReplaceTempView("temp")
 
 # takes two passes need to do in single pass
-query = """ 
-            SELECT temp.head_repo_id as project_id, temp.last_action_time 
+query = """
+            SELECT temp.head_repo_id as project_id, temp.last_action_time
             FROM temp WHERE temp.head_repo_id IS NOT NULL
             UNION ALL
-            SELECT temp.base_repo_id as project_id, temp.last_action_time 
+            SELECT temp.base_repo_id as project_id, temp.last_action_time
             FROM temp WHERE temp.base_repo_id IS NOT NULL
         """
 # last pull activity per repo
 last_pull_act_repo = spark.sql(query)
 # last_pull_act_repo.show()
-
 
 
 # first and last pull_request activity
@@ -206,7 +199,5 @@ query = """
 """
 lifespan_lang = spark.sql(query)
 # lifespan_lang.show()
-
-
 
 lifespan_lang.coalesce(1).write.json("avg-lifespan-per-language")
