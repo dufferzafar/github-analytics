@@ -80,6 +80,14 @@ We finally have all nodes on the UI! yay!
 
 In hindsight, we shouldn't have changed the usernames! (should we change them back :P)
 
+* Also got Yarn to work by providing a config having minimum RAM value.
+
+### 6/11/2017
+
+* Changed Yarn's RAM value to 3.5GB 
+
+* Installed Spark on all machines
+
 # Master
 
 * scp hadoop tarball to master
