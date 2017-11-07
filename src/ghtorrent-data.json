@@ -18,7 +18,6 @@
 
     // Size: 11.1 GB
     // Issue: description contains free text
-    // (issue in line 3060)
     "projects.csv": [
         "id", "url", "owner_id", "name", "description", "language", "created_at", "forked_from", "deleted", "updated_at"
     ],
