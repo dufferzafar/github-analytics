@@ -7,6 +7,10 @@ push-setup:
 copy-hadoop-config:
 	ssh -t vm1 cp /home/vm1/github-analytics/cluster-setup/hadoop/* /home/vm1/hadoop/etc/hadoop/
 
+stop-all: stop-dfs stop-yarn
+
+start-all: start-dfs start-yarn
+
 start-dfs:
 	./run vm1 "~/hadoop/sbin/hadoop-daemon.sh" start namenode
 
@@ -35,11 +39,18 @@ stop-yarn:
 	./run vm3 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
 	./run vm4 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
 
-sync-yarn-config:
-	scp hadoop/yarn-site.xml "vm1:~/hadoop/etc/hadoop/yarn-site.xml"
-	scp hadoop/yarn-site.xml "vm2:~/hadoop/etc/hadoop/yarn-site.xml"
-	scp hadoop/yarn-site.xml "vm3:~/hadoop/etc/hadoop/yarn-site.xml"
-	scp hadoop/yarn-site.xml "vm4:~/hadoop/etc/hadoop/yarn-site.xml"
+start-spark:
+	./run vm1 "~/spark/sbin/start-master.sh"
+
+	./run vm2 "~/spark/sbin/start-slave.sh" spark://vm1:7077
+	./run vm3 "~/spark/sbin/start-slave.sh" spark://vm1:7077
+	./run vm4 "~/spark/sbin/start-slave.sh" spark://vm1:7077
+
+sync-spark-config:
+	scp spark/* "vm1:~/spark/conf"
+	scp spark/* "vm2:~/spark/conf"
+	scp spark/* "vm3:~/spark/conf"
+	scp spark/* "vm4:~/spark/conf"
 
 restart-all:
 	./run-all sudo shutdown -r now
