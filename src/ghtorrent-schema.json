@@ -1,69 +1,99 @@
 {
     "users.csv": [
-        {"name": "id"           , "type": "long"      , "nullable": false , "metadata": {}} ,
-        {"name": "login"        , "type": "string"    , "nullable": false , "metadata": {}} ,
-        {"name": "company"      , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "created_at"   , "type": "timestamp" , "nullable": false , "metadata": {}} ,
-        {"name": "type"         , "type": "string"    , "nullable": false , "metadata": {}} ,
-        {"name": "fake"         , "type": "short"     , "nullable": false , "metadata": {}} ,
-        {"name": "deleted"      , "type": "short"     , "nullable": false , "metadata": {}} ,
-        {"name": "long"         , "type": "double"    , "nullable": true , "metadata": {}} ,
-        {"name": "lat"          , "type": "double"    , "nullable": true , "metadata": {}} ,
-        {"name": "country_code" , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "state"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "city"         , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "location"     , "type": "string"    , "nullable": true  , "metadata": {}}
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "login"           , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "company"         , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}} ,
+        {"name": "type"            , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "fake"            , "type": "short"     , "nullable": false , "metadata": {}} ,
+        {"name": "deleted"         , "type": "short"     , "nullable": false , "metadata": {}} ,
+        {"name": "long"            , "type": "double"    , "nullable": true  , "metadata": {}} ,
+        {"name": "lat"             , "type": "double"    , "nullable": true  , "metadata": {}} ,
+        {"name": "country_code"    , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "state"           , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "city"            , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "location"        , "type": "string"    , "nullable": true  , "metadata": {}}
+    ],
+
+    "user_more.csv": [
+        {"name": "user_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "following"       , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "followers"       , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "starred"         , "type": "long"      , "nullable": true  , "metadata": {}} ,
+
     ],
 
     "projects.csv": [
-        {"name": "id"           , "type": "long"      , "nullable": false , "metadata": {}} ,
-        {"name": "url"          , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "owner_id"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "name"         , "type": "string"    , "nullable": false , "metadata": {}} ,
-        {"name": "descriptor"   , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "language"     , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "created_at"   , "type": "timestamp" , "nullable": false , "metadata": {}} ,
-        {"name": "forked_from"  , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "deleted"      , "type": "short"     , "nullable": false , "metadata": {}} ,
-        {"name": "updated_at"   , "type": "timestamp" , "nullable": false , "metadata": {}} ,
-        {"name": "unknown"      , "type": "long"      , "nullable": true  , "metadata": {}} 
+        {"name": "id"              , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "url"             , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "owner_id"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "name"            , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "descriptor"      , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "language"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"      , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "forked_from"     , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "deleted"         , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "updated_at"      , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "unknown"         , "type": "string"    , "nullable": true  , "metadata": {}}
+    ],
+
+    "projects_new.csv": [
+        {"name": "id"              , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "url"             , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "owner_id"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "language"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"      , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "forked_from"     , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "deleted"         , "type": "string"    , "nullable": false , "metadata": {}} ,
     ],
 
     "commits.csv": [
-        {"name": "id"           , "type": "long"      ,"nullable": false  , "metadata" : {}},
-        {"name": "sha"          , "type": "string"    ,"nullable": true   , "metadata" : {}},
-        {"name": "author_id"    , "type": "long"      ,"nullable": true   , "metadata" : {}},
-        {"name": "committer_id" , "type": "long"      ,"nullable": true   , "metadata" : {}},
-        {"name": "project_id"   , "type": "long"      ,"nullable": true   , "metadata" : {}},
-        {"name": "created_at"   , "type": "timestamp" ,"nullable": false  , "metadata" : {}}
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata" : {}} ,
+        {"name": "sha"             , "type": "string"    , "nullable": true  , "metadata" : {}} ,
+        {"name": "author_id"       , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "committer_id"    , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "project_id"      , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata" : {}}
     ],
 
     "pull_requests.csv": [
-        {"name": "id"               , "type": "long"  , "nullable": false ,"metadata": {}} ,
-        {"name": "head_repo_id"     , "type": "long"  , "nullable": true  ,"metadata": {}} ,
-        {"name": "base_repo_id"     , "type": "long"  , "nullable": false ,"metadata": {}} ,
-        {"name": "head_commit_id"   , "type": "long"  , "nullable": true  ,"metadata": {}} ,
-        {"name": "base_commit_id"   , "type": "long"  , "nullable": false ,"metadata": {}} ,
-        {"name": "pullreq_id"       , "type": "long"  , "nullable": false ,"metadata": {}} ,
-        {"name": "intra_branch"     , "type": "short" , "nullable": false ,"metadata": {}} 
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "head_repo_id"    , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "base_repo_id"    , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "head_commit_id"  , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "base_commit_id"  , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "pullreq_id"      , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "intra_branch"    , "type": "short"     , "nullable": false , "metadata": {}}
     ],
 
     "issues.csv": [
-        {"name": "id"               , "type": "long"        ,"nullable": false ,"metadata": {}} ,
-        {"name": "repo_id"          , "type": "long"        ,"nullable": true  ,"metadata": {}} ,
-        {"name": "reporter_id"      , "type": "long"        ,"nullable": true  ,"metadata": {}} ,
-        {"name": "assignee_id"      , "type": "long"        ,"nullable": true  ,"metadata": {}} ,
-        {"name": "pull_request"     , "type": "short"       ,"nullable": false ,"metadata": {}} ,
-        {"name": "pull_request_id"  , "type": "long"        ,"nullable": true  ,"metadata": {}} ,
-        {"name": "created_at"       , "type": "timestamp"   ,"nullable": false ,"metadata": {}} ,
-        {"name": "issue_id"         , "type": "long"        ,"nullable": false ,"metadata": {}} 
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "repo_id"         , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "reporter_id"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "assignee_id"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "pull_request"    , "type": "short"     , "nullable": false , "metadata": {}} ,
+        {"name": "pull_request_id" , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}} ,
+        {"name": "issue_id"        , "type": "long"      , "nullable": false , "metadata": {}}
     ],
 
     "pull_request_history.csv": [
-        { "name":"id"               , "type": "long"        , "nullable": false ,"metadata": {}} ,
-        { "name":"pull_request_id"  , "type": "long"        , "nullable": false ,"metadata": {}} ,
-        { "name":"created_at"       , "type": "timestamp"   , "nullable": false ,"metadata": {}} ,
-        { "name":"action"           , "type": "string"      , "nullable": false ,"metadata": {}} ,
-        { "name":"actor_id"         , "type": "long"        , "nullable": true  ,"metadata": {}} 
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "pull_request_id" , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}} ,
+        {"name": "action"          , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "actor_id"        , "type": "long"      , "nullable": true  , "metadata": {}}
+    ],
+
+    "followers.csv": [
+        {"name": "follower_id"     , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "user_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}}
+    ],
+
+    "watchers.csv": [
+        {"name": "repo_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "user_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}}
     ]
 }
