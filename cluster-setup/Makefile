@@ -40,11 +40,18 @@ stop-yarn:
 	./run vm4 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
 
 start-spark:
-	./run vm1 "~/spark/sbin/start-master.sh"
+	./run vm1 "~/spark/sbin/start-master.sh" -h vm1
+	./run vm1 "~/spark/sbin/start-slave.sh" -c 2 -m 3G spark://vm1:7077
+	./run vm2 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
+	./run vm3 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
+	./run vm4 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
 
-	./run vm2 "~/spark/sbin/start-slave.sh" spark://vm1:7077
-	./run vm3 "~/spark/sbin/start-slave.sh" spark://vm1:7077
-	./run vm4 "~/spark/sbin/start-slave.sh" spark://vm1:7077
+stop-spark:
+	./run vm1 "~/spark/sbin/stop-master.sh"
+	./run vm1 "~/spark/sbin/stop-slave.sh"  
+	./run vm2 "~/spark/sbin/stop-slave.sh" 
+	./run vm3 "~/spark/sbin/stop-slave.sh" 
+	./run vm4 "~/spark/sbin/stop-slave.sh" 
 
 sync-spark-config:
 	scp spark/* "vm1:~/spark/conf"
