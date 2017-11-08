@@ -7,9 +7,9 @@ push-setup:
 copy-hadoop-config:
 	ssh -t vm1 cp /home/vm1/github-analytics/cluster-setup/hadoop/* /home/vm1/hadoop/etc/hadoop/
 
-stop-all: stop-dfs stop-yarn
+stop-all: stop-dfs stop-spark
 
-start-all: start-dfs start-yarn
+start-all: start-dfs start-spark
 
 start-dfs:
 	./run vm1 "~/hadoop/sbin/hadoop-daemon.sh" start namenode
@@ -41,7 +41,8 @@ stop-yarn:
 
 start-spark:
 	./run vm1 "~/spark/sbin/start-master.sh" -h vm1
-	./run vm1 "~/spark/sbin/start-slave.sh" -c 2 -m 3G spark://vm1:7077
+	./run vm1 "~/spark/sbin/start-slave.sh" -c 1 -m 3G spark://vm1:7077
+
 	./run vm2 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
 	./run vm3 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
 	./run vm4 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
@@ -49,6 +50,7 @@ start-spark:
 stop-spark:
 	./run vm1 "~/spark/sbin/stop-master.sh"
 	./run vm1 "~/spark/sbin/stop-slave.sh"  
+
 	./run vm2 "~/spark/sbin/stop-slave.sh" 
 	./run vm3 "~/spark/sbin/stop-slave.sh" 
 	./run vm4 "~/spark/sbin/stop-slave.sh" 
@@ -59,7 +61,7 @@ sync-spark-config:
 	scp spark/* "vm3:~/spark/conf"
 	scp spark/* "vm4:~/spark/conf"
 
-restart-all:
+restart-all: stop-all
 	./run-all sudo shutdown -r now
 
 hdfs-du:
