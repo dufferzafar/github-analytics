@@ -9,7 +9,7 @@ push-setup:
 copy-hadoop-config:
 	ssh -t vm1 cp /home/vm1/github-analytics/cluster-setup/hadoop/* /home/vm1/hadoop/etc/hadoop/
 
-stop-all: stop-dfs stop-spark
+stop-all: stop-dfs stop-spark stop-pyspark
 
 start-all: start-dfs start-spark
 
@@ -35,13 +35,20 @@ start-spark:
 	./run vm3 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
 	./run vm4 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
 
-stop-spark:
+stop-spark: stop-pyspark
 	./run vm1 "~/spark/sbin/stop-master.sh"
 	@# ./run vm1 "~/spark/sbin/stop-slave.sh"
 
 	./run vm2 "~/spark/sbin/stop-slave.sh"
 	./run vm3 "~/spark/sbin/stop-slave.sh"
 	./run vm4 "~/spark/sbin/stop-slave.sh"
+
+start-pyspark:
+	./run vm1 "~/spark/bin/pyspark" --master spark://vm1:7077 --deploy-mode client --executor-cores 2 --executor-memory 3G --driver-memory 6G --conf spark.driver.maxResultSize=3G
+
+stop-pyspark:
+	./run vm1 pkill jupyter
+	./run vm1 pkill pyspark
 
 sync-spark-config:
 	scp spark/* "vm1:~/spark/conf"
