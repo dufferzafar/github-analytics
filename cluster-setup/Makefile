@@ -1,3 +1,5 @@
+MY_IP := $(shell ifconfig wlp2s0 | grep "inet addr:" | cut -d: -f2 | cut -d " " -f 1)
+
 push-setup:
 	rsync -r . vm1:/home/vm1/github-analytics/cluster-setup/
 	rsync -r . vm2:/home/vm2/github-analytics/cluster-setup/
@@ -49,11 +51,11 @@ start-spark:
 
 stop-spark:
 	./run vm1 "~/spark/sbin/stop-master.sh"
-	./run vm1 "~/spark/sbin/stop-slave.sh"  
+	./run vm1 "~/spark/sbin/stop-slave.sh"
 
-	./run vm2 "~/spark/sbin/stop-slave.sh" 
-	./run vm3 "~/spark/sbin/stop-slave.sh" 
-	./run vm4 "~/spark/sbin/stop-slave.sh" 
+	./run vm2 "~/spark/sbin/stop-slave.sh"
+	./run vm3 "~/spark/sbin/stop-slave.sh"
+	./run vm4 "~/spark/sbin/stop-slave.sh"
 
 sync-spark-config:
 	scp spark/* "vm1:~/spark/conf"
@@ -69,3 +71,11 @@ hdfs-du:
 
 hdfs-report:
 	./run vm1 hdfs dfsadmin -report
+
+mount-src-harish:
+	@#./run vm1 mkdir -p "~/github-analytics/src-harish"
+	@echo sshfs hthuwal@$(MY_IP):/home/hthuwal/IITD/COP701/github-analytics/src /home/vm1/github-analytics/src-harish
+
+mount-src-zafar:
+	@#./run vm1 mkdir -p "~/github-analytics/src-zafar"
+	@echo sshfs dufferzafar@$(MY_IP):/home/dufferzafar/dev/github-analytics/src /home/vm1/github-analytics/src-zafar
