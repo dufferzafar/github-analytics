@@ -26,3 +26,20 @@ def load_schema():
 def remove(path):
     if os.path.exists(path):
         shutil.rmtree(path)
+
+
+def read_csv(spark_ctx, path, schema_key=None):
+
+    # Extract filename from path
+    file = os.path.basename(path)
+
+    if schema_key is None:
+        schema_key = file
+
+    schema = load_schema()[schema_key]
+
+    return spark_ctx.read.csv(
+        path=path,
+        schema=spark_schema_from_json(schema),
+        nullValue="\\N",
+    )
