@@ -27,20 +27,6 @@ stop-dfs:
 	./run vm3 "~/hadoop/sbin/hadoop-daemon.sh" stop datanode
 	./run vm4 "~/hadoop/sbin/hadoop-daemon.sh" stop datanode
 
-start-yarn:
-	./run vm1 "~/hadoop/sbin/yarn-daemon.sh" start resourcemanager
-
-	./run vm2 "~/hadoop/sbin/yarn-daemon.sh" start nodemanager
-	./run vm3 "~/hadoop/sbin/yarn-daemon.sh" start nodemanager
-	./run vm4 "~/hadoop/sbin/yarn-daemon.sh" start nodemanager
-
-stop-yarn:
-	./run vm1 "~/hadoop/sbin/yarn-daemon.sh" stop resourcemanager
-
-	./run vm2 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
-	./run vm3 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
-	./run vm4 "~/hadoop/sbin/yarn-daemon.sh" stop nodemanager
-
 start-spark:
 	./run vm1 "~/spark/sbin/start-master.sh" -h vm1
 	./run vm1 "~/spark/sbin/start-slave.sh" -c 1 -m 3G spark://vm1:7077
