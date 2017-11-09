@@ -1,117 +1,119 @@
-{"year":2016,"month":5,"count":612432}
-{"year":2017,"month":3,"count":498958}
-{"year":2016,"month":10,"count":477439}
-{"year":2016,"month":9,"count":465421}
-{"year":2016,"month":11,"count":451160}
-{"year":2017,"month":2,"count":450080}
-{"year":2017,"month":1,"count":428886}
-{"year":2017,"month":4,"count":424493}
-{"year":2016,"month":3,"count":419543}
-{"year":2017,"month":5,"count":411724}
-{"year":2016,"month":8,"count":410929}
-{"year":2016,"month":4,"count":392528}
-{"year":2017,"month":6,"count":390829}
-{"year":2017,"month":7,"count":385647}
-{"year":2017,"month":8,"count":380772}
-{"year":2015,"month":10,"count":375477}
-{"year":2015,"month":9,"count":370994}
-{"year":2016,"month":12,"count":364969}
-{"year":2016,"month":6,"count":363472}
-{"year":2016,"month":7,"count":362567}
-{"year":2016,"month":2,"count":361548}
-{"year":2015,"month":8,"count":354583}
-{"year":2015,"month":3,"count":345978}
-{"year":2016,"month":1,"count":345353}
-{"year":2014,"month":10,"count":324038}
-{"year":2015,"month":4,"count":314118}
-{"year":2015,"month":12,"count":308428}
-{"year":2015,"month":2,"count":301506}
-{"year":2015,"month":6,"count":301490}
-{"year":2015,"month":5,"count":299320}
-{"year":2015,"month":11,"count":297947}
-{"year":2015,"month":1,"count":294798}
-{"year":2014,"month":12,"count":274639}
-{"year":2012,"month":8,"count":264142}
-{"year":2012,"month":10,"count":240356}
-{"year":2012,"month":11,"count":234293}
-{"year":2012,"month":9,"count":226977}
-{"year":2013,"month":10,"count":225418}
-{"year":2014,"month":3,"count":218098}
-{"year":2014,"month":6,"count":213667}
-{"year":2014,"month":4,"count":212750}
-{"year":2014,"month":7,"count":209984}
-{"year":2014,"month":11,"count":204741}
-{"year":2015,"month":7,"count":203222}
-{"year":2014,"month":9,"count":203068}
-{"year":2014,"month":5,"count":199774}
-{"year":2013,"month":2,"count":192900}
-{"year":2014,"month":2,"count":192641}
-{"year":2014,"month":8,"count":190762}
-{"year":2014,"month":1,"count":189617}
-{"year":2013,"month":11,"count":182060}
-{"year":2013,"month":7,"count":174404}
-{"year":2013,"month":5,"count":166832}
-{"year":2013,"month":3,"count":164367}
-{"year":2013,"month":12,"count":159138}
-{"year":2013,"month":8,"count":158280}
-{"year":2013,"month":1,"count":156052}
-{"year":2012,"month":7,"count":155673}
-{"year":2013,"month":6,"count":151143}
-{"year":2013,"month":4,"count":145824}
-{"year":2013,"month":9,"count":142418}
-{"year":2012,"month":12,"count":122158}
-{"year":2012,"month":3,"count":106100}
-{"year":2012,"month":5,"count":104374}
-{"year":2012,"month":6,"count":99617}
-{"year":2012,"month":1,"count":98959}
-{"year":2012,"month":4,"count":93900}
-{"year":2012,"month":2,"count":85010}
-{"year":2011,"month":9,"count":75537}
-{"year":2011,"month":10,"count":69615}
-{"year":2011,"month":11,"count":67824}
-{"year":2011,"month":8,"count":67476}
-{"year":2011,"month":6,"count":65548}
-{"year":2011,"month":12,"count":62919}
-{"year":2011,"month":7,"count":62826}
-{"year":2011,"month":5,"count":60102}
-{"year":2011,"month":3,"count":58435}
-{"year":2011,"month":4,"count":58162}
-{"year":2011,"month":1,"count":50227}
-{"year":2011,"month":2,"count":49367}
-{"year":2010,"month":11,"count":41094}
-{"year":2010,"month":9,"count":39687}
-{"year":2010,"month":10,"count":38823}
-{"year":2010,"month":12,"count":38457}
-{"year":2010,"month":8,"count":31770}
-{"year":2010,"month":7,"count":29373}
-{"year":2010,"month":5,"count":28370}
-{"year":2010,"month":6,"count":26397}
-{"year":2010,"month":4,"count":22081}
-{"year":2010,"month":3,"count":21578}
-{"year":2010,"month":2,"count":19053}
-{"year":2010,"month":1,"count":18345}
-{"year":2009,"month":10,"count":13477}
-{"year":2009,"month":12,"count":13002}
-{"year":2009,"month":11,"count":12639}
-{"year":2009,"month":9,"count":11602}
-{"year":2009,"month":8,"count":10845}
-{"year":2009,"month":5,"count":10647}
-{"year":2009,"month":4,"count":10442}
-{"year":2009,"month":7,"count":10151}
-{"year":2009,"month":3,"count":10035}
-{"year":2009,"month":6,"count":9922}
-{"year":2009,"month":2,"count":8086}
-{"year":2009,"month":1,"count":7085}
-{"year":2008,"month":12,"count":6078}
-{"year":2008,"month":11,"count":5315}
-{"year":2008,"month":10,"count":5047}
-{"year":2008,"month":4,"count":4791}
-{"year":2008,"month":9,"count":4343}
-{"year":2008,"month":7,"count":3557}
-{"year":2008,"month":8,"count":3508}
-{"year":2008,"month":6,"count":3439}
-{"year":2008,"month":5,"count":3170}
-{"year":2008,"month":3,"count":2339}
-{"year":2008,"month":2,"count":1750}
-{"year":2008,"month":1,"count":79}
-{"year":2007,"month":10,"count":3}
+[
+    {"year":2016,"month":5,"count":612432},
+    {"year":2017,"month":3,"count":498958},
+    {"year":2016,"month":10,"count":477439},
+    {"year":2016,"month":9,"count":465421},
+    {"year":2016,"month":11,"count":451160},
+    {"year":2017,"month":2,"count":450080},
+    {"year":2017,"month":1,"count":428886},
+    {"year":2017,"month":4,"count":424493},
+    {"year":2016,"month":3,"count":419543},
+    {"year":2017,"month":5,"count":411724},
+    {"year":2016,"month":8,"count":410929},
+    {"year":2016,"month":4,"count":392528},
+    {"year":2017,"month":6,"count":390829},
+    {"year":2017,"month":7,"count":385647},
+    {"year":2017,"month":8,"count":380772},
+    {"year":2015,"month":10,"count":375477},
+    {"year":2015,"month":9,"count":370994},
+    {"year":2016,"month":12,"count":364969},
+    {"year":2016,"month":6,"count":363472},
+    {"year":2016,"month":7,"count":362567},
+    {"year":2016,"month":2,"count":361548},
+    {"year":2015,"month":8,"count":354583},
+    {"year":2015,"month":3,"count":345978},
+    {"year":2016,"month":1,"count":345353},
+    {"year":2014,"month":10,"count":324038},
+    {"year":2015,"month":4,"count":314118},
+    {"year":2015,"month":12,"count":308428},
+    {"year":2015,"month":2,"count":301506},
+    {"year":2015,"month":6,"count":301490},
+    {"year":2015,"month":5,"count":299320},
+    {"year":2015,"month":11,"count":297947},
+    {"year":2015,"month":1,"count":294798},
+    {"year":2014,"month":12,"count":274639},
+    {"year":2012,"month":8,"count":264142},
+    {"year":2012,"month":10,"count":240356},
+    {"year":2012,"month":11,"count":234293},
+    {"year":2012,"month":9,"count":226977},
+    {"year":2013,"month":10,"count":225418},
+    {"year":2014,"month":3,"count":218098},
+    {"year":2014,"month":6,"count":213667},
+    {"year":2014,"month":4,"count":212750},
+    {"year":2014,"month":7,"count":209984},
+    {"year":2014,"month":11,"count":204741},
+    {"year":2015,"month":7,"count":203222},
+    {"year":2014,"month":9,"count":203068},
+    {"year":2014,"month":5,"count":199774},
+    {"year":2013,"month":2,"count":192900},
+    {"year":2014,"month":2,"count":192641},
+    {"year":2014,"month":8,"count":190762},
+    {"year":2014,"month":1,"count":189617},
+    {"year":2013,"month":11,"count":182060},
+    {"year":2013,"month":7,"count":174404},
+    {"year":2013,"month":5,"count":166832},
+    {"year":2013,"month":3,"count":164367},
+    {"year":2013,"month":12,"count":159138},
+    {"year":2013,"month":8,"count":158280},
+    {"year":2013,"month":1,"count":156052},
+    {"year":2012,"month":7,"count":155673},
+    {"year":2013,"month":6,"count":151143},
+    {"year":2013,"month":4,"count":145824},
+    {"year":2013,"month":9,"count":142418},
+    {"year":2012,"month":12,"count":122158},
+    {"year":2012,"month":3,"count":106100},
+    {"year":2012,"month":5,"count":104374},
+    {"year":2012,"month":6,"count":99617},
+    {"year":2012,"month":1,"count":98959},
+    {"year":2012,"month":4,"count":93900},
+    {"year":2012,"month":2,"count":85010},
+    {"year":2011,"month":9,"count":75537},
+    {"year":2011,"month":10,"count":69615},
+    {"year":2011,"month":11,"count":67824},
+    {"year":2011,"month":8,"count":67476},
+    {"year":2011,"month":6,"count":65548},
+    {"year":2011,"month":12,"count":62919},
+    {"year":2011,"month":7,"count":62826},
+    {"year":2011,"month":5,"count":60102},
+    {"year":2011,"month":3,"count":58435},
+    {"year":2011,"month":4,"count":58162},
+    {"year":2011,"month":1,"count":50227},
+    {"year":2011,"month":2,"count":49367},
+    {"year":2010,"month":11,"count":41094},
+    {"year":2010,"month":9,"count":39687},
+    {"year":2010,"month":10,"count":38823},
+    {"year":2010,"month":12,"count":38457},
+    {"year":2010,"month":8,"count":31770},
+    {"year":2010,"month":7,"count":29373},
+    {"year":2010,"month":5,"count":28370},
+    {"year":2010,"month":6,"count":26397},
+    {"year":2010,"month":4,"count":22081},
+    {"year":2010,"month":3,"count":21578},
+    {"year":2010,"month":2,"count":19053},
+    {"year":2010,"month":1,"count":18345},
+    {"year":2009,"month":10,"count":13477},
+    {"year":2009,"month":12,"count":13002},
+    {"year":2009,"month":11,"count":12639},
+    {"year":2009,"month":9,"count":11602},
+    {"year":2009,"month":8,"count":10845},
+    {"year":2009,"month":5,"count":10647},
+    {"year":2009,"month":4,"count":10442},
+    {"year":2009,"month":7,"count":10151},
+    {"year":2009,"month":3,"count":10035},
+    {"year":2009,"month":6,"count":9922},
+    {"year":2009,"month":2,"count":8086},
+    {"year":2009,"month":1,"count":7085},
+    {"year":2008,"month":12,"count":6078},
+    {"year":2008,"month":11,"count":5315},
+    {"year":2008,"month":10,"count":5047},
+    {"year":2008,"month":4,"count":4791},
+    {"year":2008,"month":9,"count":4343},
+    {"year":2008,"month":7,"count":3557},
+    {"year":2008,"month":8,"count":3508},
+    {"year":2008,"month":6,"count":3439},
+    {"year":2008,"month":5,"count":3170},
+    {"year":2008,"month":3,"count":2339},
+    {"year":2008,"month":2,"count":1750},
+    {"year":2008,"month":1,"count":79},
+    {"year":2007,"month":10,"count":3}
+]

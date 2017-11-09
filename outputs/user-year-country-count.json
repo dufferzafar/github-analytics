@@ -1,1868 +1,1870 @@
-{"year":2014,"country_code":"us","count":90094}
-{"year":2015,"country_code":"us","count":82353}
-{"year":2013,"country_code":"us","count":78029}
-{"year":2012,"country_code":"us","count":71209}
-{"year":2011,"country_code":"us","count":54710}
-{"year":2016,"country_code":"us","count":49889}
-{"year":2010,"country_code":"us","count":28802}
-{"year":2015,"country_code":"in","count":23749}
-{"year":2014,"country_code":"in","count":21972}
-{"year":2015,"country_code":"cn","count":19810}
-{"year":2013,"country_code":"cn","count":19182}
-{"year":2014,"country_code":"cn","count":18955}
-{"year":2013,"country_code":"in","count":17464}
-{"year":2009,"country_code":"us","count":15947}
-{"year":2016,"country_code":"in","count":15646}
-{"year":2014,"country_code":"gb","count":15452}
-{"year":2013,"country_code":"gb","count":14158}
-{"year":2012,"country_code":"gb","count":13862}
-{"year":2016,"country_code":"cn","count":13683}
-{"year":2015,"country_code":"gb","count":13486}
-{"year":2012,"country_code":"cn","count":13035}
-{"year":2012,"country_code":"in","count":12472}
-{"year":2014,"country_code":"de","count":12367}
-{"year":2013,"country_code":"de","count":11768}
-{"year":2012,"country_code":"de","count":11499}
-{"year":2015,"country_code":"de","count":11460}
-{"year":2011,"country_code":"gb","count":10363}
-{"year":2014,"country_code":"br","count":9883}
-{"year":2014,"country_code":"ca","count":9750}
-{"year":2015,"country_code":"br","count":9441}
-{"year":2014,"country_code":"fr","count":9374}
-{"year":2013,"country_code":"br","count":9299}
-{"year":2015,"country_code":"ca","count":9036}
-{"year":2013,"country_code":"ca","count":8865}
-{"year":2013,"country_code":"fr","count":8653}
-{"year":2011,"country_code":"de","count":8525}
-{"year":2008,"country_code":"us","count":8451}
-{"year":2015,"country_code":"fr","count":8262}
-{"year":2012,"country_code":"fr","count":8108}
-{"year":2016,"country_code":"gb","count":8019}
-{"year":2013,"country_code":"ru","count":7723}
-{"year":2012,"country_code":"ca","count":7695}
-{"year":2012,"country_code":"br","count":7388}
-{"year":2014,"country_code":"ru","count":7209}
-{"year":2012,"country_code":"ru","count":7197}
-{"year":2011,"country_code":"cn","count":7009}
-{"year":2015,"country_code":"ru","count":6966}
-{"year":2011,"country_code":"in","count":6793}
-{"year":2016,"country_code":"de","count":6210}
-{"year":2016,"country_code":"br","count":5839}
-{"year":2011,"country_code":"ca","count":5641}
-{"year":2010,"country_code":"gb","count":5601}
-{"year":2012,"country_code":"jp","count":5595}
-{"year":2014,"country_code":"au","count":5465}
-{"year":2011,"country_code":"fr","count":5452}
-{"year":2011,"country_code":"br","count":5411}
-{"year":2016,"country_code":"ca","count":5359}
-{"year":2014,"country_code":"es","count":5322}
-{"year":2015,"country_code":"ua","count":5221}
-{"year":2013,"country_code":"au","count":5118}
-{"year":2011,"country_code":"ru","count":5085}
-{"year":2015,"country_code":"au","count":5056}
-{"year":2012,"country_code":"au","count":5039}
-{"year":2013,"country_code":"jp","count":4955}
-{"year":2014,"country_code":"nl","count":4923}
-{"year":2013,"country_code":"es","count":4874}
-{"year":2014,"country_code":"jp","count":4824}
-{"year":2013,"country_code":"nl","count":4801}
-{"year":2015,"country_code":"es","count":4800}
-{"year":2010,"country_code":"de","count":4724}
-{"year":2016,"country_code":"ru","count":4706}
-{"year":2012,"country_code":"nl","count":4441}
-{"year":2016,"country_code":"fr","count":4327}
-{"year":2015,"country_code":"jp","count":4312}
-{"year":2015,"country_code":"nl","count":4295}
-{"year":2012,"country_code":"es","count":4149}
-{"year":2014,"country_code":"ua","count":4139}
-{"year":2011,"country_code":"jp","count":4057}
-{"year":2011,"country_code":"au","count":4016}
-{"year":2014,"country_code":"pl","count":3867}
-{"year":2013,"country_code":"ua","count":3827}
-{"year":2013,"country_code":"se","count":3646}
-{"year":2012,"country_code":"se","count":3488}
-{"year":2015,"country_code":"pl","count":3473}
-{"year":2014,"country_code":"it","count":3439}
-{"year":2015,"country_code":"id","count":3398}
-{"year":2014,"country_code":"se","count":3357}
-{"year":2011,"country_code":"nl","count":3356}
-{"year":2013,"country_code":"pl","count":3336}
-{"year":2016,"country_code":"ua","count":3228}
-{"year":2012,"country_code":"ua","count":3159}
-{"year":2011,"country_code":"se","count":3125}
-{"year":2016,"country_code":"au","count":3100}
-{"year":2013,"country_code":"it","count":3082}
-{"year":2015,"country_code":"it","count":3070}
-{"year":2014,"country_code":"id","count":3042}
-{"year":2011,"country_code":"es","count":2979}
-{"year":2009,"country_code":"gb","count":2972}
-{"year":2010,"country_code":"ca","count":2971}
-{"year":2015,"country_code":"se","count":2842}
-{"year":2010,"country_code":"fr","count":2831}
-{"year":2012,"country_code":"pl","count":2824}
-{"year":2014,"country_code":"mx","count":2782}
-{"year":2010,"country_code":"cn","count":2677}
-{"year":2010,"country_code":"br","count":2626}
-{"year":2010,"country_code":"in","count":2597}
-{"year":2016,"country_code":"es","count":2561}
-{"year":2009,"country_code":"de","count":2560}
-{"year":2012,"country_code":"it","count":2522}
-{"year":2016,"country_code":"nl","count":2509}
-{"year":2013,"country_code":"id","count":2508}
-{"year":2016,"country_code":"pl","count":2498}
-{"year":2015,"country_code":"mx","count":2484}
-{"year":2014,"country_code":"tr","count":2433}
-{"year":2016,"country_code":"id","count":2413}
-{"year":2013,"country_code":"mx","count":2300}
-{"year":2013,"country_code":"tr","count":2277}
-{"year":2013,"country_code":"kr","count":2210}
-{"year":2016,"country_code":"jp","count":2202}
-{"year":2014,"country_code":"ch","count":2173}
-{"year":2015,"country_code":"tr","count":2156}
-{"year":2010,"country_code":"ru","count":2144}
-{"year":2010,"country_code":"au","count":2126}
-{"year":2013,"country_code":"ch","count":2104}
-{"year":2014,"country_code":"tw","count":2075}
-{"year":2015,"country_code":"vn","count":2072}
-{"year":2014,"country_code":"kr","count":2066}
-{"year":2015,"country_code":"kr","count":2065}
-{"year":2010,"country_code":"jp","count":2055}
-{"year":2012,"country_code":"ch","count":2039}
-{"year":2012,"country_code":"id","count":2028}
-{"year":2013,"country_code":"tw","count":2000}
-{"year":2015,"country_code":"ch","count":1990}
-{"year":2011,"country_code":"ua","count":1982}
-{"year":2011,"country_code":"pl","count":1970}
-{"year":2014,"country_code":"vn","count":1951}
-{"year":2012,"country_code":"mx","count":1881}
-{"year":2014,"country_code":"be","count":1855}
-{"year":2013,"country_code":"be","count":1842}
-{"year":2013,"country_code":"ar","count":1829}
-{"year":2017,"country_code":"us","count":1824}
-{"year":2012,"country_code":"kr","count":1795}
-{"year":2015,"country_code":"tw","count":1770}
-{"year":2014,"country_code":"ar","count":1753}
-{"year":2011,"country_code":"it","count":1746}
-{"year":2012,"country_code":"dk","count":1740}
-{"year":2016,"country_code":"it","count":1725}
-{"year":2010,"country_code":"nl","count":1709}
-{"year":2012,"country_code":"ar","count":1705}
-{"year":2012,"country_code":"tr","count":1695}
-{"year":2014,"country_code":"dk","count":1695}
-{"year":2010,"country_code":"se","count":1665}
-{"year":2013,"country_code":"dk","count":1656}
-{"year":2011,"country_code":"ch","count":1655}
-{"year":2012,"country_code":"be","count":1615}
-{"year":2014,"country_code":"pt","count":1615}
-{"year":2015,"country_code":"ar","count":1615}
-{"year":2013,"country_code":"vn","count":1614}
-{"year":2015,"country_code":"be","count":1577}
-{"year":2014,"country_code":"co","count":1564}
-{"year":2014,"country_code":"nz","count":1556}
-{"year":2012,"country_code":"no","count":1549}
-{"year":2009,"country_code":"ca","count":1545}
-{"year":2016,"country_code":"se","count":1526}
-{"year":2016,"country_code":"mx","count":1513}
-{"year":2015,"country_code":"za","count":1505}
-{"year":2014,"country_code":"ie","count":1503}
-{"year":2012,"country_code":"fi","count":1498}
-{"year":2013,"country_code":"no","count":1465}
-{"year":2013,"country_code":"pt","count":1453}
-{"year":2013,"country_code":"fi","count":1442}
-{"year":2015,"country_code":"nz","count":1435}
-{"year":2015,"country_code":"co","count":1420}
-{"year":2013,"country_code":"ie","count":1418}
-{"year":2014,"country_code":"fi","count":1405}
-{"year":2011,"country_code":"no","count":1403}
-{"year":2011,"country_code":"id","count":1395}
-{"year":2014,"country_code":"ro","count":1382}
-{"year":2014,"country_code":"sg","count":1381}
-{"year":2015,"country_code":"dk","count":1380}
-{"year":2011,"country_code":"dk","count":1380}
-{"year":2009,"country_code":"jp","count":1380}
-{"year":2015,"country_code":"pt","count":1380}
-{"year":2008,"country_code":"gb","count":1370}
-{"year":2014,"country_code":"za","count":1369}
-{"year":2012,"country_code":"tw","count":1367}
-{"year":2014,"country_code":"ph","count":1359}
-{"year":2015,"country_code":"ie","count":1351}
-{"year":2014,"country_code":"no","count":1344}
-{"year":2016,"country_code":"tr","count":1340}
-{"year":2015,"country_code":"bd","count":1340}
-{"year":2016,"country_code":"kr","count":1333}
-{"year":2015,"country_code":"pk","count":1328}
-{"year":2013,"country_code":"nz","count":1323}
-{"year":2015,"country_code":"ph","count":1322}
-{"year":2014,"country_code":"at","count":1303}
-{"year":2013,"country_code":"co","count":1297}
-{"year":2016,"country_code":"vn","count":1296}
-{"year":2009,"country_code":"br","count":1295}
-{"year":2015,"country_code":"sg","count":1291}
-{"year":2013,"country_code":"cz","count":1287}
-{"year":2013,"country_code":"ro","count":1274}
-{"year":2010,"country_code":"es","count":1270}
-{"year":2015,"country_code":"ro","count":1270}
-{"year":2013,"country_code":"za","count":1254}
-{"year":2013,"country_code":"sg","count":1254}
-{"year":2014,"country_code":"cz","count":1247}
-{"year":2015,"country_code":"no","count":1241}
-{"year":2015,"country_code":"fi","count":1230}
-{"year":2014,"country_code":"bd","count":1224}
-{"year":2012,"country_code":"ie","count":1219}
-{"year":2011,"country_code":"ar","count":1210}
-{"year":2011,"country_code":"be","count":1209}
-{"year":2013,"country_code":"at","count":1198}
-{"year":2012,"country_code":"at","count":1191}
-{"year":2011,"country_code":"mx","count":1190}
-{"year":2009,"country_code":"au","count":1184}
-{"year":2015,"country_code":"by","count":1179}
-{"year":2012,"country_code":"nz","count":1169}
-{"year":2012,"country_code":"cz","count":1166}
-{"year":2011,"country_code":"fi","count":1166}
-{"year":2014,"country_code":"pk","count":1159}
-{"year":2009,"country_code":"fr","count":1156}
-{"year":2012,"country_code":"ro","count":1151}
-{"year":2015,"country_code":"cz","count":1137}
-{"year":2013,"country_code":"ph","count":1135}
-{"year":2015,"country_code":"at","count":1120}
-{"year":2016,"country_code":"pk","count":1114}
-{"year":2012,"country_code":"pt","count":1110}
-{"year":2012,"country_code":"za","count":1101}
-{"year":2013,"country_code":"by","count":1093}
-{"year":2010,"country_code":"pl","count":1075}
-{"year":2014,"country_code":"by","count":1072}
-{"year":2011,"country_code":"kr","count":1069}
-{"year":2014,"country_code":"bg","count":1068}
-{"year":2016,"country_code":"ch","count":1062}
-{"year":2012,"country_code":"co","count":1060}
-{"year":2012,"country_code":"sg","count":1057}
-{"year":2011,"country_code":"tr","count":1042}
-{"year":2015,"country_code":"bg","count":1036}
-{"year":2009,"country_code":"cn","count":1026}
-{"year":2015,"country_code":"ir","count":1025}
-{"year":2012,"country_code":"vn","count":1011}
-{"year":2016,"country_code":"ph","count":1005}
-{"year":2014,"country_code":"il","count":995}
-{"year":2013,"country_code":"il","count":992}
-{"year":2016,"country_code":"za","count":990}
-{"year":2008,"country_code":"de","count":990}
-{"year":2012,"country_code":"by","count":983}
-{"year":2013,"country_code":"bg","count":976}
-{"year":2014,"country_code":"hu","count":969}
-{"year":2013,"country_code":"bd","count":965}
-{"year":2015,"country_code":"eg","count":964}
-{"year":2016,"country_code":"ar","count":963}
-{"year":2016,"country_code":"tw","count":962}
-{"year":2014,"country_code":"gr","count":953}
-{"year":2016,"country_code":"bd","count":949}
-{"year":2013,"country_code":"pk","count":949}
-{"year":2009,"country_code":"in","count":946}
-{"year":2016,"country_code":"be","count":939}
-{"year":2009,"country_code":"ru","count":937}
-{"year":2016,"country_code":"nz","count":928}
-{"year":2009,"country_code":"se","count":924}
-{"year":2015,"country_code":"gr","count":909}
-{"year":2010,"country_code":"it","count":908}
-{"year":2011,"country_code":"tw","count":906}
-{"year":2013,"country_code":"gr","count":900}
-{"year":2013,"country_code":"hu","count":895}
-{"year":2010,"country_code":"no","count":893}
-{"year":2011,"country_code":"at","count":882}
-{"year":2011,"country_code":"cz","count":879}
-{"year":2012,"country_code":"ph","count":875}
-{"year":2011,"country_code":"nz","count":871}
-{"year":2014,"country_code":"ir","count":870}
-{"year":2014,"country_code":"eg","count":870}
-{"year":2016,"country_code":"co","count":869}
-{"year":2014,"country_code":"cl","count":867}
-{"year":2013,"country_code":"cl","count":848}
-{"year":2011,"country_code":"ie","count":844}
-{"year":2011,"country_code":"pt","count":841}
-{"year":2013,"country_code":"ir","count":840}
-{"year":2015,"country_code":"cl","count":839}
-{"year":2016,"country_code":"ro","count":835}
-{"year":2014,"country_code":"th","count":833}
-{"year":2010,"country_code":"ch","count":831}
-{"year":2015,"country_code":"il","count":829}
-{"year":2012,"country_code":"il","count":827}
-{"year":2010,"country_code":"ua","count":816}
-{"year":2015,"country_code":"hu","count":813}
-{"year":2012,"country_code":"cl","count":808}
-{"year":2015,"country_code":"my","count":796}
-{"year":2016,"country_code":"sg","count":795}
-{"year":2015,"country_code":"th","count":795}
-{"year":2009,"country_code":"nl","count":794}
-{"year":2013,"country_code":"th","count":791}
-{"year":2011,"country_code":"ro","count":789}
-{"year":2011,"country_code":"za","count":786}
-{"year":2016,"country_code":"pt","count":784}
-{"year":2011,"country_code":"sg","count":770}
-{"year":2016,"country_code":"by","count":765}
-{"year":2014,"country_code":"hk","count":764}
-{"year":2016,"country_code":"eg","count":761}
-{"year":2016,"country_code":"fi","count":756}
-{"year":2008,"country_code":"ca","count":749}
-{"year":2016,"country_code":"ng","count":748}
-{"year":2012,"country_code":"th","count":747}
-{"year":2016,"country_code":"ie","count":742}
-{"year":2012,"country_code":"hu","count":737}
-{"year":2015,"country_code":"hk","count":734}
-{"year":2016,"country_code":"dk","count":733}
-{"year":2016,"country_code":"ir","count":729}
-{"year":2012,"country_code":"gr","count":721}
-{"year":2016,"country_code":"at","count":715}
-{"year":2008,"country_code":"jp","count":706}
-{"year":2015,"country_code":"ng","count":696}
-{"year":2015,"country_code":"rs","count":693}
-{"year":2014,"country_code":"ve","count":690}
-{"year":2014,"country_code":"my","count":685}
-{"year":2015,"country_code":"ve","count":671}
-{"year":2012,"country_code":"pk","count":669}
-{"year":2010,"country_code":"dk","count":664}
-{"year":2013,"country_code":"hk","count":663}
-{"year":2013,"country_code":"eg","count":654}
-{"year":2013,"country_code":"pe","count":649}
-{"year":2016,"country_code":"no","count":643}
-{"year":2012,"country_code":"bd","count":642}
-{"year":2012,"country_code":"bg","count":639}
-{"year":2016,"country_code":"bg","count":628}
-{"year":2011,"country_code":"ph","count":627}
-{"year":2008,"country_code":"au","count":622}
-{"year":2014,"country_code":"pe","count":617}
-{"year":2011,"country_code":"by","count":607}
-{"year":2016,"country_code":"gr","count":603}
-{"year":2009,"country_code":"pl","count":601}
-{"year":2008,"country_code":"br","count":597}
-{"year":2014,"country_code":"rs","count":586}
-{"year":2010,"country_code":"ar","count":582}
-{"year":2016,"country_code":"cz","count":581}
-{"year":2017,"country_code":"in","count":576}
-{"year":2011,"country_code":"il","count":576}
-{"year":2010,"country_code":"be","count":573}
-{"year":2011,"country_code":"co","count":568}
-{"year":2016,"country_code":"rs","count":567}
-{"year":2010,"country_code":"cz","count":566}
-{"year":2017,"country_code":"cn","count":566}
-{"year":2013,"country_code":"my","count":562}
-{"year":2011,"country_code":"gr","count":561}
-{"year":2016,"country_code":"hu","count":559}
-{"year":2013,"country_code":"rs","count":559}
-{"year":2012,"country_code":"ir","count":555}
-{"year":2016,"country_code":"th","count":554}
-{"year":2011,"country_code":"cl","count":547}
-{"year":2012,"country_code":"pe","count":545}
-{"year":2009,"country_code":"es","count":545}
-{"year":2011,"country_code":"hu","count":544}
-{"year":2012,"country_code":"hk","count":534}
-{"year":2010,"country_code":"id","count":530}
-{"year":2010,"country_code":"fi","count":526}
-{"year":2011,"country_code":"vn","count":523}
-{"year":2013,"country_code":"ve","count":522}
-{"year":2010,"country_code":"mx","count":521}
-{"year":2016,"country_code":"il","count":521}
-{"year":2010,"country_code":"tr","count":518}
-{"year":2015,"country_code":"pe","count":517}
-{"year":2010,"country_code":"at","count":516}
-{"year":2012,"country_code":"eg","count":501}
-{"year":2011,"country_code":"th","count":500}
-{"year":2015,"country_code":"ke","count":492}
-{"year":2014,"country_code":"ng","count":486}
-{"year":2010,"country_code":"nz","count":486}
-{"year":2014,"country_code":"hr","count":484}
-{"year":2009,"country_code":"no","count":476}
-{"year":2015,"country_code":"hr","count":476}
-{"year":2016,"country_code":"my","count":474}
-{"year":2016,"country_code":"ve","count":473}
-{"year":2016,"country_code":"hk","count":471}
-{"year":2015,"country_code":"ae","count":470}
-{"year":2016,"country_code":"cl","count":466}
-{"year":2013,"country_code":"hr","count":465}
-{"year":2010,"country_code":"kr","count":464}
-{"year":2012,"country_code":"ve","count":460}
-{"year":2009,"country_code":"ch","count":449}
-{"year":2010,"country_code":"ie","count":449}
-{"year":2010,"country_code":"pt","count":449}
-{"year":2012,"country_code":"my","count":448}
-{"year":2010,"country_code":"tw","count":440}
-{"year":2014,"country_code":"lk","count":433}
-{"year":2008,"country_code":"fr","count":421}
-{"year":2017,"country_code":"br","count":417}
-{"year":2009,"country_code":"it","count":413}
-{"year":2014,"country_code":"lt","count":411}
-{"year":2013,"country_code":"sk","count":410}
-{"year":2012,"country_code":"rs","count":408}
-{"year":2014,"country_code":"ae","count":408}
-{"year":2013,"country_code":"lt","count":398}
-{"year":2015,"country_code":"np","count":398}
-{"year":2014,"country_code":"np","count":396}
-{"year":2011,"country_code":"bg","count":395}
-{"year":2014,"country_code":"ke","count":390}
-{"year":2008,"country_code":"cn","count":384}
-{"year":2010,"country_code":"sg","count":379}
-{"year":2012,"country_code":"hr","count":379}
-{"year":2013,"country_code":"cr","count":377}
-{"year":2011,"country_code":"hk","count":375}
-{"year":2014,"country_code":"cr","count":374}
-{"year":2009,"country_code":"dk","count":372}
-{"year":2011,"country_code":"pk","count":372}
-{"year":2013,"country_code":"np","count":371}
-{"year":2013,"country_code":"lk","count":365}
-{"year":2013,"country_code":"ae","count":361}
-{"year":2014,"country_code":"sk","count":358}
-{"year":2015,"country_code":"lk","count":357}
-{"year":2016,"country_code":"ke","count":357}
-{"year":2016,"country_code":"np","count":356}
-{"year":2015,"country_code":"sk","count":356}
-{"year":2016,"country_code":"pe","count":353}
-{"year":2012,"country_code":"cr","count":351}
-{"year":2011,"country_code":"my","count":339}
-{"year":2011,"country_code":"pe","count":336}
-{"year":2010,"country_code":"ro","count":335}
-{"year":2016,"country_code":"ae","count":335}
-{"year":2015,"country_code":"cr","count":334}
-{"year":2009,"country_code":"fi","count":334}
-{"year":2013,"country_code":"ee","count":333}
-{"year":2008,"country_code":"se","count":332}
-{"year":2015,"country_code":"lt","count":331}
-{"year":2010,"country_code":"za","count":329}
-{"year":2015,"country_code":"ec","count":329}
-{"year":2014,"country_code":"ee","count":326}
-{"year":2013,"country_code":"ng","count":324}
-{"year":2017,"country_code":"gb","count":322}
-{"year":2011,"country_code":"eg","count":318}
-{"year":2012,"country_code":"ae","count":315}
-{"year":2013,"country_code":"ke","count":314}
-{"year":2010,"country_code":"hu","count":310}
-{"year":2009,"country_code":"nz","count":309}
-{"year":2013,"country_code":"uy","count":309}
-{"year":2012,"country_code":"lt","count":306}
-{"year":2009,"country_code":"be","count":305}
-{"year":2011,"country_code":"bd","count":305}
-{"year":2008,"country_code":"ru","count":303}
-{"year":2008,"country_code":"nl","count":303}
-{"year":2016,"country_code":"hr","count":301}
-{"year":2015,"country_code":"ma","count":300}
-{"year":2014,"country_code":"ec","count":298}
-{"year":2012,"country_code":"ee","count":296}
-{"year":2014,"country_code":"uy","count":295}
-{"year":2009,"country_code":"at","count":295}
-{"year":2014,"country_code":"tn","count":293}
-{"year":2013,"country_code":"si","count":292}
-{"year":2009,"country_code":"ua","count":292}
-{"year":2009,"country_code":"ar","count":291}
-{"year":2015,"country_code":"ee","count":291}
-{"year":2013,"country_code":"ec","count":291}
-{"year":2008,"country_code":"in","count":290}
-{"year":2012,"country_code":"sk","count":290}
-{"year":2013,"country_code":"lv","count":277}
-{"year":2012,"country_code":"lv","count":275}
-{"year":2009,"country_code":"tw","count":275}
-{"year":2010,"country_code":"il","count":274}
-{"year":2014,"country_code":"lv","count":272}
-{"year":2013,"country_code":"tn","count":271}
-{"year":2008,"country_code":"es","count":270}
-{"year":2014,"country_code":"si","count":262}
-{"year":2013,"country_code":"do","count":261}
-{"year":2011,"country_code":"hr","count":260}
-{"year":2010,"country_code":"th","count":255}
-{"year":2014,"country_code":"do","count":255}
-{"year":2016,"country_code":"lt","count":253}
-{"year":2015,"country_code":"tn","count":253}
-{"year":2011,"country_code":"ir","count":252}
-{"year":2013,"country_code":"ma","count":251}
-{"year":2012,"country_code":"si","count":251}
-{"year":2011,"country_code":"ee","count":250}
-{"year":2012,"country_code":"uy","count":247}
-{"year":2010,"country_code":"ph","count":245}
-{"year":2015,"country_code":"si","count":242}
-{"year":2012,"country_code":"lk","count":241}
-{"year":2010,"country_code":"cl","count":239}
-{"year":2014,"country_code":"ma","count":238}
-{"year":2011,"country_code":"rs","count":238}
-{"year":2011,"country_code":"sk","count":237}
-{"year":2011,"country_code":"ve","count":237}
-{"year":2016,"country_code":"ma","count":236}
-{"year":2010,"country_code":"by","count":236}
-{"year":2010,"country_code":"vn","count":235}
-{"year":2009,"country_code":"ie","count":230}
-{"year":2017,"country_code":"fr","count":229}
-{"year":2017,"country_code":"de","count":228}
-{"year":2009,"country_code":"cz","count":225}
-{"year":2011,"country_code":"lt","count":224}
-{"year":2015,"country_code":"uy","count":223}
-{"year":2010,"country_code":"co","count":221}
-{"year":2009,"country_code":"pt","count":221}
-{"year":2010,"country_code":"bg","count":221}
-{"year":2015,"country_code":"lv","count":218}
-{"year":2015,"country_code":"pr","count":217}
-{"year":2015,"country_code":"gt","count":215}
-{"year":2016,"country_code":"lk","count":214}
-{"year":2016,"country_code":"cr","count":214}
-{"year":2012,"country_code":"do","count":211}
-{"year":2011,"country_code":"uy","count":211}
-{"year":2013,"country_code":"kz","count":211}
-{"year":2008,"country_code":"pl","count":210}
-{"year":2011,"country_code":"lv","count":209}
-{"year":2017,"country_code":"ca","count":203}
-{"year":2013,"country_code":"is","count":203}
-{"year":2016,"country_code":"sk","count":201}
-{"year":2010,"country_code":"hk","count":201}
-{"year":2009,"country_code":"mx","count":200}
-{"year":2015,"country_code":"do","count":197}
-{"year":2012,"country_code":"ec","count":196}
-{"year":2008,"country_code":"no","count":196}
-{"year":2009,"country_code":"tr","count":195}
-{"year":2012,"country_code":"is","count":195}
-{"year":2015,"country_code":"kz","count":194}
-{"year":2010,"country_code":"gr","count":193}
-{"year":2011,"country_code":"ae","count":193}
-{"year":2012,"country_code":"tn","count":193}
-{"year":2012,"country_code":"ke","count":191}
-{"year":2011,"country_code":"si","count":190}
-{"year":2012,"country_code":"ng","count":190}
-{"year":2008,"country_code":"it","count":190}
-{"year":2013,"country_code":"gt","count":184}
-{"year":2014,"country_code":"gt","count":183}
-{"year":2015,"country_code":"sa","count":180}
-{"year":2010,"country_code":"my","count":177}
-{"year":2016,"country_code":"tn","count":177}
-{"year":2008,"country_code":"ch","count":176}
-{"year":2009,"country_code":"id","count":175}
-{"year":2014,"country_code":"is","count":175}
-{"year":2013,"country_code":"bo","count":175}
-{"year":2014,"country_code":"pr","count":171}
-{"year":2012,"country_code":"np","count":170}
-{"year":2014,"country_code":"kz","count":169}
-{"year":2008,"country_code":"dk","count":168}
-{"year":2015,"country_code":"ba","count":167}
-{"year":2011,"country_code":"cr","count":166}
-{"year":2010,"country_code":"ee","count":166}
-{"year":2009,"country_code":"za","count":164}
-{"year":2013,"country_code":"pr","count":163}
-{"year":2015,"country_code":"gh","count":162}
-{"year":2009,"country_code":"kr","count":162}
-{"year":2016,"country_code":"ee","count":161}
-{"year":2009,"country_code":"sg","count":160}
-{"year":2017,"country_code":"au","count":159}
-{"year":2014,"country_code":"sa","count":158}
-{"year":2012,"country_code":"ma","count":158}
-{"year":2013,"country_code":"sa","count":158}
-{"year":2017,"country_code":"es","count":158}
-{"year":2016,"country_code":"gh","count":156}
-{"year":2017,"country_code":"ru","count":156}
-{"year":2016,"country_code":"uy","count":155}
-{"year":2016,"country_code":"ba","count":155}
-{"year":2014,"country_code":"bo","count":153}
-{"year":2012,"country_code":"kz","count":152}
-{"year":2016,"country_code":"sa","count":150}
-{"year":2017,"country_code":"id","count":150}
-{"year":2008,"country_code":"fi","count":148}
-{"year":2016,"country_code":"kz","count":147}
-{"year":2014,"country_code":"mk","count":145}
-{"year":2014,"country_code":"gd","count":145}
-{"year":2016,"country_code":"ec","count":144}
-{"year":2016,"country_code":"si","count":144}
-{"year":2016,"country_code":"do","count":143}
-{"year":2013,"country_code":"mk","count":141}
-{"year":2009,"country_code":"ro","count":139}
-{"year":2015,"country_code":"ug","count":138}
-{"year":2009,"country_code":"il","count":138}
-{"year":2015,"country_code":"gd","count":136}
-{"year":2014,"country_code":"ba","count":133}
-{"year":2014,"country_code":"mt","count":133}
-{"year":2016,"country_code":"lv","count":133}
-{"year":2010,"country_code":"pk","count":133}
-{"year":2012,"country_code":"bo","count":132}
-{"year":2012,"country_code":"lu","count":131}
-{"year":2010,"country_code":"eg","count":131}
-{"year":2014,"country_code":"jo","count":130}
-{"year":2014,"country_code":"lu","count":130}
-{"year":2014,"country_code":"kh","count":130}
-{"year":2013,"country_code":"mt","count":130}
-{"year":2011,"country_code":"ng","count":130}
-{"year":2015,"country_code":"kh","count":130}
-{"year":2015,"country_code":"dz","count":129}
-{"year":2010,"country_code":"pe","count":129}
-{"year":2015,"country_code":"md","count":129}
-{"year":2008,"country_code":"nz","count":129}
-{"year":2011,"country_code":"lk","count":128}
-{"year":2012,"country_code":"md","count":125}
-{"year":2015,"country_code":"sv","count":125}
-{"year":2013,"country_code":"am","count":124}
-{"year":2016,"country_code":"dz","count":124}
-{"year":2016,"country_code":"pr","count":124}
-{"year":2016,"country_code":"mk","count":124}
-{"year":2010,"country_code":"sk","count":123}
-{"year":2013,"country_code":"sv","count":123}
-{"year":2008,"country_code":"at","count":123}
-{"year":2017,"country_code":"it","count":123}
-{"year":2011,"country_code":"ke","count":122}
-{"year":2010,"country_code":"lt","count":122}
-{"year":2015,"country_code":"mk","count":121}
-{"year":2014,"country_code":"am","count":121}
-{"year":2015,"country_code":"mm","count":121}
-{"year":2015,"country_code":"mt","count":120}
-{"year":2008,"country_code":"be","count":120}
-{"year":2010,"country_code":"bd","count":120}
-{"year":2015,"country_code":"is","count":119}
-{"year":2014,"country_code":"dz","count":119}
-{"year":2015,"country_code":"jo","count":118}
-{"year":2014,"country_code":"gh","count":117}
-{"year":2013,"country_code":"lu","count":117}
-{"year":2010,"country_code":"rs","count":116}
-{"year":2013,"country_code":"ug","count":116}
-{"year":2014,"country_code":"sv","count":116}
-{"year":2015,"country_code":"cm","count":115}
-{"year":2011,"country_code":"ec","count":115}
-{"year":2017,"country_code":"vn","count":114}
-{"year":2010,"country_code":"hr","count":113}
-{"year":2013,"country_code":"ba","count":113}
-{"year":2014,"country_code":"md","count":113}
-{"year":2012,"country_code":"gt","count":110}
-{"year":2012,"country_code":"sv","count":109}
-{"year":2013,"country_code":"gh","count":109}
-{"year":2013,"country_code":"pa","count":108}
-{"year":2009,"country_code":"bg","count":108}
-{"year":2012,"country_code":"sa","count":108}
-{"year":2008,"country_code":"ie","count":107}
-{"year":2015,"country_code":"am","count":107}
-{"year":2013,"country_code":"md","count":106}
-{"year":2015,"country_code":"bo","count":106}
-{"year":2010,"country_code":"lv","count":106}
-{"year":2013,"country_code":"py","count":105}
-{"year":2014,"country_code":"py","count":105}
-{"year":2011,"country_code":"is","count":105}
-{"year":2010,"country_code":"ae","count":104}
-{"year":2011,"country_code":"do","count":104}
-{"year":2015,"country_code":"lu","count":103}
-{"year":2009,"country_code":"hu","count":103}
-{"year":2014,"country_code":"lb","count":102}
-{"year":2015,"country_code":"lb","count":101}
-{"year":2017,"country_code":"nl","count":101}
-{"year":2013,"country_code":"bj","count":101}
-{"year":2011,"country_code":"np","count":101}
-{"year":2015,"country_code":"et","count":101}
-{"year":2010,"country_code":"ir","count":101}
-{"year":2010,"country_code":"ve","count":100}
-{"year":2014,"country_code":"ug","count":100}
-{"year":2008,"country_code":"pt","count":99}
-{"year":2009,"country_code":"th","count":99}
-{"year":2014,"country_code":"et","count":99}
-{"year":2009,"country_code":"hk","count":97}
-{"year":2009,"country_code":"ph","count":97}
-{"year":2009,"country_code":"vn","count":97}
-{"year":2013,"country_code":"kh","count":97}
-{"year":2016,"country_code":"kh","count":97}
-{"year":2008,"country_code":"tw","count":95}
-{"year":2012,"country_code":"gh","count":95}
-{"year":2015,"country_code":"cu","count":94}
-{"year":2012,"country_code":"pa","count":94}
-{"year":2008,"country_code":"ua","count":93}
-{"year":2016,"country_code":"gt","count":93}
-{"year":2010,"country_code":"is","count":93}
-{"year":2011,"country_code":"kz","count":92}
-{"year":2009,"country_code":"by","count":91}
-{"year":2015,"country_code":"bj","count":91}
-{"year":2017,"country_code":"jp","count":90}
-{"year":2012,"country_code":"mt","count":90}
-{"year":2017,"country_code":"pl","count":89}
-{"year":2012,"country_code":"jo","count":88}
-{"year":2013,"country_code":"dz","count":88}
-{"year":2008,"country_code":"cz","count":88}
-{"year":2017,"country_code":"mx","count":87}
-{"year":2014,"country_code":"cy","count":87}
-{"year":2014,"country_code":"mm","count":86}
-{"year":2016,"country_code":"mt","count":86}
-{"year":2011,"country_code":"sa","count":86}
-{"year":2012,"country_code":"ba","count":86}
-{"year":2013,"country_code":"jo","count":86}
-{"year":2012,"country_code":"pr","count":85}
-{"year":2009,"country_code":"cl","count":85}
-{"year":2014,"country_code":"bj","count":85}
-{"year":2008,"country_code":"ar","count":85}
-{"year":2010,"country_code":"uy","count":84}
-{"year":2010,"country_code":"si","count":84}
-{"year":2016,"country_code":"mm","count":84}
-{"year":2012,"country_code":"am","count":83}
-{"year":2012,"country_code":"dz","count":83}
-{"year":2009,"country_code":"gr","count":82}
-{"year":2015,"country_code":"pa","count":82}
-{"year":2012,"country_code":"cy","count":82}
-{"year":2016,"country_code":"et","count":81}
-{"year":2013,"country_code":"lb","count":81}
-{"year":2016,"country_code":"lu","count":80}
-{"year":2013,"country_code":"cy","count":79}
-{"year":2015,"country_code":"az","count":79}
-{"year":2011,"country_code":"gt","count":79}
-{"year":2009,"country_code":"co","count":79}
-{"year":2011,"country_code":"tn","count":78}
-{"year":2015,"country_code":"py","count":78}
-{"year":2016,"country_code":"cm","count":78}
-{"year":2011,"country_code":"lu","count":78}
-{"year":2013,"country_code":"gd","count":78}
-{"year":2016,"country_code":"jo","count":78}
-{"year":2008,"country_code":"sg","count":78}
-{"year":2009,"country_code":"my","count":77}
-{"year":2015,"country_code":"cy","count":76}
-{"year":2011,"country_code":"md","count":76}
-{"year":2016,"country_code":"sv","count":75}
-{"year":2017,"country_code":"ph","count":74}
-{"year":2016,"country_code":"jm","count":74}
-{"year":2012,"country_code":"py","count":74}
-{"year":2014,"country_code":"cu","count":74}
-{"year":2013,"country_code":"mm","count":74}
-{"year":2016,"country_code":"pa","count":73}
-{"year":2011,"country_code":"ma","count":73}
-{"year":2016,"country_code":"bo","count":72}
-{"year":2009,"country_code":"ee","count":71}
-{"year":2015,"country_code":"hn","count":71}
-{"year":2016,"country_code":"az","count":71}
-{"year":2014,"country_code":"jm","count":71}
-{"year":2014,"country_code":"pa","count":71}
-{"year":2015,"country_code":"al","count":71}
-{"year":2014,"country_code":"al","count":71}
-{"year":2016,"country_code":"md","count":70}
-{"year":2017,"country_code":"kr","count":70}
-{"year":2010,"country_code":"cr","count":70}
-{"year":2013,"country_code":"cu","count":70}
-{"year":2017,"country_code":"ng","count":70}
-{"year":2013,"country_code":"jm","count":70}
-{"year":2012,"country_code":"lb","count":69}
-{"year":2014,"country_code":"tz","count":69}
-{"year":2016,"country_code":"ug","count":69}
-{"year":2014,"country_code":"ni","count":69}
-{"year":2009,"country_code":"lt","count":69}
-{"year":2013,"country_code":"et","count":69}
-{"year":2008,"country_code":"mx","count":69}
-{"year":2015,"country_code":"jm","count":69}
-{"year":2015,"country_code":"ni","count":69}
-{"year":2014,"country_code":"hn","count":69}
-{"year":2017,"country_code":"bd","count":68}
-{"year":2016,"country_code":"is","count":67}
-{"year":2016,"country_code":"py","count":67}
-{"year":2013,"country_code":"ni","count":67}
-{"year":2013,"country_code":"kg","count":66}
-{"year":2012,"country_code":"mk","count":66}
-{"year":2014,"country_code":"cm","count":66}
-{"year":2011,"country_code":"bo","count":66}
-{"year":2013,"country_code":"hn","count":65}
-{"year":2011,"country_code":"pr","count":65}
-{"year":2016,"country_code":"lb","count":65}
-{"year":2011,"country_code":"mt","count":64}
-{"year":2008,"country_code":"za","count":63}
-{"year":2015,"country_code":"tz","count":63}
-{"year":2013,"country_code":"uz","count":63}
-{"year":2008,"country_code":"ro","count":62}
-{"year":2015,"country_code":"uz","count":62}
-{"year":2011,"country_code":"ba","count":61}
-{"year":2010,"country_code":"ke","count":61}
-{"year":2012,"country_code":"ni","count":61}
-{"year":2016,"country_code":"am","count":60}
-{"year":2013,"country_code":"tz","count":59}
-{"year":2012,"country_code":"bj","count":59}
-{"year":2014,"country_code":"az","count":59}
-{"year":2010,"country_code":"lk","count":59}
-{"year":2016,"country_code":"tz","count":58}
-{"year":2011,"country_code":"sv","count":58}
-{"year":2011,"country_code":"jo","count":58}
-{"year":2011,"country_code":"gh","count":58}
-{"year":2016,"country_code":"iq","count":58}
-{"year":2016,"country_code":"gd","count":57}
-{"year":2017,"country_code":"ua","count":57}
-{"year":2014,"country_code":"uz","count":57}
-{"year":2017,"country_code":"za","count":57}
-{"year":2015,"country_code":"sz","count":56}
-{"year":2015,"country_code":"zw","count":56}
-{"year":2008,"country_code":"hu","count":56}
-{"year":2008,"country_code":"kr","count":56}
-{"year":2013,"country_code":"mn","count":56}
-{"year":2011,"country_code":"pa","count":56}
-{"year":2012,"country_code":"hn","count":55}
-{"year":2012,"country_code":"mn","count":55}
-{"year":2015,"country_code":"mn","count":55}
-{"year":2011,"country_code":"cy","count":55}
-{"year":2016,"country_code":"al","count":54}
-{"year":2017,"country_code":"no","count":54}
-{"year":2016,"country_code":"cy","count":54}
-{"year":2012,"country_code":"ug","count":54}
-{"year":2012,"country_code":"jm","count":54}
-{"year":2008,"country_code":"ph","count":53}
-{"year":2013,"country_code":"sz","count":53}
-{"year":2009,"country_code":"is","count":52}
-{"year":2009,"country_code":"pe","count":52}
-{"year":2011,"country_code":"mk","count":52}
-{"year":2012,"country_code":"kh","count":52}
-{"year":2016,"country_code":"cu","count":52}
-{"year":2017,"country_code":"co","count":52}
-{"year":2016,"country_code":"bj","count":52}
-{"year":2009,"country_code":"uy","count":51}
-{"year":2008,"country_code":"th","count":51}
-{"year":2008,"country_code":"id","count":51}
-{"year":2008,"country_code":"tr","count":50}
-{"year":2017,"country_code":"se","count":50}
-{"year":2012,"country_code":"mm","count":50}
-{"year":2012,"country_code":"et","count":49}
-{"year":2014,"country_code":"mn","count":49}
-{"year":2013,"country_code":"qa","count":49}
-{"year":2011,"country_code":"lb","count":48}
-{"year":2011,"country_code":"dz","count":48}
-{"year":2010,"country_code":"ng","count":48}
-{"year":2016,"country_code":"uz","count":48}
-{"year":2014,"country_code":"qa","count":48}
-{"year":2009,"country_code":"si","count":48}
-{"year":2013,"country_code":"al","count":48}
-{"year":2015,"country_code":"sn","count":48}
-{"year":2014,"country_code":"kg","count":47}
-{"year":2016,"country_code":"ni","count":47}
-{"year":2017,"country_code":"tr","count":47}
-{"year":2009,"country_code":"rs","count":47}
-{"year":2011,"country_code":"kh","count":47}
-{"year":2016,"country_code":"zw","count":46}
-{"year":2016,"country_code":"kg","count":46}
-{"year":2009,"country_code":"eg","count":46}
-{"year":2011,"country_code":"ug","count":46}
-{"year":2012,"country_code":"tz","count":46}
-{"year":2011,"country_code":"hn","count":46}
-{"year":2009,"country_code":"sk","count":46}
-{"year":2009,"country_code":"bd","count":46}
-{"year":2015,"country_code":"iq","count":46}
-{"year":2011,"country_code":"py","count":45}
-{"year":2015,"country_code":"mg","count":45}
-{"year":2016,"country_code":"mu","count":45}
-{"year":2017,"country_code":"ar","count":44}
-{"year":2013,"country_code":"cm","count":44}
-{"year":2017,"country_code":"ir","count":44}
-{"year":2010,"country_code":"np","count":44}
-{"year":2012,"country_code":"gd","count":44}
-{"year":2014,"country_code":"kw","count":43}
-{"year":2015,"country_code":"kg","count":43}
-{"year":2017,"country_code":"ro","count":42}
-{"year":2009,"country_code":"ae","count":42}
-{"year":2011,"country_code":"ni","count":42}
-{"year":2008,"country_code":"co","count":42}
-{"year":2014,"country_code":"tt","count":42}
-{"year":2015,"country_code":"mu","count":42}
-{"year":2009,"country_code":"pk","count":42}
-{"year":2010,"country_code":"sa","count":41}
-{"year":2010,"country_code":"lu","count":41}
-{"year":2013,"country_code":"kw","count":41}
-{"year":2017,"country_code":"cz","count":41}
-{"year":2010,"country_code":"tn","count":40}
-{"year":2015,"country_code":"so","count":40}
-{"year":2013,"country_code":"zw","count":40}
-{"year":2013,"country_code":"mu","count":40}
-{"year":2012,"country_code":"uz","count":40}
-{"year":2016,"country_code":"hn","count":40}
-{"year":2011,"country_code":"kw","count":40}
-{"year":2014,"country_code":"zw","count":40}
-{"year":2014,"country_code":"mu","count":40}
-{"year":2008,"country_code":"il","count":39}
-{"year":2014,"country_code":"sy","count":39}
-{"year":2014,"country_code":"iq","count":39}
-{"year":2012,"country_code":"cu","count":39}
-{"year":2014,"country_code":"mg","count":39}
-{"year":2013,"country_code":"az","count":38}
-{"year":2017,"country_code":"pk","count":38}
-{"year":2010,"country_code":"ec","count":38}
-{"year":2012,"country_code":"bh","count":38}
-{"year":2011,"country_code":"am","count":38}
-{"year":2015,"country_code":"qa","count":37}
-{"year":2017,"country_code":"ch","count":37}
-{"year":2009,"country_code":"lv","count":37}
-{"year":2015,"country_code":"af","count":37}
-{"year":2014,"country_code":"sz","count":37}
-{"year":2015,"country_code":"sy","count":37}
-{"year":2010,"country_code":"mk","count":37}
-{"year":2014,"country_code":"me","count":37}
-{"year":2016,"country_code":"kw","count":37}
-{"year":2015,"country_code":"ci","count":36}
-{"year":2010,"country_code":"do","count":36}
-{"year":2009,"country_code":"ve","count":36}
-{"year":2015,"country_code":"kw","count":36}
-{"year":2010,"country_code":"bo","count":36}
-{"year":2014,"country_code":"mz","count":36}
-{"year":2016,"country_code":"sy","count":36}
-{"year":2016,"country_code":"qa","count":36}
-{"year":2012,"country_code":"kg","count":34}
-{"year":2016,"country_code":"rw","count":34}
-{"year":2012,"country_code":"az","count":34}
-{"year":2017,"country_code":"ve","count":34}
-{"year":2010,"country_code":"kz","count":34}
-{"year":2008,"country_code":"my","count":33}
-{"year":2016,"country_code":"mn","count":33}
-{"year":2012,"country_code":"mu","count":33}
-{"year":2016,"country_code":"sz","count":33}
-{"year":2013,"country_code":"sy","count":33}
-{"year":2010,"country_code":"mt","count":33}
-{"year":2013,"country_code":"mg","count":32}
-{"year":2011,"country_code":"bj","count":32}
-{"year":2012,"country_code":"kw","count":32}
-{"year":2012,"country_code":"al","count":32}
-{"year":2015,"country_code":"na","count":32}
-{"year":2017,"country_code":"tw","count":31}
-{"year":2010,"country_code":"ma","count":31}
-{"year":2008,"country_code":"cl","count":31}
-{"year":2011,"country_code":"mm","count":31}
-{"year":2017,"country_code":"np","count":31}
-{"year":2009,"country_code":"hr","count":31}
-{"year":2008,"country_code":"is","count":31}
-{"year":2013,"country_code":"ci","count":31}
-{"year":2017,"country_code":"at","count":31}
-{"year":2011,"country_code":"mn","count":31}
-{"year":2008,"country_code":"hk","count":31}
-{"year":2016,"country_code":"zm","count":30}
-{"year":2008,"country_code":"lt","count":30}
-{"year":2014,"country_code":"ci","count":30}
-{"year":2017,"country_code":"ma","count":30}
-{"year":2008,"country_code":"by","count":30}
-{"year":2010,"country_code":"md","count":30}
-{"year":2011,"country_code":"et","count":30}
-{"year":2012,"country_code":"qa","count":30}
-{"year":2010,"country_code":"gt","count":29}
-{"year":2009,"country_code":"lk","count":29}
-{"year":2017,"country_code":"be","count":29}
-{"year":2013,"country_code":"rw","count":29}
-{"year":2016,"country_code":"af","count":29}
-{"year":2014,"country_code":"ao","count":29}
-{"year":2013,"country_code":"sn","count":29}
-{"year":2017,"country_code":"eg","count":28}
-{"year":2015,"country_code":"tt","count":28}
-{"year":2015,"country_code":"ao","count":28}
-{"year":2008,"country_code":"gr","count":27}
-{"year":2014,"country_code":"af","count":27}
-{"year":2017,"country_code":"ie","count":27}
-{"year":2017,"country_code":"iq","count":27}
-{"year":2008,"country_code":"vn","count":27}
-{"year":2017,"country_code":"th","count":27}
-{"year":2017,"country_code":"my","count":27}
-{"year":2017,"country_code":"lk","count":26}
-{"year":2010,"country_code":"jo","count":26}
-{"year":2009,"country_code":"cr","count":26}
-{"year":2013,"country_code":"tt","count":26}
-{"year":2011,"country_code":"az","count":26}
-{"year":2011,"country_code":"qa","count":26}
-{"year":2015,"country_code":"me","count":26}
-{"year":2017,"country_code":"pt","count":26}
-{"year":2015,"country_code":"rw","count":26}
-{"year":2016,"country_code":"sd","count":26}
-{"year":2016,"country_code":"ao","count":25}
-{"year":2016,"country_code":"ci","count":25}
-{"year":2011,"country_code":"cu","count":25}
-{"year":2015,"country_code":"mo","count":25}
-{"year":2016,"country_code":"so","count":25}
-{"year":2017,"country_code":"dk","count":25}
-{"year":2017,"country_code":"ke","count":25}
-{"year":2015,"country_code":"sd","count":25}
-{"year":2009,"country_code":"ir","count":25}
-{"year":2013,"country_code":"bh","count":25}
-{"year":2012,"country_code":"sy","count":24}
-{"year":2010,"country_code":"pa","count":24}
-{"year":2016,"country_code":"tt","count":24}
-{"year":2016,"country_code":"om","count":24}
-{"year":2015,"country_code":"bh","count":24}
-{"year":2014,"country_code":"zm","count":24}
-{"year":2008,"country_code":"bg","count":24}
-{"year":2012,"country_code":"sn","count":24}
-{"year":2016,"country_code":"na","count":23}
-{"year":2013,"country_code":"af","count":23}
-{"year":2015,"country_code":"ht","count":23}
-{"year":2012,"country_code":"mv","count":23}
-{"year":2012,"country_code":"sz","count":23}
-{"year":2014,"country_code":"ly","count":23}
-{"year":2011,"country_code":"mu","count":23}
-{"year":2010,"country_code":"hn","count":23}
-{"year":2014,"country_code":"sn","count":23}
-{"year":2016,"country_code":"cg","count":23}
-{"year":2010,"country_code":"pr","count":22}
-{"year":2008,"country_code":"si","count":22}
-{"year":2012,"country_code":"tt","count":22}
-{"year":2010,"country_code":"mn","count":22}
-{"year":2016,"country_code":"gu","count":22}
-{"year":2010,"country_code":"ba","count":22}
-{"year":2013,"country_code":"iq","count":22}
-{"year":2011,"country_code":"jm","count":22}
-{"year":2014,"country_code":"so","count":22}
-{"year":2012,"country_code":"cm","count":22}
-{"year":2016,"country_code":"bh","count":21}
-{"year":2012,"country_code":"zw","count":21}
-{"year":2015,"country_code":"ye","count":21}
-{"year":2011,"country_code":"kg","count":21}
-{"year":2016,"country_code":"sn","count":21}
-{"year":2013,"country_code":"sd","count":21}
-{"year":2010,"country_code":"dz","count":21}
-{"year":2009,"country_code":"lu","count":21}
-{"year":2017,"country_code":"nz","count":21}
-{"year":2013,"country_code":"mz","count":20}
-{"year":2010,"country_code":"kh","count":20}
-{"year":2016,"country_code":"bw","count":20}
-{"year":2009,"country_code":"np","count":20}
-{"year":2017,"country_code":"ba","count":20}
-{"year":2016,"country_code":"bs","count":20}
-{"year":2013,"country_code":"so","count":20}
-{"year":2016,"country_code":"ye","count":20}
-{"year":2017,"country_code":"rs","count":20}
-{"year":2017,"country_code":"hu","count":20}
-{"year":2008,"country_code":"hr","count":20}
-{"year":2008,"country_code":"uy","count":20}
-{"year":2011,"country_code":"uz","count":20}
-{"year":2008,"country_code":"rs","count":20}
-{"year":2014,"country_code":"sd","count":20}
-{"year":2010,"country_code":"cy","count":20}
-{"year":2008,"country_code":"sk","count":20}
-{"year":2015,"country_code":"zm","count":19}
-{"year":2013,"country_code":"mo","count":19}
-{"year":2016,"country_code":"fj","count":19}
-{"year":2010,"country_code":"py","count":19}
-{"year":2014,"country_code":"bh","count":19}
-{"year":2013,"country_code":"zm","count":19}
-{"year":2015,"country_code":"je","count":19}
-{"year":2017,"country_code":"gr","count":19}
-{"year":2008,"country_code":"ee","count":19}
-{"year":2010,"country_code":"gh","count":19}
-{"year":2013,"country_code":"ao","count":19}
-{"year":2015,"country_code":"bw","count":19}
-{"year":2017,"country_code":"ae","count":19}
-{"year":2013,"country_code":"je","count":19}
-{"year":2015,"country_code":"mz","count":18}
-{"year":2014,"country_code":"bs","count":18}
-{"year":2016,"country_code":"mv","count":18}
-{"year":2016,"country_code":"gi","count":18}
-{"year":2012,"country_code":"mo","count":18}
-{"year":2014,"country_code":"mo","count":18}
-{"year":2015,"country_code":"ly","count":18}
-{"year":2017,"country_code":"bg","count":18}
-{"year":2015,"country_code":"bs","count":18}
-{"year":2013,"country_code":"mv","count":18}
-{"year":2015,"country_code":"nc","count":18}
-{"year":2016,"country_code":"ly","count":18}
-{"year":2009,"country_code":"ke","count":18}
-{"year":2011,"country_code":"bh","count":18}
-{"year":2012,"country_code":"me","count":18}
-{"year":2014,"country_code":"im","count":18}
-{"year":2011,"country_code":"me","count":18}
-{"year":2017,"country_code":"cl","count":18}
-{"year":2009,"country_code":"ec","count":17}
-{"year":2009,"country_code":"mt","count":17}
-{"year":2017,"country_code":"pe","count":17}
-{"year":2014,"country_code":"rw","count":17}
-{"year":2009,"country_code":"mk","count":17}
-{"year":2010,"country_code":"kw","count":17}
-{"year":2010,"country_code":"et","count":17}
-{"year":2011,"country_code":"gd","count":17}
-{"year":2016,"country_code":"mg","count":17}
-{"year":2010,"country_code":"sv","count":17}
-{"year":2017,"country_code":"dz","count":17}
-{"year":2015,"country_code":"om","count":16}
-{"year":2013,"country_code":"om","count":16}
-{"year":2016,"country_code":"kp","count":16}
-{"year":2017,"country_code":"il","count":16}
-{"year":2017,"country_code":"ug","count":16}
-{"year":2015,"country_code":"re","count":16}
-{"year":2014,"country_code":"tg","count":16}
-{"year":2010,"country_code":"ug","count":16}
-{"year":2014,"country_code":"ht","count":16}
-{"year":2013,"country_code":"me","count":16}
-{"year":2008,"country_code":"eg","count":15}
-{"year":2014,"country_code":"mv","count":15}
-{"year":2014,"country_code":"fk","count":15}
-{"year":2016,"country_code":"tj","count":15}
-{"year":2012,"country_code":"ci","count":15}
-{"year":2016,"country_code":"aq","count":15}
-{"year":2015,"country_code":"im","count":15}
-{"year":2011,"country_code":"cm","count":15}
-{"year":2016,"country_code":"me","count":15}
-{"year":2016,"country_code":"mz","count":15}
-{"year":2013,"country_code":"ye","count":15}
-{"year":2011,"country_code":"tz","count":15}
-{"year":2014,"country_code":"om","count":14}
-{"year":2012,"country_code":"im","count":14}
-{"year":2014,"country_code":"gi","count":14}
-{"year":2015,"country_code":"bz","count":14}
-{"year":2012,"country_code":"gi","count":14}
-{"year":2008,"country_code":"cr","count":14}
-{"year":2013,"country_code":"nc","count":14}
-{"year":2015,"country_code":"mv","count":14}
-{"year":2014,"country_code":"nc","count":14}
-{"year":2017,"country_code":"fi","count":14}
-{"year":2014,"country_code":"bw","count":14}
-{"year":2009,"country_code":"pr","count":14}
-{"year":2010,"country_code":"kg","count":14}
-{"year":2010,"country_code":"lb","count":14}
-{"year":2012,"country_code":"ao","count":14}
-{"year":2008,"country_code":"pk","count":14}
-{"year":2010,"country_code":"tz","count":14}
-{"year":2014,"country_code":"ye","count":14}
-{"year":2016,"country_code":"je","count":14}
-{"year":2008,"country_code":"lv","count":14}
-{"year":2017,"country_code":"sa","count":13}
-{"year":2012,"country_code":"mg","count":13}
-{"year":2015,"country_code":"fj","count":13}
-{"year":2010,"country_code":"cu","count":13}
-{"year":2011,"country_code":"sy","count":13}
-{"year":2014,"country_code":"mw","count":13}
-{"year":2011,"country_code":"rw","count":13}
-{"year":2016,"country_code":"mo","count":13}
-{"year":2014,"country_code":"tj","count":13}
-{"year":2011,"country_code":"mg","count":13}
-{"year":2014,"country_code":"la","count":13}
-{"year":2014,"country_code":"cg","count":12}
-{"year":2011,"country_code":"sn","count":12}
-{"year":2017,"country_code":"sg","count":12}
-{"year":2009,"country_code":"bo","count":12}
-{"year":2017,"country_code":"mm","count":12}
-{"year":2015,"country_code":"aq","count":12}
-{"year":2010,"country_code":"gd","count":12}
-{"year":2008,"country_code":"ae","count":12}
-{"year":2011,"country_code":"al","count":12}
-{"year":2015,"country_code":"tg","count":12}
-{"year":2009,"country_code":"jo","count":12}
-{"year":2009,"country_code":"pa","count":12}
-{"year":2010,"country_code":"jm","count":12}
-{"year":2009,"country_code":"mn","count":12}
-{"year":2013,"country_code":"ht","count":11}
-{"year":2010,"country_code":"mm","count":11}
-{"year":2015,"country_code":"bf","count":11}
-{"year":2011,"country_code":"zw","count":11}
-{"year":2017,"country_code":"do","count":11}
-{"year":2012,"country_code":"ye","count":11}
-{"year":2015,"country_code":"pn","count":11}
-{"year":2013,"country_code":"cg","count":11}
-{"year":2013,"country_code":"na","count":11}
-{"year":2010,"country_code":"mg","count":11}
-{"year":2013,"country_code":"la","count":11}
-{"year":2017,"country_code":"tn","count":11}
-{"year":2010,"country_code":"qa","count":11}
-{"year":2015,"country_code":"bn","count":11}
-{"year":2009,"country_code":"tn","count":11}
-{"year":2009,"country_code":"sa","count":11}
-{"year":2012,"country_code":"so","count":11}
-{"year":2015,"country_code":"tj","count":11}
-{"year":2012,"country_code":"la","count":11}
-{"year":2012,"country_code":"je","count":11}
-{"year":2015,"country_code":"bm","count":11}
-{"year":2011,"country_code":"mv","count":11}
-{"year":2012,"country_code":"af","count":11}
-{"year":2013,"country_code":"bn","count":11}
-{"year":2016,"country_code":"re","count":11}
-{"year":2016,"country_code":"ht","count":11}
-{"year":2014,"country_code":"bz","count":11}
-{"year":2017,"country_code":"gh","count":11}
-{"year":2017,"country_code":"sk","count":11}
-{"year":2010,"country_code":"am","count":11}
-{"year":2016,"country_code":"sr","count":11}
-{"year":2013,"country_code":"tg","count":10}
-{"year":2009,"country_code":"ni","count":10}
-{"year":2012,"country_code":"zm","count":10}
-{"year":2017,"country_code":"by","count":10}
-{"year":2015,"country_code":"bb","count":10}
-{"year":2016,"country_code":"pg","count":10}
-{"year":2010,"country_code":"bh","count":10}
-{"year":2016,"country_code":"bm","count":10}
-{"year":2012,"country_code":"bw","count":10}
-{"year":2016,"country_code":"lr","count":10}
-{"year":2009,"country_code":"ng","count":10}
-{"year":2013,"country_code":"re","count":10}
-{"year":2011,"country_code":"tt","count":10}
-{"year":2013,"country_code":"bw","count":10}
-{"year":2017,"country_code":"hk","count":10}
-{"year":2016,"country_code":"mc","count":10}
-{"year":2009,"country_code":"sv","count":10}
-{"year":2012,"country_code":"bs","count":10}
-{"year":2015,"country_code":"kp","count":10}
-{"year":2017,"country_code":"cr","count":10}
-{"year":2011,"country_code":"so","count":10}
-{"year":2014,"country_code":"je","count":10}
-{"year":2013,"country_code":"im","count":10}
-{"year":2010,"country_code":"uz","count":10}
-{"year":2009,"country_code":"lb","count":10}
-{"year":2013,"country_code":"mp","count":9}
-{"year":2016,"country_code":"sl","count":9}
-{"year":2017,"country_code":"ec","count":9}
-{"year":2014,"country_code":"aq","count":9}
-{"year":2015,"country_code":"ga","count":9}
-{"year":2016,"country_code":"bn","count":9}
-{"year":2012,"country_code":"nc","count":9}
-{"year":2016,"country_code":"bf","count":9}
-{"year":2010,"country_code":"az","count":9}
-{"year":2013,"country_code":"li","count":9}
-{"year":2015,"country_code":"sl","count":9}
-{"year":2013,"country_code":"gi","count":9}
-{"year":2016,"country_code":"ls","count":9}
-{"year":2010,"country_code":"sn","count":9}
-{"year":2017,"country_code":"cm","count":9}
-{"year":2016,"country_code":"la","count":9}
-{"year":2011,"country_code":"mo","count":9}
-{"year":2016,"country_code":"gn","count":9}
-{"year":2014,"country_code":"mp","count":9}
-{"year":2008,"country_code":"ve","count":9}
-{"year":2009,"country_code":"gh","count":9}
-{"year":2011,"country_code":"ye","count":9}
-{"year":2011,"country_code":"ci","count":9}
-{"year":2008,"country_code":"bo","count":9}
-{"year":2008,"country_code":"lu","count":9}
-{"year":2009,"country_code":"py","count":9}
-{"year":2010,"country_code":"je","count":9}
-{"year":2009,"country_code":"gt","count":9}
-{"year":2008,"country_code":"ir","count":9}
-{"year":2015,"country_code":"gp","count":9}
-{"year":2016,"country_code":"fk","count":9}
-{"year":2012,"country_code":"iq","count":9}
-{"year":2012,"country_code":"tg","count":9}
-{"year":2017,"country_code":"lt","count":9}
-{"year":2016,"country_code":"mr","count":9}
-{"year":2011,"country_code":"sz","count":9}
-{"year":2016,"country_code":"pn","count":9}
-{"year":2014,"country_code":"na","count":9}
-{"year":2013,"country_code":"fo","count":8}
-{"year":2016,"country_code":"gm","count":8}
-{"year":2015,"country_code":"ml","count":8}
-{"year":2016,"country_code":"km","count":8}
-{"year":2015,"country_code":"gl","count":8}
-{"year":2010,"country_code":"mu","count":8}
-{"year":2014,"country_code":"bf","count":8}
-{"year":2010,"country_code":"al","count":8}
-{"year":2009,"country_code":"kz","count":8}
-{"year":2012,"country_code":"om","count":8}
-{"year":2016,"country_code":"gs","count":8}
-{"year":2016,"country_code":"bz","count":8}
-{"year":2013,"country_code":"bs","count":8}
-{"year":2012,"country_code":"tj","count":8}
-{"year":2017,"country_code":"hr","count":8}
-{"year":2011,"country_code":"bs","count":8}
-{"year":2015,"country_code":"cg","count":8}
-{"year":2016,"country_code":"mp","count":8}
-{"year":2014,"country_code":"ga","count":8}
-{"year":2015,"country_code":"pf","count":8}
-{"year":2014,"country_code":"gg","count":8}
-{"year":2015,"country_code":"sr","count":8}
-{"year":2015,"country_code":"li","count":8}
-{"year":2016,"country_code":"ga","count":8}
-{"year":2012,"country_code":"sd","count":8}
-{"year":2015,"country_code":"gi","count":8}
-{"year":2015,"country_code":"pg","count":8}
-{"year":2014,"country_code":"re","count":8}
-{"year":2016,"country_code":"tg","count":7}
-{"year":2012,"country_code":"na","count":7}
-{"year":2009,"country_code":"ma","count":7}
-{"year":2013,"country_code":"sh","count":7}
-{"year":2016,"country_code":"li","count":7}
-{"year":2011,"country_code":"zm","count":7}
-{"year":2012,"country_code":"re","count":7}
-{"year":2011,"country_code":"sd","count":7}
-{"year":2010,"country_code":"bj","count":7}
-{"year":2016,"country_code":"gf","count":7}
-{"year":2011,"country_code":"ao","count":7}
-{"year":2015,"country_code":"sc","count":7}
-{"year":2009,"country_code":"md","count":7}
-{"year":2013,"country_code":"bm","count":7}
-{"year":2016,"country_code":"mw","count":7}
-{"year":2016,"country_code":"bb","count":7}
-{"year":2016,"country_code":"vu","count":7}
-{"year":2015,"country_code":"la","count":7}
-{"year":2016,"country_code":"nc","count":7}
-{"year":2016,"country_code":"bt","count":7}
-{"year":2012,"country_code":"aq","count":7}
-{"year":2014,"country_code":"kp","count":7}
-{"year":2013,"country_code":"km","count":7}
-{"year":2017,"country_code":"uz","count":7}
-{"year":2017,"country_code":"tz","count":7}
-{"year":2011,"country_code":"ky","count":7}
-{"year":2016,"country_code":"ad","count":7}
-{"year":2013,"country_code":"kp","count":7}
-{"year":2016,"country_code":"im","count":7}
-{"year":2009,"country_code":"kg","count":7}
-{"year":2014,"country_code":"bt","count":7}
-{"year":2017,"country_code":"pr","count":7}
-{"year":2017,"country_code":"to","count":7}
-{"year":2016,"country_code":"gg","count":7}
-{"year":2016,"country_code":"gp","count":7}
-{"year":2012,"country_code":"rw","count":7}
-{"year":2009,"country_code":"cy","count":7}
-{"year":2016,"country_code":"vc","count":7}
-{"year":2013,"country_code":"aq","count":7}
-{"year":2014,"country_code":"fj","count":7}
-{"year":2008,"country_code":"bd","count":7}
-{"year":2015,"country_code":"mw","count":7}
-{"year":2014,"country_code":"pn","count":7}
-{"year":2013,"country_code":"bf","count":7}
-{"year":2017,"country_code":"mz","count":7}
-{"year":2009,"country_code":"dz","count":7}
-{"year":2016,"country_code":"sh","count":6}
-{"year":2016,"country_code":"cv","count":6}
-{"year":2010,"country_code":"mv","count":6}
-{"year":2016,"country_code":"ky","count":6}
-{"year":2011,"country_code":"bb","count":6}
-{"year":2015,"country_code":"aw","count":6}
-{"year":2015,"country_code":"mr","count":6}
-{"year":2016,"country_code":"gy","count":6}
-{"year":2009,"country_code":"bj","count":6}
-{"year":2013,"country_code":"tj","count":6}
-{"year":2016,"country_code":"pf","count":6}
-{"year":2016,"country_code":"tv","count":6}
-{"year":2009,"country_code":"do","count":6}
-{"year":2017,"country_code":"sv","count":6}
-{"year":2008,"country_code":"pe","count":6}
-{"year":2008,"country_code":"lk","count":6}
-{"year":2016,"country_code":"gl","count":6}
-{"year":2009,"country_code":"et","count":6}
-{"year":2012,"country_code":"fj","count":6}
-{"year":2014,"country_code":"gu","count":6}
-{"year":2015,"country_code":"ad","count":6}
-{"year":2015,"country_code":"lr","count":6}
-{"year":2014,"country_code":"pf","count":6}
-{"year":2011,"country_code":"mz","count":6}
-{"year":2016,"country_code":"lc","count":6}
-{"year":2011,"country_code":"im","count":6}
-{"year":2016,"country_code":"ss","count":6}
-{"year":2011,"country_code":"pn","count":6}
-{"year":2013,"country_code":"vu","count":6}
-{"year":2009,"country_code":"kh","count":6}
-{"year":2014,"country_code":"mq","count":6}
-{"year":2013,"country_code":"bt","count":6}
-{"year":2010,"country_code":"so","count":6}
-{"year":2016,"country_code":"ck","count":6}
-{"year":2016,"country_code":"aw","count":6}
-{"year":2015,"country_code":"sh","count":6}
-{"year":2017,"country_code":"af","count":6}
-{"year":2008,"country_code":"md","count":6}
-{"year":2013,"country_code":"ad","count":6}
-{"year":2015,"country_code":"ge","count":6}
-{"year":2009,"country_code":"ba","count":5}
-{"year":2016,"country_code":"tf","count":5}
-{"year":2017,"country_code":"cy","count":5}
-{"year":2011,"country_code":"om","count":5}
-{"year":2010,"country_code":"ye","count":5}
-{"year":2014,"country_code":"sh","count":5}
-{"year":2012,"country_code":"mq","count":5}
-{"year":2011,"country_code":"mw","count":5}
-{"year":2015,"country_code":"fo","count":5}
-{"year":2008,"country_code":"mk","count":5}
-{"year":2017,"country_code":"vi","count":5}
-{"year":2010,"country_code":"ni","count":5}
-{"year":2012,"country_code":"ly","count":5}
-{"year":2015,"country_code":"gf","count":5}
-{"year":2011,"country_code":"na","count":5}
-{"year":2014,"country_code":"bb","count":5}
-{"year":2011,"country_code":"nc","count":5}
-{"year":2010,"country_code":"gi","count":5}
-{"year":2012,"country_code":"li","count":5}
-{"year":2008,"country_code":"ec","count":5}
-{"year":2008,"country_code":"sv","count":5}
-{"year":2016,"country_code":"vi","count":5}
-{"year":2012,"country_code":"mz","count":5}
-{"year":2016,"country_code":"st","count":5}
-{"year":2015,"country_code":"bt","count":5}
-{"year":2017,"country_code":"is","count":5}
-{"year":2017,"country_code":"zw","count":5}
-{"year":2010,"country_code":"zw","count":5}
-{"year":2013,"country_code":"bb","count":5}
-{"year":2015,"country_code":"va","count":5}
-{"year":2012,"country_code":"mw","count":5}
-{"year":2017,"country_code":"mu","count":5}
-{"year":2017,"country_code":"pa","count":5}
-{"year":2009,"country_code":"mv","count":5}
-{"year":2011,"country_code":"je","count":5}
-{"year":2009,"country_code":"kw","count":5}
-{"year":2014,"country_code":"cv","count":5}
-{"year":2013,"country_code":"gl","count":5}
-{"year":2015,"country_code":"ky","count":5}
-{"year":2016,"country_code":"ws","count":5}
-{"year":2014,"country_code":"sl","count":5}
-{"year":2014,"country_code":"bm","count":5}
-{"year":2017,"country_code":"py","count":5}
-{"year":2014,"country_code":"ml","count":5}
-{"year":2009,"country_code":"qa","count":5}
-{"year":2013,"country_code":"ly","count":5}
-{"year":2015,"country_code":"gg","count":5}
-{"year":2011,"country_code":"re","count":5}
-{"year":2015,"country_code":"mp","count":5}
-{"year":2016,"country_code":"sb","count":5}
-{"year":2012,"country_code":"bm","count":5}
-{"year":2016,"country_code":"tl","count":5}
-{"year":2010,"country_code":"ly","count":5}
-{"year":2017,"country_code":"mk","count":5}
-{"year":2017,"country_code":"ni","count":5}
-{"year":2016,"country_code":"an","count":5}
-{"year":2014,"country_code":"ss","count":5}
-{"year":2010,"country_code":"zm","count":5}
-{"year":2014,"country_code":"gl","count":5}
-{"year":2013,"country_code":"fj","count":5}
-{"year":2013,"country_code":"ga","count":5}
-{"year":2013,"country_code":"bz","count":5}
-{"year":2015,"country_code":"km","count":5}
-{"year":2015,"country_code":"tl","count":5}
-{"year":2016,"country_code":"mq","count":5}
-{"year":2010,"country_code":"sy","count":5}
-{"year":2017,"country_code":"md","count":5}
-{"year":2017,"country_code":"cg","count":5}
-{"year":2014,"country_code":"gp","count":5}
-{"year":2008,"country_code":"jo","count":5}
-{"year":2008,"country_code":"py","count":5}
-{"year":2017,"country_code":"kz","count":5}
-{"year":2013,"country_code":"mw","count":5}
-{"year":2011,"country_code":"bm","count":4}
-{"year":2011,"country_code":"gp","count":4}
-{"year":2009,"country_code":"tz","count":4}
-{"year":2013,"country_code":"dm","count":4}
-{"year":2017,"country_code":"az","count":4}
-{"year":2014,"country_code":"li","count":4}
-{"year":2010,"country_code":"rw","count":4}
-{"year":2012,"country_code":"cg","count":4}
-{"year":2011,"country_code":"la","count":4}
-{"year":2010,"country_code":"gg","count":4}
-{"year":2016,"country_code":"dm","count":4}
-{"year":2010,"country_code":"bb","count":4}
-{"year":2013,"country_code":"ml","count":4}
-{"year":2016,"country_code":"ne","count":4}
-{"year":2016,"country_code":"mf","count":4}
-{"year":2017,"country_code":"jo","count":4}
-{"year":2014,"country_code":"ge","count":4}
-{"year":2012,"country_code":"mp","count":4}
-{"year":2016,"country_code":"bv","count":4}
-{"year":2013,"country_code":"ky","count":4}
-{"year":2015,"country_code":"gm","count":4}
-{"year":2014,"country_code":"gy","count":4}
-{"year":2011,"country_code":"pf","count":4}
-{"year":2008,"country_code":"gi","count":4}
-{"year":2010,"country_code":"mo","count":4}
-{"year":2015,"country_code":"sm","count":4}
-{"year":2015,"country_code":"mq","count":4}
-{"year":2015,"country_code":"ne","count":4}
-{"year":2010,"country_code":"cm","count":4}
-{"year":2012,"country_code":"kp","count":4}
-{"year":2011,"country_code":"af","count":4}
-{"year":2013,"country_code":"pg","count":4}
-{"year":2009,"country_code":"hn","count":4}
-{"year":2010,"country_code":"bm","count":4}
-{"year":2015,"country_code":"tc","count":4}
-{"year":2011,"country_code":"kp","count":4}
-{"year":2016,"country_code":"to","count":4}
-{"year":2013,"country_code":"mq","count":4}
-{"year":2009,"country_code":"mo","count":4}
-{"year":2013,"country_code":"pn","count":4}
-{"year":2011,"country_code":"mc","count":4}
-{"year":2011,"country_code":"bz","count":4}
-{"year":2014,"country_code":"bn","count":4}
-{"year":2017,"country_code":"ly","count":4}
-{"year":2015,"country_code":"ls","count":4}
-{"year":2010,"country_code":"gp","count":4}
-{"year":2013,"country_code":"vg","count":4}
-{"year":2017,"country_code":"am","count":4}
-{"year":2015,"country_code":"mc","count":4}
-{"year":2014,"country_code":"sm","count":4}
-{"year":2010,"country_code":"ml","count":4}
-{"year":2011,"country_code":"iq","count":4}
-{"year":2016,"country_code":"fo","count":4}
-{"year":2012,"country_code":"ht","count":4}
-{"year":2011,"country_code":"gi","count":4}
-{"year":2011,"country_code":"gg","count":4}
-{"year":2011,"country_code":"gl","count":4}
-{"year":2009,"country_code":"bh","count":4}
-{"year":2008,"country_code":"kz","count":4}
-{"year":2009,"country_code":"ug","count":4}
-{"year":2016,"country_code":"bi","count":4}
-{"year":2009,"country_code":"gi","count":4}
-{"year":2016,"country_code":"hm","count":4}
-{"year":2016,"country_code":"ml","count":4}
-{"year":2014,"country_code":"mc","count":4}
-{"year":2013,"country_code":"gy","count":4}
-{"year":2007,"country_code":"us","count":3}
-{"year":2014,"country_code":"ky","count":3}
-{"year":2015,"country_code":"dj","count":3}
-{"year":2017,"country_code":"qa","count":3}
-{"year":2014,"country_code":"tm","count":3}
-{"year":2009,"country_code":"al","count":3}
-{"year":2017,"country_code":"bo","count":3}
-{"year":2012,"country_code":"gl","count":3}
-{"year":2017,"country_code":"sn","count":3}
-{"year":2017,"country_code":"tt","count":3}
-{"year":2010,"country_code":"mw","count":3}
-{"year":2016,"country_code":"as","count":3}
-{"year":2014,"country_code":"lc","count":3}
-{"year":2015,"country_code":"vg","count":3}
-{"year":2016,"country_code":"bl","count":3}
-{"year":2017,"country_code":"ao","count":3}
-{"year":2013,"country_code":"gp","count":3}
-{"year":2017,"country_code":"kh","count":3}
-{"year":2017,"country_code":"lu","count":3}
-{"year":2011,"country_code":"ga","count":3}
-{"year":2017,"country_code":"kg","count":3}
-{"year":2015,"country_code":"gy","count":3}
-{"year":2012,"country_code":"gu","count":3}
-{"year":2008,"country_code":"do","count":3}
-{"year":2017,"country_code":"al","count":3}
-{"year":2010,"country_code":"mz","count":3}
-{"year":2011,"country_code":"ly","count":3}
-{"year":2017,"country_code":"ci","count":3}
-{"year":2017,"country_code":"gt","count":3}
-{"year":2008,"country_code":"ma","count":3}
-{"year":2010,"country_code":"bt","count":3}
-{"year":2014,"country_code":"ad","count":3}
-{"year":2008,"country_code":"cy","count":3}
-{"year":2012,"country_code":"bb","count":3}
-{"year":2017,"country_code":"cu","count":3}
-{"year":2008,"country_code":"mn","count":3}
-{"year":2013,"country_code":"gg","count":3}
-{"year":2012,"country_code":"fo","count":3}
-{"year":2013,"country_code":"bi","count":3}
-{"year":2009,"country_code":"uz","count":3}
-{"year":2011,"country_code":"sb","count":3}
-{"year":2014,"country_code":"pg","count":3}
-{"year":2016,"country_code":"td","count":3}
-{"year":2015,"country_code":"gu","count":3}
-{"year":2017,"country_code":"ee","count":3}
-{"year":2012,"country_code":"ps","count":3}
-{"year":2016,"country_code":"sc","count":3}
-{"year":2013,"country_code":"sm","count":3}
-{"year":2016,"country_code":"ag","count":3}
-{"year":2008,"country_code":"ng","count":3}
-{"year":2013,"country_code":"fk","count":3}
-{"year":2008,"country_code":"mw","count":3}
-{"year":2008,"country_code":"gd","count":3}
-{"year":2012,"country_code":"lc","count":3}
-{"year":2010,"country_code":"aq","count":3}
-{"year":2017,"country_code":"hn","count":3}
-{"year":2016,"country_code":"nr","count":3}
-{"year":2008,"country_code":"mu","count":3}
-{"year":2012,"country_code":"km","count":3}
-{"year":2017,"country_code":"ht","count":3}
-{"year":2014,"country_code":"gf","count":3}
-{"year":2015,"country_code":"ss","count":3}
-{"year":2008,"country_code":"gt","count":3}
-{"year":2012,"country_code":"ge","count":3}
-{"year":2012,"country_code":"sm","count":3}
-{"year":2013,"country_code":"pf","count":3}
-{"year":2016,"country_code":"mh","count":3}
-{"year":2016,"country_code":"kn","count":3}
-{"year":2014,"country_code":"sb","count":3}
-{"year":2014,"country_code":"bi","count":3}
-{"year":2013,"country_code":"ne","count":3}
-{"year":2014,"country_code":"dj","count":3}
-{"year":2016,"country_code":"vg","count":3}
-{"year":2010,"country_code":"sz","count":3}
-{"year":2016,"country_code":"ms","count":3}
-{"year":2017,"country_code":"pg","count":3}
-{"year":2012,"country_code":"gy","count":3}
-{"year":2011,"country_code":"fj","count":3}
-{"year":2010,"country_code":"na","count":3}
-{"year":2012,"country_code":"cv","count":3}
-{"year":2012,"country_code":"ss","count":3}
-{"year":2017,"country_code":"lb","count":3}
-{"year":2012,"country_code":"mc","count":3}
-{"year":2012,"country_code":"sh","count":3}
-{"year":2013,"country_code":"ls","count":3}
-{"year":2015,"country_code":"sb","count":3}
-{"year":2011,"country_code":"ge","count":3}
-{"year":2016,"country_code":"va","count":3}
-{"year":2017,"country_code":"lv","count":3}
-{"year":2009,"country_code":"cu","count":3}
-{"year":2017,"country_code":"mg","count":3}
-{"year":2011,"country_code":"bt","count":3}
-{"year":2016,"country_code":"tk","count":3}
-{"year":2012,"country_code":"bz","count":2}
-{"year":2010,"country_code":"bs","count":2}
-{"year":2009,"country_code":"je","count":2}
-{"year":2015,"country_code":"cx","count":2}
-{"year":2016,"country_code":"pm","count":2}
-{"year":2012,"country_code":"gp","count":2}
-{"year":2008,"country_code":"ni","count":2}
-{"year":2016,"country_code":"cc","count":2}
-{"year":2014,"country_code":"ne","count":2}
-{"year":2008,"country_code":"jm","count":2}
-{"year":2010,"country_code":"bw","count":2}
-{"year":2017,"country_code":"me","count":2}
-{"year":2008,"country_code":"ba","count":2}
-{"year":2015,"country_code":"vi","count":2}
-{"year":2012,"country_code":"sc","count":2}
-{"year":2013,"country_code":"ss","count":2}
-{"year":2010,"country_code":"fo","count":2}
-{"year":2016,"country_code":"io","count":2}
-{"year":2017,"country_code":"sy","count":2}
-{"year":2011,"country_code":"ht","count":2}
-{"year":2017,"country_code":"ne","count":2}
-{"year":2011,"country_code":"sl","count":2}
-{"year":2014,"country_code":"ag","count":2}
-{"year":2010,"country_code":"sd","count":2}
-{"year":2012,"country_code":"pn","count":2}
-{"year":2009,"country_code":"ad","count":2}
-{"year":2015,"country_code":"lc","count":2}
-{"year":2011,"country_code":"ps","count":2}
-{"year":2013,"country_code":"mr","count":2}
-{"year":2013,"country_code":"ws","count":2}
-{"year":2014,"country_code":"sr","count":2}
-{"year":2016,"country_code":"cx","count":2}
-{"year":2012,"country_code":"pg","count":2}
-{"year":2009,"country_code":"zm","count":2}
-{"year":2013,"country_code":"io","count":2}
-{"year":2015,"country_code":"cv","count":2}
-{"year":2014,"country_code":"ls","count":2}
-{"year":2016,"country_code":"tm","count":2}
-{"year":2017,"country_code":"mw","count":2}
-{"year":2017,"country_code":"rw","count":2}
-{"year":2010,"country_code":"mc","count":2}
-{"year":2012,"country_code":"mr","count":2}
-{"year":2017,"country_code":"ag","count":2}
-{"year":2016,"country_code":"sj","count":2}
-{"year":2009,"country_code":"jm","count":2}
-{"year":2013,"country_code":"cv","count":2}
-{"year":2016,"country_code":"sm","count":2}
-{"year":2008,"country_code":"bh","count":2}
-{"year":2008,"country_code":"np","count":2}
-{"year":2017,"country_code":"bs","count":2}
-{"year":2012,"country_code":"ga","count":2}
-{"year":2017,"country_code":"kp","count":2}
-{"year":2009,"country_code":"mu","count":2}
-{"year":2012,"country_code":"ad","count":2}
-{"year":2010,"country_code":"om","count":2}
-{"year":2017,"country_code":"et","count":2}
-{"year":2010,"country_code":"me","count":2}
-{"year":2012,"country_code":"tl","count":2}
-{"year":2010,"country_code":"nc","count":2}
-{"year":2012,"country_code":"gg","count":2}
-{"year":2014,"country_code":"cf","count":2}
-{"year":2010,"country_code":"bn","count":2}
-{"year":2013,"country_code":"sr","count":2}
-{"year":2012,"country_code":"gn","count":2}
-{"year":2010,"country_code":"im","count":2}
-{"year":2017,"country_code":"mt","count":2}
-{"year":2008,"country_code":"mt","count":2}
-{"year":2008,"country_code":"sa","count":2}
-{"year":2011,"country_code":"bw","count":2}
-{"year":2017,"country_code":"bj","count":2}
-{"year":2008,"country_code":"lb","count":2}
-{"year":2016,"country_code":"er","count":2}
-{"year":2011,"country_code":"va","count":2}
-{"year":2017,"country_code":"ga","count":2}
-{"year":2011,"country_code":"bn","count":2}
-{"year":2013,"country_code":"ge","count":2}
-{"year":2010,"country_code":"mp","count":2}
-{"year":2015,"country_code":"gn","count":2}
-{"year":2011,"country_code":"li","count":2}
-{"year":2010,"country_code":"ci","count":2}
-{"year":2014,"country_code":"nu","count":2}
-{"year":2015,"country_code":"ws","count":2}
-{"year":2009,"country_code":"na","count":2}
-{"year":2008,"country_code":"tn","count":2}
-{"year":2014,"country_code":"va","count":2}
-{"year":2010,"country_code":"kp","count":2}
-{"year":2016,"country_code":"ps","count":2}
-{"year":2013,"country_code":"va","count":2}
-{"year":2013,"country_code":"gu","count":2}
-{"year":2010,"country_code":"tt","count":2}
-{"year":2014,"country_code":"ws","count":2}
-{"year":2008,"country_code":"kh","count":2}
-{"year":2016,"country_code":"dj","count":2}
-{"year":2017,"country_code":"zm","count":2}
-{"year":2009,"country_code":"mm","count":2}
-{"year":2008,"country_code":"hn","count":2}
-{"year":2017,"country_code":"sb","count":2}
-{"year":2008,"country_code":"pa","count":2}
-{"year":2017,"country_code":"sl","count":2}
-{"year":2009,"country_code":"am","count":2}
-{"year":2014,"country_code":"yt","count":2}
-{"year":2017,"country_code":"uy","count":2}
-{"year":2017,"country_code":"pf","count":2}
-{"year":2014,"country_code":"fo","count":2}
-{"year":2016,"country_code":"nu","count":2}
-{"year":2016,"country_code":"gw","count":2}
-{"year":2010,"country_code":"ad","count":2}
-{"year":2011,"country_code":"aq","count":2}
-{"year":2017,"country_code":"va","count":2}
-{"year":2014,"country_code":"sc","count":2}
-{"year":2010,"country_code":"pn","count":2}
-{"year":2016,"country_code":"gq","count":2}
-{"year":2011,"country_code":"ad","count":2}
-{"year":2011,"country_code":"fo","count":2}
-{"year":2011,"country_code":"sh","count":2}
-{"year":2008,"country_code":"gh","count":2}
-{"year":2012,"country_code":"ky","count":2}
-{"year":2011,"country_code":"tm","count":2}
-{"year":2013,"country_code":"vc","count":2}
-{"year":2013,"country_code":"dj","count":2}
-{"year":2010,"country_code":"re","count":2}
-{"year":2017,"country_code":"so","count":2}
-{"year":2012,"country_code":"bt","count":2}
-{"year":2009,"country_code":"sz","count":2}
-{"year":2017,"country_code":"si","count":2}
-{"year":2011,"country_code":"ai","count":1}
-{"year":2017,"country_code":"sd","count":1}
-{"year":2012,"country_code":"gm","count":1}
-{"year":2017,"country_code":"ky","count":1}
-{"year":2013,"country_code":"ai","count":1}
-{"year":2017,"country_code":"gd","count":1}
-{"year":2010,"country_code":"cv","count":1}
-{"year":2012,"country_code":"ws","count":1}
-{"year":2016,"country_code":"pw","count":1}
-{"year":2017,"country_code":"om","count":1}
-{"year":2013,"country_code":"lc","count":1}
-{"year":2011,"country_code":"km","count":1}
-{"year":2008,"country_code":"cm","count":1}
-{"year":2009,"country_code":"mz","count":1}
-{"year":2012,"country_code":"sb","count":1}
-{"year":2017,"country_code":"ml","count":1}
-{"year":2013,"country_code":"sc","count":1}
-{"year":2008,"country_code":"re","count":1}
-{"year":2014,"country_code":"dm","count":1}
-{"year":2015,"country_code":"cf","count":1}
-{"year":2008,"country_code":"nc","count":1}
-{"year":2017,"country_code":"nf","count":1}
-{"year":2017,"country_code":"bz","count":1}
-{"year":2008,"country_code":"sn","count":1}
-{"year":2009,"country_code":"ao","count":1}
-{"year":2015,"country_code":"to","count":1}
-{"year":2015,"country_code":"gw","count":1}
-{"year":2012,"country_code":"ms","count":1}
-{"year":2008,"country_code":"am","count":1}
-{"year":2015,"country_code":"mf","count":1}
-{"year":2008,"country_code":"mv","count":1}
-{"year":2012,"country_code":"sl","count":1}
-{"year":2015,"country_code":"st","count":1}
-{"year":2012,"country_code":"dm","count":1}
-{"year":2012,"country_code":"ml","count":1}
-{"year":2011,"country_code":"ls","count":1}
-{"year":2015,"country_code":"vu","count":1}
-{"year":2013,"country_code":"ck","count":1}
-{"year":2012,"country_code":"vi","count":1}
-{"year":2014,"country_code":"tv","count":1}
-{"year":2015,"country_code":"gq","count":1}
-{"year":2011,"country_code":"cg","count":1}
-{"year":2017,"country_code":"an","count":1}
-{"year":2011,"country_code":"mh","count":1}
-{"year":2015,"country_code":"cd","count":1}
-{"year":2017,"country_code":"tj","count":1}
-{"year":2017,"country_code":"vu","count":1}
-{"year":2011,"country_code":"pg","count":1}
-{"year":2013,"country_code":"mc","count":1}
-{"year":2014,"country_code":"tc","count":1}
-{"year":2008,"country_code":"aw","count":1}
-{"year":2017,"country_code":"gs","count":1}
-{"year":2016,"country_code":"wf","count":1}
-{"year":2009,"country_code":"af","count":1}
-{"year":2010,"country_code":"bz","count":1}
-{"year":2016,"country_code":"ki","count":1}
-{"year":2009,"country_code":"fo","count":1}
-{"year":2012,"country_code":"tm","count":1}
-{"year":2014,"country_code":"gm","count":1}
-{"year":2011,"country_code":"mp","count":1}
-{"year":2017,"country_code":"vc","count":1}
-{"year":2014,"country_code":"lr","count":1}
-{"year":2013,"country_code":"ps","count":1}
-{"year":2008,"country_code":"ug","count":1}
-{"year":2009,"country_code":"tt","count":1}
-{"year":2012,"country_code":"bi","count":1}
-{"year":2008,"country_code":"vu","count":1}
-{"year":2012,"country_code":"fk","count":1}
-{"year":2017,"country_code":"gy","count":1}
-{"year":2011,"country_code":"ms","count":1}
-{"year":2012,"country_code":"ck","count":1}
-{"year":2009,"country_code":"gd","count":1}
-{"year":2009,"country_code":"sn","count":1}
-{"year":2017,"country_code":"cv","count":1}
-{"year":2013,"country_code":"tl","count":1}
-{"year":2017,"country_code":"sc","count":1}
-{"year":2016,"country_code":"cf","count":1}
-{"year":2010,"country_code":"ne","count":1}
-{"year":2012,"country_code":"td","count":1}
-{"year":2017,"country_code":"bh","count":1}
-{"year":2012,"country_code":"bf","count":1}
-{"year":2011,"country_code":"ml","count":1}
-{"year":2014,"country_code":"pw","count":1}
-{"year":2013,"country_code":"gn","count":1}
-{"year":2008,"country_code":"ke","count":1}
-{"year":2017,"country_code":"bf","count":1}
-{"year":2009,"country_code":"gp","count":1}
-{"year":2010,"country_code":"lr","count":1}
-{"year":2015,"country_code":"cc","count":1}
-{"year":2009,"country_code":"gn","count":1}
-{"year":2015,"country_code":"er","count":1}
-{"year":2014,"country_code":"vu","count":1}
-{"year":2017,"country_code":"re","count":1}
-{"year":2010,"country_code":"la","count":1}
-{"year":2014,"country_code":"mh","count":1}
-{"year":2009,"country_code":"bm","count":1}
-{"year":2009,"country_code":"az","count":1}
-{"year":2010,"country_code":"ck","count":1}
-{"year":2011,"country_code":"sm","count":1}
-{"year":2017,"country_code":"hm","count":1}
-{"year":2012,"country_code":"lr","count":1}
-{"year":2010,"country_code":"km","count":1}
-{"year":2010,"country_code":"fj","count":1}
-{"year":2010,"country_code":"af","count":1}
-{"year":2010,"country_code":"ao","count":1}
-{"year":2017,"country_code":"vg","count":1}
-{"year":2008,"country_code":"li","count":1}
-{"year":2017,"country_code":"mo","count":1}
-{"year":2010,"country_code":"gu","count":1}
-{"year":2010,"country_code":"ht","count":1}
-{"year":2014,"country_code":"km","count":1}
-{"year":2014,"country_code":"aw","count":1}
-{"year":2017,"country_code":"ss","count":1}
-{"year":2010,"country_code":"lc","count":1}
-{"year":2009,"country_code":"cm","count":1}
-{"year":2015,"country_code":"yt","count":1}
-{"year":2012,"country_code":"ai","count":1}
-{"year":2011,"country_code":"mq","count":1}
-{"year":2008,"country_code":"mg","count":1}
-{"year":2008,"country_code":"kw","count":1}
-{"year":2014,"country_code":"vg","count":1}
-{"year":2015,"country_code":"ps","count":1}
-{"year":2016,"country_code":"ai","count":1}
-{"year":2011,"country_code":"vi","count":1}
-{"year":2010,"country_code":"tl","count":1}
-{"year":2015,"country_code":"vc","count":1}
-{"year":2009,"country_code":"gu","count":1}
-{"year":2012,"country_code":"as","count":1}
-{"year":2013,"country_code":"gm","count":1}
-{"year":2017,"country_code":"sr","count":1}
-{"year":2012,"country_code":"ls","count":1}
-{"year":2015,"country_code":"nu","count":1}
-{"year":2017,"country_code":"bm","count":1}
-{"year":2015,"country_code":"tm","count":1}
-{"year":2014,"country_code":"ki","count":1}
-{"year":2010,"country_code":"sc","count":1}
-{"year":2016,"country_code":"tc","count":1}
-{"year":2009,"country_code":"me","count":1}
-{"year":2017,"country_code":"na","count":1}
-{"year":2009,"country_code":"nc","count":1}
-{"year":2008,"country_code":"dz","count":1}
-{"year":2011,"country_code":"gy","count":1}
-{"year":2011,"country_code":"aw","count":1}
-{"year":2010,"country_code":"gy","count":1}
-{"year":2012,"country_code":"ne","count":1}
-{"year":2008,"country_code":"cu","count":1}
-{"year":2010,"country_code":"ky","count":1}
-{"year":2011,"country_code":"fk","count":1}
-{"year":2017,"country_code":"mn","count":1}
-{"year":2009,"country_code":"vg","count":1}
-{"year":2017,"country_code":"fo","count":1}
-{"year":2008,"country_code":"zm","count":1}
-{"year":2008,"country_code":"tt","count":1}
-{"year":2014,"country_code":"tl","count":1}
-{"year":2014,"country_code":"gs","count":1}
-{"year":2010,"country_code":"li","count":1}
-{"year":2008,"country_code":"kg","count":1}
-{"year":2009,"country_code":"sy","count":1}
-{"year":2009,"country_code":"pn","count":1}
-{"year":2008,"country_code":"gg","count":1}
-{"year":2011,"country_code":"gn","count":1}
-{"year":2008,"country_code":"bj","count":1}
-{"year":2013,"country_code":"sb","count":1}
-{"year":2013,"country_code":"mh","count":1}
-{"year":2011,"country_code":"bf","count":1}
-{"year":2013,"country_code":"lr","count":1}
-{"year":2015,"country_code":"bv","count":1}
-{"year":2011,"country_code":"ss","count":1}
-{"year":2009,"country_code":"mc","count":1}
-{"year":2010,"country_code":"sj","count":1}
-{"year":2012,"country_code":"gf","count":1}
-{"year":2015,"country_code":"ag","count":1}
-{"year":2008,"country_code":"mm","count":1}
-{"year":2016,"country_code":"yt","count":1}
-{"year":2017,"country_code":"lr","count":1}
-{"year":2014,"country_code":"mr","count":1}
-{"year":2016,"country_code":"cd","count":1}
-{"year":2017,"country_code":"jm","count":1}
-{"year":2011,"country_code":"dm","count":1}
-{"year":2010,"country_code":"to","count":1}
-{"year":2012,"country_code":"vg","count":1}
-{"year":2017,"country_code":"sh","count":1}
+[
+    {"year":2014,"country_code":"us","count":90094},
+    {"year":2015,"country_code":"us","count":82353},
+    {"year":2013,"country_code":"us","count":78029},
+    {"year":2012,"country_code":"us","count":71209},
+    {"year":2011,"country_code":"us","count":54710},
+    {"year":2016,"country_code":"us","count":49889},
+    {"year":2010,"country_code":"us","count":28802},
+    {"year":2015,"country_code":"in","count":23749},
+    {"year":2014,"country_code":"in","count":21972},
+    {"year":2015,"country_code":"cn","count":19810},
+    {"year":2013,"country_code":"cn","count":19182},
+    {"year":2014,"country_code":"cn","count":18955},
+    {"year":2013,"country_code":"in","count":17464},
+    {"year":2009,"country_code":"us","count":15947},
+    {"year":2016,"country_code":"in","count":15646},
+    {"year":2014,"country_code":"gb","count":15452},
+    {"year":2013,"country_code":"gb","count":14158},
+    {"year":2012,"country_code":"gb","count":13862},
+    {"year":2016,"country_code":"cn","count":13683},
+    {"year":2015,"country_code":"gb","count":13486},
+    {"year":2012,"country_code":"cn","count":13035},
+    {"year":2012,"country_code":"in","count":12472},
+    {"year":2014,"country_code":"de","count":12367},
+    {"year":2013,"country_code":"de","count":11768},
+    {"year":2012,"country_code":"de","count":11499},
+    {"year":2015,"country_code":"de","count":11460},
+    {"year":2011,"country_code":"gb","count":10363},
+    {"year":2014,"country_code":"br","count":9883},
+    {"year":2014,"country_code":"ca","count":9750},
+    {"year":2015,"country_code":"br","count":9441},
+    {"year":2014,"country_code":"fr","count":9374},
+    {"year":2013,"country_code":"br","count":9299},
+    {"year":2015,"country_code":"ca","count":9036},
+    {"year":2013,"country_code":"ca","count":8865},
+    {"year":2013,"country_code":"fr","count":8653},
+    {"year":2011,"country_code":"de","count":8525},
+    {"year":2008,"country_code":"us","count":8451},
+    {"year":2015,"country_code":"fr","count":8262},
+    {"year":2012,"country_code":"fr","count":8108},
+    {"year":2016,"country_code":"gb","count":8019},
+    {"year":2013,"country_code":"ru","count":7723},
+    {"year":2012,"country_code":"ca","count":7695},
+    {"year":2012,"country_code":"br","count":7388},
+    {"year":2014,"country_code":"ru","count":7209},
+    {"year":2012,"country_code":"ru","count":7197},
+    {"year":2011,"country_code":"cn","count":7009},
+    {"year":2015,"country_code":"ru","count":6966},
+    {"year":2011,"country_code":"in","count":6793},
+    {"year":2016,"country_code":"de","count":6210},
+    {"year":2016,"country_code":"br","count":5839},
+    {"year":2011,"country_code":"ca","count":5641},
+    {"year":2010,"country_code":"gb","count":5601},
+    {"year":2012,"country_code":"jp","count":5595},
+    {"year":2014,"country_code":"au","count":5465},
+    {"year":2011,"country_code":"fr","count":5452},
+    {"year":2011,"country_code":"br","count":5411},
+    {"year":2016,"country_code":"ca","count":5359},
+    {"year":2014,"country_code":"es","count":5322},
+    {"year":2015,"country_code":"ua","count":5221},
+    {"year":2013,"country_code":"au","count":5118},
+    {"year":2011,"country_code":"ru","count":5085},
+    {"year":2015,"country_code":"au","count":5056},
+    {"year":2012,"country_code":"au","count":5039},
+    {"year":2013,"country_code":"jp","count":4955},
+    {"year":2014,"country_code":"nl","count":4923},
+    {"year":2013,"country_code":"es","count":4874},
+    {"year":2014,"country_code":"jp","count":4824},
+    {"year":2013,"country_code":"nl","count":4801},
+    {"year":2015,"country_code":"es","count":4800},
+    {"year":2010,"country_code":"de","count":4724},
+    {"year":2016,"country_code":"ru","count":4706},
+    {"year":2012,"country_code":"nl","count":4441},
+    {"year":2016,"country_code":"fr","count":4327},
+    {"year":2015,"country_code":"jp","count":4312},
+    {"year":2015,"country_code":"nl","count":4295},
+    {"year":2012,"country_code":"es","count":4149},
+    {"year":2014,"country_code":"ua","count":4139},
+    {"year":2011,"country_code":"jp","count":4057},
+    {"year":2011,"country_code":"au","count":4016},
+    {"year":2014,"country_code":"pl","count":3867},
+    {"year":2013,"country_code":"ua","count":3827},
+    {"year":2013,"country_code":"se","count":3646},
+    {"year":2012,"country_code":"se","count":3488},
+    {"year":2015,"country_code":"pl","count":3473},
+    {"year":2014,"country_code":"it","count":3439},
+    {"year":2015,"country_code":"id","count":3398},
+    {"year":2014,"country_code":"se","count":3357},
+    {"year":2011,"country_code":"nl","count":3356},
+    {"year":2013,"country_code":"pl","count":3336},
+    {"year":2016,"country_code":"ua","count":3228},
+    {"year":2012,"country_code":"ua","count":3159},
+    {"year":2011,"country_code":"se","count":3125},
+    {"year":2016,"country_code":"au","count":3100},
+    {"year":2013,"country_code":"it","count":3082},
+    {"year":2015,"country_code":"it","count":3070},
+    {"year":2014,"country_code":"id","count":3042},
+    {"year":2011,"country_code":"es","count":2979},
+    {"year":2009,"country_code":"gb","count":2972},
+    {"year":2010,"country_code":"ca","count":2971},
+    {"year":2015,"country_code":"se","count":2842},
+    {"year":2010,"country_code":"fr","count":2831},
+    {"year":2012,"country_code":"pl","count":2824},
+    {"year":2014,"country_code":"mx","count":2782},
+    {"year":2010,"country_code":"cn","count":2677},
+    {"year":2010,"country_code":"br","count":2626},
+    {"year":2010,"country_code":"in","count":2597},
+    {"year":2016,"country_code":"es","count":2561},
+    {"year":2009,"country_code":"de","count":2560},
+    {"year":2012,"country_code":"it","count":2522},
+    {"year":2016,"country_code":"nl","count":2509},
+    {"year":2013,"country_code":"id","count":2508},
+    {"year":2016,"country_code":"pl","count":2498},
+    {"year":2015,"country_code":"mx","count":2484},
+    {"year":2014,"country_code":"tr","count":2433},
+    {"year":2016,"country_code":"id","count":2413},
+    {"year":2013,"country_code":"mx","count":2300},
+    {"year":2013,"country_code":"tr","count":2277},
+    {"year":2013,"country_code":"kr","count":2210},
+    {"year":2016,"country_code":"jp","count":2202},
+    {"year":2014,"country_code":"ch","count":2173},
+    {"year":2015,"country_code":"tr","count":2156},
+    {"year":2010,"country_code":"ru","count":2144},
+    {"year":2010,"country_code":"au","count":2126},
+    {"year":2013,"country_code":"ch","count":2104},
+    {"year":2014,"country_code":"tw","count":2075},
+    {"year":2015,"country_code":"vn","count":2072},
+    {"year":2014,"country_code":"kr","count":2066},
+    {"year":2015,"country_code":"kr","count":2065},
+    {"year":2010,"country_code":"jp","count":2055},
+    {"year":2012,"country_code":"ch","count":2039},
+    {"year":2012,"country_code":"id","count":2028},
+    {"year":2013,"country_code":"tw","count":2000},
+    {"year":2015,"country_code":"ch","count":1990},
+    {"year":2011,"country_code":"ua","count":1982},
+    {"year":2011,"country_code":"pl","count":1970},
+    {"year":2014,"country_code":"vn","count":1951},
+    {"year":2012,"country_code":"mx","count":1881},
+    {"year":2014,"country_code":"be","count":1855},
+    {"year":2013,"country_code":"be","count":1842},
+    {"year":2013,"country_code":"ar","count":1829},
+    {"year":2017,"country_code":"us","count":1824},
+    {"year":2012,"country_code":"kr","count":1795},
+    {"year":2015,"country_code":"tw","count":1770},
+    {"year":2014,"country_code":"ar","count":1753},
+    {"year":2011,"country_code":"it","count":1746},
+    {"year":2012,"country_code":"dk","count":1740},
+    {"year":2016,"country_code":"it","count":1725},
+    {"year":2010,"country_code":"nl","count":1709},
+    {"year":2012,"country_code":"ar","count":1705},
+    {"year":2012,"country_code":"tr","count":1695},
+    {"year":2014,"country_code":"dk","count":1695},
+    {"year":2010,"country_code":"se","count":1665},
+    {"year":2013,"country_code":"dk","count":1656},
+    {"year":2011,"country_code":"ch","count":1655},
+    {"year":2012,"country_code":"be","count":1615},
+    {"year":2014,"country_code":"pt","count":1615},
+    {"year":2015,"country_code":"ar","count":1615},
+    {"year":2013,"country_code":"vn","count":1614},
+    {"year":2015,"country_code":"be","count":1577},
+    {"year":2014,"country_code":"co","count":1564},
+    {"year":2014,"country_code":"nz","count":1556},
+    {"year":2012,"country_code":"no","count":1549},
+    {"year":2009,"country_code":"ca","count":1545},
+    {"year":2016,"country_code":"se","count":1526},
+    {"year":2016,"country_code":"mx","count":1513},
+    {"year":2015,"country_code":"za","count":1505},
+    {"year":2014,"country_code":"ie","count":1503},
+    {"year":2012,"country_code":"fi","count":1498},
+    {"year":2013,"country_code":"no","count":1465},
+    {"year":2013,"country_code":"pt","count":1453},
+    {"year":2013,"country_code":"fi","count":1442},
+    {"year":2015,"country_code":"nz","count":1435},
+    {"year":2015,"country_code":"co","count":1420},
+    {"year":2013,"country_code":"ie","count":1418},
+    {"year":2014,"country_code":"fi","count":1405},
+    {"year":2011,"country_code":"no","count":1403},
+    {"year":2011,"country_code":"id","count":1395},
+    {"year":2014,"country_code":"ro","count":1382},
+    {"year":2014,"country_code":"sg","count":1381},
+    {"year":2015,"country_code":"dk","count":1380},
+    {"year":2011,"country_code":"dk","count":1380},
+    {"year":2009,"country_code":"jp","count":1380},
+    {"year":2015,"country_code":"pt","count":1380},
+    {"year":2008,"country_code":"gb","count":1370},
+    {"year":2014,"country_code":"za","count":1369},
+    {"year":2012,"country_code":"tw","count":1367},
+    {"year":2014,"country_code":"ph","count":1359},
+    {"year":2015,"country_code":"ie","count":1351},
+    {"year":2014,"country_code":"no","count":1344},
+    {"year":2016,"country_code":"tr","count":1340},
+    {"year":2015,"country_code":"bd","count":1340},
+    {"year":2016,"country_code":"kr","count":1333},
+    {"year":2015,"country_code":"pk","count":1328},
+    {"year":2013,"country_code":"nz","count":1323},
+    {"year":2015,"country_code":"ph","count":1322},
+    {"year":2014,"country_code":"at","count":1303},
+    {"year":2013,"country_code":"co","count":1297},
+    {"year":2016,"country_code":"vn","count":1296},
+    {"year":2009,"country_code":"br","count":1295},
+    {"year":2015,"country_code":"sg","count":1291},
+    {"year":2013,"country_code":"cz","count":1287},
+    {"year":2013,"country_code":"ro","count":1274},
+    {"year":2010,"country_code":"es","count":1270},
+    {"year":2015,"country_code":"ro","count":1270},
+    {"year":2013,"country_code":"za","count":1254},
+    {"year":2013,"country_code":"sg","count":1254},
+    {"year":2014,"country_code":"cz","count":1247},
+    {"year":2015,"country_code":"no","count":1241},
+    {"year":2015,"country_code":"fi","count":1230},
+    {"year":2014,"country_code":"bd","count":1224},
+    {"year":2012,"country_code":"ie","count":1219},
+    {"year":2011,"country_code":"ar","count":1210},
+    {"year":2011,"country_code":"be","count":1209},
+    {"year":2013,"country_code":"at","count":1198},
+    {"year":2012,"country_code":"at","count":1191},
+    {"year":2011,"country_code":"mx","count":1190},
+    {"year":2009,"country_code":"au","count":1184},
+    {"year":2015,"country_code":"by","count":1179},
+    {"year":2012,"country_code":"nz","count":1169},
+    {"year":2012,"country_code":"cz","count":1166},
+    {"year":2011,"country_code":"fi","count":1166},
+    {"year":2014,"country_code":"pk","count":1159},
+    {"year":2009,"country_code":"fr","count":1156},
+    {"year":2012,"country_code":"ro","count":1151},
+    {"year":2015,"country_code":"cz","count":1137},
+    {"year":2013,"country_code":"ph","count":1135},
+    {"year":2015,"country_code":"at","count":1120},
+    {"year":2016,"country_code":"pk","count":1114},
+    {"year":2012,"country_code":"pt","count":1110},
+    {"year":2012,"country_code":"za","count":1101},
+    {"year":2013,"country_code":"by","count":1093},
+    {"year":2010,"country_code":"pl","count":1075},
+    {"year":2014,"country_code":"by","count":1072},
+    {"year":2011,"country_code":"kr","count":1069},
+    {"year":2014,"country_code":"bg","count":1068},
+    {"year":2016,"country_code":"ch","count":1062},
+    {"year":2012,"country_code":"co","count":1060},
+    {"year":2012,"country_code":"sg","count":1057},
+    {"year":2011,"country_code":"tr","count":1042},
+    {"year":2015,"country_code":"bg","count":1036},
+    {"year":2009,"country_code":"cn","count":1026},
+    {"year":2015,"country_code":"ir","count":1025},
+    {"year":2012,"country_code":"vn","count":1011},
+    {"year":2016,"country_code":"ph","count":1005},
+    {"year":2014,"country_code":"il","count":995},
+    {"year":2013,"country_code":"il","count":992},
+    {"year":2016,"country_code":"za","count":990},
+    {"year":2008,"country_code":"de","count":990},
+    {"year":2012,"country_code":"by","count":983},
+    {"year":2013,"country_code":"bg","count":976},
+    {"year":2014,"country_code":"hu","count":969},
+    {"year":2013,"country_code":"bd","count":965},
+    {"year":2015,"country_code":"eg","count":964},
+    {"year":2016,"country_code":"ar","count":963},
+    {"year":2016,"country_code":"tw","count":962},
+    {"year":2014,"country_code":"gr","count":953},
+    {"year":2016,"country_code":"bd","count":949},
+    {"year":2013,"country_code":"pk","count":949},
+    {"year":2009,"country_code":"in","count":946},
+    {"year":2016,"country_code":"be","count":939},
+    {"year":2009,"country_code":"ru","count":937},
+    {"year":2016,"country_code":"nz","count":928},
+    {"year":2009,"country_code":"se","count":924},
+    {"year":2015,"country_code":"gr","count":909},
+    {"year":2010,"country_code":"it","count":908},
+    {"year":2011,"country_code":"tw","count":906},
+    {"year":2013,"country_code":"gr","count":900},
+    {"year":2013,"country_code":"hu","count":895},
+    {"year":2010,"country_code":"no","count":893},
+    {"year":2011,"country_code":"at","count":882},
+    {"year":2011,"country_code":"cz","count":879},
+    {"year":2012,"country_code":"ph","count":875},
+    {"year":2011,"country_code":"nz","count":871},
+    {"year":2014,"country_code":"ir","count":870},
+    {"year":2014,"country_code":"eg","count":870},
+    {"year":2016,"country_code":"co","count":869},
+    {"year":2014,"country_code":"cl","count":867},
+    {"year":2013,"country_code":"cl","count":848},
+    {"year":2011,"country_code":"ie","count":844},
+    {"year":2011,"country_code":"pt","count":841},
+    {"year":2013,"country_code":"ir","count":840},
+    {"year":2015,"country_code":"cl","count":839},
+    {"year":2016,"country_code":"ro","count":835},
+    {"year":2014,"country_code":"th","count":833},
+    {"year":2010,"country_code":"ch","count":831},
+    {"year":2015,"country_code":"il","count":829},
+    {"year":2012,"country_code":"il","count":827},
+    {"year":2010,"country_code":"ua","count":816},
+    {"year":2015,"country_code":"hu","count":813},
+    {"year":2012,"country_code":"cl","count":808},
+    {"year":2015,"country_code":"my","count":796},
+    {"year":2016,"country_code":"sg","count":795},
+    {"year":2015,"country_code":"th","count":795},
+    {"year":2009,"country_code":"nl","count":794},
+    {"year":2013,"country_code":"th","count":791},
+    {"year":2011,"country_code":"ro","count":789},
+    {"year":2011,"country_code":"za","count":786},
+    {"year":2016,"country_code":"pt","count":784},
+    {"year":2011,"country_code":"sg","count":770},
+    {"year":2016,"country_code":"by","count":765},
+    {"year":2014,"country_code":"hk","count":764},
+    {"year":2016,"country_code":"eg","count":761},
+    {"year":2016,"country_code":"fi","count":756},
+    {"year":2008,"country_code":"ca","count":749},
+    {"year":2016,"country_code":"ng","count":748},
+    {"year":2012,"country_code":"th","count":747},
+    {"year":2016,"country_code":"ie","count":742},
+    {"year":2012,"country_code":"hu","count":737},
+    {"year":2015,"country_code":"hk","count":734},
+    {"year":2016,"country_code":"dk","count":733},
+    {"year":2016,"country_code":"ir","count":729},
+    {"year":2012,"country_code":"gr","count":721},
+    {"year":2016,"country_code":"at","count":715},
+    {"year":2008,"country_code":"jp","count":706},
+    {"year":2015,"country_code":"ng","count":696},
+    {"year":2015,"country_code":"rs","count":693},
+    {"year":2014,"country_code":"ve","count":690},
+    {"year":2014,"country_code":"my","count":685},
+    {"year":2015,"country_code":"ve","count":671},
+    {"year":2012,"country_code":"pk","count":669},
+    {"year":2010,"country_code":"dk","count":664},
+    {"year":2013,"country_code":"hk","count":663},
+    {"year":2013,"country_code":"eg","count":654},
+    {"year":2013,"country_code":"pe","count":649},
+    {"year":2016,"country_code":"no","count":643},
+    {"year":2012,"country_code":"bd","count":642},
+    {"year":2012,"country_code":"bg","count":639},
+    {"year":2016,"country_code":"bg","count":628},
+    {"year":2011,"country_code":"ph","count":627},
+    {"year":2008,"country_code":"au","count":622},
+    {"year":2014,"country_code":"pe","count":617},
+    {"year":2011,"country_code":"by","count":607},
+    {"year":2016,"country_code":"gr","count":603},
+    {"year":2009,"country_code":"pl","count":601},
+    {"year":2008,"country_code":"br","count":597},
+    {"year":2014,"country_code":"rs","count":586},
+    {"year":2010,"country_code":"ar","count":582},
+    {"year":2016,"country_code":"cz","count":581},
+    {"year":2017,"country_code":"in","count":576},
+    {"year":2011,"country_code":"il","count":576},
+    {"year":2010,"country_code":"be","count":573},
+    {"year":2011,"country_code":"co","count":568},
+    {"year":2016,"country_code":"rs","count":567},
+    {"year":2010,"country_code":"cz","count":566},
+    {"year":2017,"country_code":"cn","count":566},
+    {"year":2013,"country_code":"my","count":562},
+    {"year":2011,"country_code":"gr","count":561},
+    {"year":2016,"country_code":"hu","count":559},
+    {"year":2013,"country_code":"rs","count":559},
+    {"year":2012,"country_code":"ir","count":555},
+    {"year":2016,"country_code":"th","count":554},
+    {"year":2011,"country_code":"cl","count":547},
+    {"year":2012,"country_code":"pe","count":545},
+    {"year":2009,"country_code":"es","count":545},
+    {"year":2011,"country_code":"hu","count":544},
+    {"year":2012,"country_code":"hk","count":534},
+    {"year":2010,"country_code":"id","count":530},
+    {"year":2010,"country_code":"fi","count":526},
+    {"year":2011,"country_code":"vn","count":523},
+    {"year":2013,"country_code":"ve","count":522},
+    {"year":2010,"country_code":"mx","count":521},
+    {"year":2016,"country_code":"il","count":521},
+    {"year":2010,"country_code":"tr","count":518},
+    {"year":2015,"country_code":"pe","count":517},
+    {"year":2010,"country_code":"at","count":516},
+    {"year":2012,"country_code":"eg","count":501},
+    {"year":2011,"country_code":"th","count":500},
+    {"year":2015,"country_code":"ke","count":492},
+    {"year":2014,"country_code":"ng","count":486},
+    {"year":2010,"country_code":"nz","count":486},
+    {"year":2014,"country_code":"hr","count":484},
+    {"year":2009,"country_code":"no","count":476},
+    {"year":2015,"country_code":"hr","count":476},
+    {"year":2016,"country_code":"my","count":474},
+    {"year":2016,"country_code":"ve","count":473},
+    {"year":2016,"country_code":"hk","count":471},
+    {"year":2015,"country_code":"ae","count":470},
+    {"year":2016,"country_code":"cl","count":466},
+    {"year":2013,"country_code":"hr","count":465},
+    {"year":2010,"country_code":"kr","count":464},
+    {"year":2012,"country_code":"ve","count":460},
+    {"year":2009,"country_code":"ch","count":449},
+    {"year":2010,"country_code":"ie","count":449},
+    {"year":2010,"country_code":"pt","count":449},
+    {"year":2012,"country_code":"my","count":448},
+    {"year":2010,"country_code":"tw","count":440},
+    {"year":2014,"country_code":"lk","count":433},
+    {"year":2008,"country_code":"fr","count":421},
+    {"year":2017,"country_code":"br","count":417},
+    {"year":2009,"country_code":"it","count":413},
+    {"year":2014,"country_code":"lt","count":411},
+    {"year":2013,"country_code":"sk","count":410},
+    {"year":2012,"country_code":"rs","count":408},
+    {"year":2014,"country_code":"ae","count":408},
+    {"year":2013,"country_code":"lt","count":398},
+    {"year":2015,"country_code":"np","count":398},
+    {"year":2014,"country_code":"np","count":396},
+    {"year":2011,"country_code":"bg","count":395},
+    {"year":2014,"country_code":"ke","count":390},
+    {"year":2008,"country_code":"cn","count":384},
+    {"year":2010,"country_code":"sg","count":379},
+    {"year":2012,"country_code":"hr","count":379},
+    {"year":2013,"country_code":"cr","count":377},
+    {"year":2011,"country_code":"hk","count":375},
+    {"year":2014,"country_code":"cr","count":374},
+    {"year":2009,"country_code":"dk","count":372},
+    {"year":2011,"country_code":"pk","count":372},
+    {"year":2013,"country_code":"np","count":371},
+    {"year":2013,"country_code":"lk","count":365},
+    {"year":2013,"country_code":"ae","count":361},
+    {"year":2014,"country_code":"sk","count":358},
+    {"year":2015,"country_code":"lk","count":357},
+    {"year":2016,"country_code":"ke","count":357},
+    {"year":2016,"country_code":"np","count":356},
+    {"year":2015,"country_code":"sk","count":356},
+    {"year":2016,"country_code":"pe","count":353},
+    {"year":2012,"country_code":"cr","count":351},
+    {"year":2011,"country_code":"my","count":339},
+    {"year":2011,"country_code":"pe","count":336},
+    {"year":2010,"country_code":"ro","count":335},
+    {"year":2016,"country_code":"ae","count":335},
+    {"year":2015,"country_code":"cr","count":334},
+    {"year":2009,"country_code":"fi","count":334},
+    {"year":2013,"country_code":"ee","count":333},
+    {"year":2008,"country_code":"se","count":332},
+    {"year":2015,"country_code":"lt","count":331},
+    {"year":2010,"country_code":"za","count":329},
+    {"year":2015,"country_code":"ec","count":329},
+    {"year":2014,"country_code":"ee","count":326},
+    {"year":2013,"country_code":"ng","count":324},
+    {"year":2017,"country_code":"gb","count":322},
+    {"year":2011,"country_code":"eg","count":318},
+    {"year":2012,"country_code":"ae","count":315},
+    {"year":2013,"country_code":"ke","count":314},
+    {"year":2010,"country_code":"hu","count":310},
+    {"year":2009,"country_code":"nz","count":309},
+    {"year":2013,"country_code":"uy","count":309},
+    {"year":2012,"country_code":"lt","count":306},
+    {"year":2009,"country_code":"be","count":305},
+    {"year":2011,"country_code":"bd","count":305},
+    {"year":2008,"country_code":"ru","count":303},
+    {"year":2008,"country_code":"nl","count":303},
+    {"year":2016,"country_code":"hr","count":301},
+    {"year":2015,"country_code":"ma","count":300},
+    {"year":2014,"country_code":"ec","count":298},
+    {"year":2012,"country_code":"ee","count":296},
+    {"year":2014,"country_code":"uy","count":295},
+    {"year":2009,"country_code":"at","count":295},
+    {"year":2014,"country_code":"tn","count":293},
+    {"year":2013,"country_code":"si","count":292},
+    {"year":2009,"country_code":"ua","count":292},
+    {"year":2009,"country_code":"ar","count":291},
+    {"year":2015,"country_code":"ee","count":291},
+    {"year":2013,"country_code":"ec","count":291},
+    {"year":2008,"country_code":"in","count":290},
+    {"year":2012,"country_code":"sk","count":290},
+    {"year":2013,"country_code":"lv","count":277},
+    {"year":2012,"country_code":"lv","count":275},
+    {"year":2009,"country_code":"tw","count":275},
+    {"year":2010,"country_code":"il","count":274},
+    {"year":2014,"country_code":"lv","count":272},
+    {"year":2013,"country_code":"tn","count":271},
+    {"year":2008,"country_code":"es","count":270},
+    {"year":2014,"country_code":"si","count":262},
+    {"year":2013,"country_code":"do","count":261},
+    {"year":2011,"country_code":"hr","count":260},
+    {"year":2010,"country_code":"th","count":255},
+    {"year":2014,"country_code":"do","count":255},
+    {"year":2016,"country_code":"lt","count":253},
+    {"year":2015,"country_code":"tn","count":253},
+    {"year":2011,"country_code":"ir","count":252},
+    {"year":2013,"country_code":"ma","count":251},
+    {"year":2012,"country_code":"si","count":251},
+    {"year":2011,"country_code":"ee","count":250},
+    {"year":2012,"country_code":"uy","count":247},
+    {"year":2010,"country_code":"ph","count":245},
+    {"year":2015,"country_code":"si","count":242},
+    {"year":2012,"country_code":"lk","count":241},
+    {"year":2010,"country_code":"cl","count":239},
+    {"year":2014,"country_code":"ma","count":238},
+    {"year":2011,"country_code":"rs","count":238},
+    {"year":2011,"country_code":"sk","count":237},
+    {"year":2011,"country_code":"ve","count":237},
+    {"year":2016,"country_code":"ma","count":236},
+    {"year":2010,"country_code":"by","count":236},
+    {"year":2010,"country_code":"vn","count":235},
+    {"year":2009,"country_code":"ie","count":230},
+    {"year":2017,"country_code":"fr","count":229},
+    {"year":2017,"country_code":"de","count":228},
+    {"year":2009,"country_code":"cz","count":225},
+    {"year":2011,"country_code":"lt","count":224},
+    {"year":2015,"country_code":"uy","count":223},
+    {"year":2010,"country_code":"co","count":221},
+    {"year":2009,"country_code":"pt","count":221},
+    {"year":2010,"country_code":"bg","count":221},
+    {"year":2015,"country_code":"lv","count":218},
+    {"year":2015,"country_code":"pr","count":217},
+    {"year":2015,"country_code":"gt","count":215},
+    {"year":2016,"country_code":"lk","count":214},
+    {"year":2016,"country_code":"cr","count":214},
+    {"year":2012,"country_code":"do","count":211},
+    {"year":2011,"country_code":"uy","count":211},
+    {"year":2013,"country_code":"kz","count":211},
+    {"year":2008,"country_code":"pl","count":210},
+    {"year":2011,"country_code":"lv","count":209},
+    {"year":2017,"country_code":"ca","count":203},
+    {"year":2013,"country_code":"is","count":203},
+    {"year":2016,"country_code":"sk","count":201},
+    {"year":2010,"country_code":"hk","count":201},
+    {"year":2009,"country_code":"mx","count":200},
+    {"year":2015,"country_code":"do","count":197},
+    {"year":2012,"country_code":"ec","count":196},
+    {"year":2008,"country_code":"no","count":196},
+    {"year":2009,"country_code":"tr","count":195},
+    {"year":2012,"country_code":"is","count":195},
+    {"year":2015,"country_code":"kz","count":194},
+    {"year":2010,"country_code":"gr","count":193},
+    {"year":2011,"country_code":"ae","count":193},
+    {"year":2012,"country_code":"tn","count":193},
+    {"year":2012,"country_code":"ke","count":191},
+    {"year":2011,"country_code":"si","count":190},
+    {"year":2012,"country_code":"ng","count":190},
+    {"year":2008,"country_code":"it","count":190},
+    {"year":2013,"country_code":"gt","count":184},
+    {"year":2014,"country_code":"gt","count":183},
+    {"year":2015,"country_code":"sa","count":180},
+    {"year":2010,"country_code":"my","count":177},
+    {"year":2016,"country_code":"tn","count":177},
+    {"year":2008,"country_code":"ch","count":176},
+    {"year":2009,"country_code":"id","count":175},
+    {"year":2014,"country_code":"is","count":175},
+    {"year":2013,"country_code":"bo","count":175},
+    {"year":2014,"country_code":"pr","count":171},
+    {"year":2012,"country_code":"np","count":170},
+    {"year":2014,"country_code":"kz","count":169},
+    {"year":2008,"country_code":"dk","count":168},
+    {"year":2015,"country_code":"ba","count":167},
+    {"year":2011,"country_code":"cr","count":166},
+    {"year":2010,"country_code":"ee","count":166},
+    {"year":2009,"country_code":"za","count":164},
+    {"year":2013,"country_code":"pr","count":163},
+    {"year":2015,"country_code":"gh","count":162},
+    {"year":2009,"country_code":"kr","count":162},
+    {"year":2016,"country_code":"ee","count":161},
+    {"year":2009,"country_code":"sg","count":160},
+    {"year":2017,"country_code":"au","count":159},
+    {"year":2014,"country_code":"sa","count":158},
+    {"year":2012,"country_code":"ma","count":158},
+    {"year":2013,"country_code":"sa","count":158},
+    {"year":2017,"country_code":"es","count":158},
+    {"year":2016,"country_code":"gh","count":156},
+    {"year":2017,"country_code":"ru","count":156},
+    {"year":2016,"country_code":"uy","count":155},
+    {"year":2016,"country_code":"ba","count":155},
+    {"year":2014,"country_code":"bo","count":153},
+    {"year":2012,"country_code":"kz","count":152},
+    {"year":2016,"country_code":"sa","count":150},
+    {"year":2017,"country_code":"id","count":150},
+    {"year":2008,"country_code":"fi","count":148},
+    {"year":2016,"country_code":"kz","count":147},
+    {"year":2014,"country_code":"mk","count":145},
+    {"year":2014,"country_code":"gd","count":145},
+    {"year":2016,"country_code":"ec","count":144},
+    {"year":2016,"country_code":"si","count":144},
+    {"year":2016,"country_code":"do","count":143},
+    {"year":2013,"country_code":"mk","count":141},
+    {"year":2009,"country_code":"ro","count":139},
+    {"year":2015,"country_code":"ug","count":138},
+    {"year":2009,"country_code":"il","count":138},
+    {"year":2015,"country_code":"gd","count":136},
+    {"year":2014,"country_code":"ba","count":133},
+    {"year":2014,"country_code":"mt","count":133},
+    {"year":2016,"country_code":"lv","count":133},
+    {"year":2010,"country_code":"pk","count":133},
+    {"year":2012,"country_code":"bo","count":132},
+    {"year":2012,"country_code":"lu","count":131},
+    {"year":2010,"country_code":"eg","count":131},
+    {"year":2014,"country_code":"jo","count":130},
+    {"year":2014,"country_code":"lu","count":130},
+    {"year":2014,"country_code":"kh","count":130},
+    {"year":2013,"country_code":"mt","count":130},
+    {"year":2011,"country_code":"ng","count":130},
+    {"year":2015,"country_code":"kh","count":130},
+    {"year":2015,"country_code":"dz","count":129},
+    {"year":2010,"country_code":"pe","count":129},
+    {"year":2015,"country_code":"md","count":129},
+    {"year":2008,"country_code":"nz","count":129},
+    {"year":2011,"country_code":"lk","count":128},
+    {"year":2012,"country_code":"md","count":125},
+    {"year":2015,"country_code":"sv","count":125},
+    {"year":2013,"country_code":"am","count":124},
+    {"year":2016,"country_code":"dz","count":124},
+    {"year":2016,"country_code":"pr","count":124},
+    {"year":2016,"country_code":"mk","count":124},
+    {"year":2010,"country_code":"sk","count":123},
+    {"year":2013,"country_code":"sv","count":123},
+    {"year":2008,"country_code":"at","count":123},
+    {"year":2017,"country_code":"it","count":123},
+    {"year":2011,"country_code":"ke","count":122},
+    {"year":2010,"country_code":"lt","count":122},
+    {"year":2015,"country_code":"mk","count":121},
+    {"year":2014,"country_code":"am","count":121},
+    {"year":2015,"country_code":"mm","count":121},
+    {"year":2015,"country_code":"mt","count":120},
+    {"year":2008,"country_code":"be","count":120},
+    {"year":2010,"country_code":"bd","count":120},
+    {"year":2015,"country_code":"is","count":119},
+    {"year":2014,"country_code":"dz","count":119},
+    {"year":2015,"country_code":"jo","count":118},
+    {"year":2014,"country_code":"gh","count":117},
+    {"year":2013,"country_code":"lu","count":117},
+    {"year":2010,"country_code":"rs","count":116},
+    {"year":2013,"country_code":"ug","count":116},
+    {"year":2014,"country_code":"sv","count":116},
+    {"year":2015,"country_code":"cm","count":115},
+    {"year":2011,"country_code":"ec","count":115},
+    {"year":2017,"country_code":"vn","count":114},
+    {"year":2010,"country_code":"hr","count":113},
+    {"year":2013,"country_code":"ba","count":113},
+    {"year":2014,"country_code":"md","count":113},
+    {"year":2012,"country_code":"gt","count":110},
+    {"year":2012,"country_code":"sv","count":109},
+    {"year":2013,"country_code":"gh","count":109},
+    {"year":2013,"country_code":"pa","count":108},
+    {"year":2009,"country_code":"bg","count":108},
+    {"year":2012,"country_code":"sa","count":108},
+    {"year":2008,"country_code":"ie","count":107},
+    {"year":2015,"country_code":"am","count":107},
+    {"year":2013,"country_code":"md","count":106},
+    {"year":2015,"country_code":"bo","count":106},
+    {"year":2010,"country_code":"lv","count":106},
+    {"year":2013,"country_code":"py","count":105},
+    {"year":2014,"country_code":"py","count":105},
+    {"year":2011,"country_code":"is","count":105},
+    {"year":2010,"country_code":"ae","count":104},
+    {"year":2011,"country_code":"do","count":104},
+    {"year":2015,"country_code":"lu","count":103},
+    {"year":2009,"country_code":"hu","count":103},
+    {"year":2014,"country_code":"lb","count":102},
+    {"year":2015,"country_code":"lb","count":101},
+    {"year":2017,"country_code":"nl","count":101},
+    {"year":2013,"country_code":"bj","count":101},
+    {"year":2011,"country_code":"np","count":101},
+    {"year":2015,"country_code":"et","count":101},
+    {"year":2010,"country_code":"ir","count":101},
+    {"year":2010,"country_code":"ve","count":100},
+    {"year":2014,"country_code":"ug","count":100},
+    {"year":2008,"country_code":"pt","count":99},
+    {"year":2009,"country_code":"th","count":99},
+    {"year":2014,"country_code":"et","count":99},
+    {"year":2009,"country_code":"hk","count":97},
+    {"year":2009,"country_code":"ph","count":97},
+    {"year":2009,"country_code":"vn","count":97},
+    {"year":2013,"country_code":"kh","count":97},
+    {"year":2016,"country_code":"kh","count":97},
+    {"year":2008,"country_code":"tw","count":95},
+    {"year":2012,"country_code":"gh","count":95},
+    {"year":2015,"country_code":"cu","count":94},
+    {"year":2012,"country_code":"pa","count":94},
+    {"year":2008,"country_code":"ua","count":93},
+    {"year":2016,"country_code":"gt","count":93},
+    {"year":2010,"country_code":"is","count":93},
+    {"year":2011,"country_code":"kz","count":92},
+    {"year":2009,"country_code":"by","count":91},
+    {"year":2015,"country_code":"bj","count":91},
+    {"year":2017,"country_code":"jp","count":90},
+    {"year":2012,"country_code":"mt","count":90},
+    {"year":2017,"country_code":"pl","count":89},
+    {"year":2012,"country_code":"jo","count":88},
+    {"year":2013,"country_code":"dz","count":88},
+    {"year":2008,"country_code":"cz","count":88},
+    {"year":2017,"country_code":"mx","count":87},
+    {"year":2014,"country_code":"cy","count":87},
+    {"year":2014,"country_code":"mm","count":86},
+    {"year":2016,"country_code":"mt","count":86},
+    {"year":2011,"country_code":"sa","count":86},
+    {"year":2012,"country_code":"ba","count":86},
+    {"year":2013,"country_code":"jo","count":86},
+    {"year":2012,"country_code":"pr","count":85},
+    {"year":2009,"country_code":"cl","count":85},
+    {"year":2014,"country_code":"bj","count":85},
+    {"year":2008,"country_code":"ar","count":85},
+    {"year":2010,"country_code":"uy","count":84},
+    {"year":2010,"country_code":"si","count":84},
+    {"year":2016,"country_code":"mm","count":84},
+    {"year":2012,"country_code":"am","count":83},
+    {"year":2012,"country_code":"dz","count":83},
+    {"year":2009,"country_code":"gr","count":82},
+    {"year":2015,"country_code":"pa","count":82},
+    {"year":2012,"country_code":"cy","count":82},
+    {"year":2016,"country_code":"et","count":81},
+    {"year":2013,"country_code":"lb","count":81},
+    {"year":2016,"country_code":"lu","count":80},
+    {"year":2013,"country_code":"cy","count":79},
+    {"year":2015,"country_code":"az","count":79},
+    {"year":2011,"country_code":"gt","count":79},
+    {"year":2009,"country_code":"co","count":79},
+    {"year":2011,"country_code":"tn","count":78},
+    {"year":2015,"country_code":"py","count":78},
+    {"year":2016,"country_code":"cm","count":78},
+    {"year":2011,"country_code":"lu","count":78},
+    {"year":2013,"country_code":"gd","count":78},
+    {"year":2016,"country_code":"jo","count":78},
+    {"year":2008,"country_code":"sg","count":78},
+    {"year":2009,"country_code":"my","count":77},
+    {"year":2015,"country_code":"cy","count":76},
+    {"year":2011,"country_code":"md","count":76},
+    {"year":2016,"country_code":"sv","count":75},
+    {"year":2017,"country_code":"ph","count":74},
+    {"year":2016,"country_code":"jm","count":74},
+    {"year":2012,"country_code":"py","count":74},
+    {"year":2014,"country_code":"cu","count":74},
+    {"year":2013,"country_code":"mm","count":74},
+    {"year":2016,"country_code":"pa","count":73},
+    {"year":2011,"country_code":"ma","count":73},
+    {"year":2016,"country_code":"bo","count":72},
+    {"year":2009,"country_code":"ee","count":71},
+    {"year":2015,"country_code":"hn","count":71},
+    {"year":2016,"country_code":"az","count":71},
+    {"year":2014,"country_code":"jm","count":71},
+    {"year":2014,"country_code":"pa","count":71},
+    {"year":2015,"country_code":"al","count":71},
+    {"year":2014,"country_code":"al","count":71},
+    {"year":2016,"country_code":"md","count":70},
+    {"year":2017,"country_code":"kr","count":70},
+    {"year":2010,"country_code":"cr","count":70},
+    {"year":2013,"country_code":"cu","count":70},
+    {"year":2017,"country_code":"ng","count":70},
+    {"year":2013,"country_code":"jm","count":70},
+    {"year":2012,"country_code":"lb","count":69},
+    {"year":2014,"country_code":"tz","count":69},
+    {"year":2016,"country_code":"ug","count":69},
+    {"year":2014,"country_code":"ni","count":69},
+    {"year":2009,"country_code":"lt","count":69},
+    {"year":2013,"country_code":"et","count":69},
+    {"year":2008,"country_code":"mx","count":69},
+    {"year":2015,"country_code":"jm","count":69},
+    {"year":2015,"country_code":"ni","count":69},
+    {"year":2014,"country_code":"hn","count":69},
+    {"year":2017,"country_code":"bd","count":68},
+    {"year":2016,"country_code":"is","count":67},
+    {"year":2016,"country_code":"py","count":67},
+    {"year":2013,"country_code":"ni","count":67},
+    {"year":2013,"country_code":"kg","count":66},
+    {"year":2012,"country_code":"mk","count":66},
+    {"year":2014,"country_code":"cm","count":66},
+    {"year":2011,"country_code":"bo","count":66},
+    {"year":2013,"country_code":"hn","count":65},
+    {"year":2011,"country_code":"pr","count":65},
+    {"year":2016,"country_code":"lb","count":65},
+    {"year":2011,"country_code":"mt","count":64},
+    {"year":2008,"country_code":"za","count":63},
+    {"year":2015,"country_code":"tz","count":63},
+    {"year":2013,"country_code":"uz","count":63},
+    {"year":2008,"country_code":"ro","count":62},
+    {"year":2015,"country_code":"uz","count":62},
+    {"year":2011,"country_code":"ba","count":61},
+    {"year":2010,"country_code":"ke","count":61},
+    {"year":2012,"country_code":"ni","count":61},
+    {"year":2016,"country_code":"am","count":60},
+    {"year":2013,"country_code":"tz","count":59},
+    {"year":2012,"country_code":"bj","count":59},
+    {"year":2014,"country_code":"az","count":59},
+    {"year":2010,"country_code":"lk","count":59},
+    {"year":2016,"country_code":"tz","count":58},
+    {"year":2011,"country_code":"sv","count":58},
+    {"year":2011,"country_code":"jo","count":58},
+    {"year":2011,"country_code":"gh","count":58},
+    {"year":2016,"country_code":"iq","count":58},
+    {"year":2016,"country_code":"gd","count":57},
+    {"year":2017,"country_code":"ua","count":57},
+    {"year":2014,"country_code":"uz","count":57},
+    {"year":2017,"country_code":"za","count":57},
+    {"year":2015,"country_code":"sz","count":56},
+    {"year":2015,"country_code":"zw","count":56},
+    {"year":2008,"country_code":"hu","count":56},
+    {"year":2008,"country_code":"kr","count":56},
+    {"year":2013,"country_code":"mn","count":56},
+    {"year":2011,"country_code":"pa","count":56},
+    {"year":2012,"country_code":"hn","count":55},
+    {"year":2012,"country_code":"mn","count":55},
+    {"year":2015,"country_code":"mn","count":55},
+    {"year":2011,"country_code":"cy","count":55},
+    {"year":2016,"country_code":"al","count":54},
+    {"year":2017,"country_code":"no","count":54},
+    {"year":2016,"country_code":"cy","count":54},
+    {"year":2012,"country_code":"ug","count":54},
+    {"year":2012,"country_code":"jm","count":54},
+    {"year":2008,"country_code":"ph","count":53},
+    {"year":2013,"country_code":"sz","count":53},
+    {"year":2009,"country_code":"is","count":52},
+    {"year":2009,"country_code":"pe","count":52},
+    {"year":2011,"country_code":"mk","count":52},
+    {"year":2012,"country_code":"kh","count":52},
+    {"year":2016,"country_code":"cu","count":52},
+    {"year":2017,"country_code":"co","count":52},
+    {"year":2016,"country_code":"bj","count":52},
+    {"year":2009,"country_code":"uy","count":51},
+    {"year":2008,"country_code":"th","count":51},
+    {"year":2008,"country_code":"id","count":51},
+    {"year":2008,"country_code":"tr","count":50},
+    {"year":2017,"country_code":"se","count":50},
+    {"year":2012,"country_code":"mm","count":50},
+    {"year":2012,"country_code":"et","count":49},
+    {"year":2014,"country_code":"mn","count":49},
+    {"year":2013,"country_code":"qa","count":49},
+    {"year":2011,"country_code":"lb","count":48},
+    {"year":2011,"country_code":"dz","count":48},
+    {"year":2010,"country_code":"ng","count":48},
+    {"year":2016,"country_code":"uz","count":48},
+    {"year":2014,"country_code":"qa","count":48},
+    {"year":2009,"country_code":"si","count":48},
+    {"year":2013,"country_code":"al","count":48},
+    {"year":2015,"country_code":"sn","count":48},
+    {"year":2014,"country_code":"kg","count":47},
+    {"year":2016,"country_code":"ni","count":47},
+    {"year":2017,"country_code":"tr","count":47},
+    {"year":2009,"country_code":"rs","count":47},
+    {"year":2011,"country_code":"kh","count":47},
+    {"year":2016,"country_code":"zw","count":46},
+    {"year":2016,"country_code":"kg","count":46},
+    {"year":2009,"country_code":"eg","count":46},
+    {"year":2011,"country_code":"ug","count":46},
+    {"year":2012,"country_code":"tz","count":46},
+    {"year":2011,"country_code":"hn","count":46},
+    {"year":2009,"country_code":"sk","count":46},
+    {"year":2009,"country_code":"bd","count":46},
+    {"year":2015,"country_code":"iq","count":46},
+    {"year":2011,"country_code":"py","count":45},
+    {"year":2015,"country_code":"mg","count":45},
+    {"year":2016,"country_code":"mu","count":45},
+    {"year":2017,"country_code":"ar","count":44},
+    {"year":2013,"country_code":"cm","count":44},
+    {"year":2017,"country_code":"ir","count":44},
+    {"year":2010,"country_code":"np","count":44},
+    {"year":2012,"country_code":"gd","count":44},
+    {"year":2014,"country_code":"kw","count":43},
+    {"year":2015,"country_code":"kg","count":43},
+    {"year":2017,"country_code":"ro","count":42},
+    {"year":2009,"country_code":"ae","count":42},
+    {"year":2011,"country_code":"ni","count":42},
+    {"year":2008,"country_code":"co","count":42},
+    {"year":2014,"country_code":"tt","count":42},
+    {"year":2015,"country_code":"mu","count":42},
+    {"year":2009,"country_code":"pk","count":42},
+    {"year":2010,"country_code":"sa","count":41},
+    {"year":2010,"country_code":"lu","count":41},
+    {"year":2013,"country_code":"kw","count":41},
+    {"year":2017,"country_code":"cz","count":41},
+    {"year":2010,"country_code":"tn","count":40},
+    {"year":2015,"country_code":"so","count":40},
+    {"year":2013,"country_code":"zw","count":40},
+    {"year":2013,"country_code":"mu","count":40},
+    {"year":2012,"country_code":"uz","count":40},
+    {"year":2016,"country_code":"hn","count":40},
+    {"year":2011,"country_code":"kw","count":40},
+    {"year":2014,"country_code":"zw","count":40},
+    {"year":2014,"country_code":"mu","count":40},
+    {"year":2008,"country_code":"il","count":39},
+    {"year":2014,"country_code":"sy","count":39},
+    {"year":2014,"country_code":"iq","count":39},
+    {"year":2012,"country_code":"cu","count":39},
+    {"year":2014,"country_code":"mg","count":39},
+    {"year":2013,"country_code":"az","count":38},
+    {"year":2017,"country_code":"pk","count":38},
+    {"year":2010,"country_code":"ec","count":38},
+    {"year":2012,"country_code":"bh","count":38},
+    {"year":2011,"country_code":"am","count":38},
+    {"year":2015,"country_code":"qa","count":37},
+    {"year":2017,"country_code":"ch","count":37},
+    {"year":2009,"country_code":"lv","count":37},
+    {"year":2015,"country_code":"af","count":37},
+    {"year":2014,"country_code":"sz","count":37},
+    {"year":2015,"country_code":"sy","count":37},
+    {"year":2010,"country_code":"mk","count":37},
+    {"year":2014,"country_code":"me","count":37},
+    {"year":2016,"country_code":"kw","count":37},
+    {"year":2015,"country_code":"ci","count":36},
+    {"year":2010,"country_code":"do","count":36},
+    {"year":2009,"country_code":"ve","count":36},
+    {"year":2015,"country_code":"kw","count":36},
+    {"year":2010,"country_code":"bo","count":36},
+    {"year":2014,"country_code":"mz","count":36},
+    {"year":2016,"country_code":"sy","count":36},
+    {"year":2016,"country_code":"qa","count":36},
+    {"year":2012,"country_code":"kg","count":34},
+    {"year":2016,"country_code":"rw","count":34},
+    {"year":2012,"country_code":"az","count":34},
+    {"year":2017,"country_code":"ve","count":34},
+    {"year":2010,"country_code":"kz","count":34},
+    {"year":2008,"country_code":"my","count":33},
+    {"year":2016,"country_code":"mn","count":33},
+    {"year":2012,"country_code":"mu","count":33},
+    {"year":2016,"country_code":"sz","count":33},
+    {"year":2013,"country_code":"sy","count":33},
+    {"year":2010,"country_code":"mt","count":33},
+    {"year":2013,"country_code":"mg","count":32},
+    {"year":2011,"country_code":"bj","count":32},
+    {"year":2012,"country_code":"kw","count":32},
+    {"year":2012,"country_code":"al","count":32},
+    {"year":2015,"country_code":"na","count":32},
+    {"year":2017,"country_code":"tw","count":31},
+    {"year":2010,"country_code":"ma","count":31},
+    {"year":2008,"country_code":"cl","count":31},
+    {"year":2011,"country_code":"mm","count":31},
+    {"year":2017,"country_code":"np","count":31},
+    {"year":2009,"country_code":"hr","count":31},
+    {"year":2008,"country_code":"is","count":31},
+    {"year":2013,"country_code":"ci","count":31},
+    {"year":2017,"country_code":"at","count":31},
+    {"year":2011,"country_code":"mn","count":31},
+    {"year":2008,"country_code":"hk","count":31},
+    {"year":2016,"country_code":"zm","count":30},
+    {"year":2008,"country_code":"lt","count":30},
+    {"year":2014,"country_code":"ci","count":30},
+    {"year":2017,"country_code":"ma","count":30},
+    {"year":2008,"country_code":"by","count":30},
+    {"year":2010,"country_code":"md","count":30},
+    {"year":2011,"country_code":"et","count":30},
+    {"year":2012,"country_code":"qa","count":30},
+    {"year":2010,"country_code":"gt","count":29},
+    {"year":2009,"country_code":"lk","count":29},
+    {"year":2017,"country_code":"be","count":29},
+    {"year":2013,"country_code":"rw","count":29},
+    {"year":2016,"country_code":"af","count":29},
+    {"year":2014,"country_code":"ao","count":29},
+    {"year":2013,"country_code":"sn","count":29},
+    {"year":2017,"country_code":"eg","count":28},
+    {"year":2015,"country_code":"tt","count":28},
+    {"year":2015,"country_code":"ao","count":28},
+    {"year":2008,"country_code":"gr","count":27},
+    {"year":2014,"country_code":"af","count":27},
+    {"year":2017,"country_code":"ie","count":27},
+    {"year":2017,"country_code":"iq","count":27},
+    {"year":2008,"country_code":"vn","count":27},
+    {"year":2017,"country_code":"th","count":27},
+    {"year":2017,"country_code":"my","count":27},
+    {"year":2017,"country_code":"lk","count":26},
+    {"year":2010,"country_code":"jo","count":26},
+    {"year":2009,"country_code":"cr","count":26},
+    {"year":2013,"country_code":"tt","count":26},
+    {"year":2011,"country_code":"az","count":26},
+    {"year":2011,"country_code":"qa","count":26},
+    {"year":2015,"country_code":"me","count":26},
+    {"year":2017,"country_code":"pt","count":26},
+    {"year":2015,"country_code":"rw","count":26},
+    {"year":2016,"country_code":"sd","count":26},
+    {"year":2016,"country_code":"ao","count":25},
+    {"year":2016,"country_code":"ci","count":25},
+    {"year":2011,"country_code":"cu","count":25},
+    {"year":2015,"country_code":"mo","count":25},
+    {"year":2016,"country_code":"so","count":25},
+    {"year":2017,"country_code":"dk","count":25},
+    {"year":2017,"country_code":"ke","count":25},
+    {"year":2015,"country_code":"sd","count":25},
+    {"year":2009,"country_code":"ir","count":25},
+    {"year":2013,"country_code":"bh","count":25},
+    {"year":2012,"country_code":"sy","count":24},
+    {"year":2010,"country_code":"pa","count":24},
+    {"year":2016,"country_code":"tt","count":24},
+    {"year":2016,"country_code":"om","count":24},
+    {"year":2015,"country_code":"bh","count":24},
+    {"year":2014,"country_code":"zm","count":24},
+    {"year":2008,"country_code":"bg","count":24},
+    {"year":2012,"country_code":"sn","count":24},
+    {"year":2016,"country_code":"na","count":23},
+    {"year":2013,"country_code":"af","count":23},
+    {"year":2015,"country_code":"ht","count":23},
+    {"year":2012,"country_code":"mv","count":23},
+    {"year":2012,"country_code":"sz","count":23},
+    {"year":2014,"country_code":"ly","count":23},
+    {"year":2011,"country_code":"mu","count":23},
+    {"year":2010,"country_code":"hn","count":23},
+    {"year":2014,"country_code":"sn","count":23},
+    {"year":2016,"country_code":"cg","count":23},
+    {"year":2010,"country_code":"pr","count":22},
+    {"year":2008,"country_code":"si","count":22},
+    {"year":2012,"country_code":"tt","count":22},
+    {"year":2010,"country_code":"mn","count":22},
+    {"year":2016,"country_code":"gu","count":22},
+    {"year":2010,"country_code":"ba","count":22},
+    {"year":2013,"country_code":"iq","count":22},
+    {"year":2011,"country_code":"jm","count":22},
+    {"year":2014,"country_code":"so","count":22},
+    {"year":2012,"country_code":"cm","count":22},
+    {"year":2016,"country_code":"bh","count":21},
+    {"year":2012,"country_code":"zw","count":21},
+    {"year":2015,"country_code":"ye","count":21},
+    {"year":2011,"country_code":"kg","count":21},
+    {"year":2016,"country_code":"sn","count":21},
+    {"year":2013,"country_code":"sd","count":21},
+    {"year":2010,"country_code":"dz","count":21},
+    {"year":2009,"country_code":"lu","count":21},
+    {"year":2017,"country_code":"nz","count":21},
+    {"year":2013,"country_code":"mz","count":20},
+    {"year":2010,"country_code":"kh","count":20},
+    {"year":2016,"country_code":"bw","count":20},
+    {"year":2009,"country_code":"np","count":20},
+    {"year":2017,"country_code":"ba","count":20},
+    {"year":2016,"country_code":"bs","count":20},
+    {"year":2013,"country_code":"so","count":20},
+    {"year":2016,"country_code":"ye","count":20},
+    {"year":2017,"country_code":"rs","count":20},
+    {"year":2017,"country_code":"hu","count":20},
+    {"year":2008,"country_code":"hr","count":20},
+    {"year":2008,"country_code":"uy","count":20},
+    {"year":2011,"country_code":"uz","count":20},
+    {"year":2008,"country_code":"rs","count":20},
+    {"year":2014,"country_code":"sd","count":20},
+    {"year":2010,"country_code":"cy","count":20},
+    {"year":2008,"country_code":"sk","count":20},
+    {"year":2015,"country_code":"zm","count":19},
+    {"year":2013,"country_code":"mo","count":19},
+    {"year":2016,"country_code":"fj","count":19},
+    {"year":2010,"country_code":"py","count":19},
+    {"year":2014,"country_code":"bh","count":19},
+    {"year":2013,"country_code":"zm","count":19},
+    {"year":2015,"country_code":"je","count":19},
+    {"year":2017,"country_code":"gr","count":19},
+    {"year":2008,"country_code":"ee","count":19},
+    {"year":2010,"country_code":"gh","count":19},
+    {"year":2013,"country_code":"ao","count":19},
+    {"year":2015,"country_code":"bw","count":19},
+    {"year":2017,"country_code":"ae","count":19},
+    {"year":2013,"country_code":"je","count":19},
+    {"year":2015,"country_code":"mz","count":18},
+    {"year":2014,"country_code":"bs","count":18},
+    {"year":2016,"country_code":"mv","count":18},
+    {"year":2016,"country_code":"gi","count":18},
+    {"year":2012,"country_code":"mo","count":18},
+    {"year":2014,"country_code":"mo","count":18},
+    {"year":2015,"country_code":"ly","count":18},
+    {"year":2017,"country_code":"bg","count":18},
+    {"year":2015,"country_code":"bs","count":18},
+    {"year":2013,"country_code":"mv","count":18},
+    {"year":2015,"country_code":"nc","count":18},
+    {"year":2016,"country_code":"ly","count":18},
+    {"year":2009,"country_code":"ke","count":18},
+    {"year":2011,"country_code":"bh","count":18},
+    {"year":2012,"country_code":"me","count":18},
+    {"year":2014,"country_code":"im","count":18},
+    {"year":2011,"country_code":"me","count":18},
+    {"year":2017,"country_code":"cl","count":18},
+    {"year":2009,"country_code":"ec","count":17},
+    {"year":2009,"country_code":"mt","count":17},
+    {"year":2017,"country_code":"pe","count":17},
+    {"year":2014,"country_code":"rw","count":17},
+    {"year":2009,"country_code":"mk","count":17},
+    {"year":2010,"country_code":"kw","count":17},
+    {"year":2010,"country_code":"et","count":17},
+    {"year":2011,"country_code":"gd","count":17},
+    {"year":2016,"country_code":"mg","count":17},
+    {"year":2010,"country_code":"sv","count":17},
+    {"year":2017,"country_code":"dz","count":17},
+    {"year":2015,"country_code":"om","count":16},
+    {"year":2013,"country_code":"om","count":16},
+    {"year":2016,"country_code":"kp","count":16},
+    {"year":2017,"country_code":"il","count":16},
+    {"year":2017,"country_code":"ug","count":16},
+    {"year":2015,"country_code":"re","count":16},
+    {"year":2014,"country_code":"tg","count":16},
+    {"year":2010,"country_code":"ug","count":16},
+    {"year":2014,"country_code":"ht","count":16},
+    {"year":2013,"country_code":"me","count":16},
+    {"year":2008,"country_code":"eg","count":15},
+    {"year":2014,"country_code":"mv","count":15},
+    {"year":2014,"country_code":"fk","count":15},
+    {"year":2016,"country_code":"tj","count":15},
+    {"year":2012,"country_code":"ci","count":15},
+    {"year":2016,"country_code":"aq","count":15},
+    {"year":2015,"country_code":"im","count":15},
+    {"year":2011,"country_code":"cm","count":15},
+    {"year":2016,"country_code":"me","count":15},
+    {"year":2016,"country_code":"mz","count":15},
+    {"year":2013,"country_code":"ye","count":15},
+    {"year":2011,"country_code":"tz","count":15},
+    {"year":2014,"country_code":"om","count":14},
+    {"year":2012,"country_code":"im","count":14},
+    {"year":2014,"country_code":"gi","count":14},
+    {"year":2015,"country_code":"bz","count":14},
+    {"year":2012,"country_code":"gi","count":14},
+    {"year":2008,"country_code":"cr","count":14},
+    {"year":2013,"country_code":"nc","count":14},
+    {"year":2015,"country_code":"mv","count":14},
+    {"year":2014,"country_code":"nc","count":14},
+    {"year":2017,"country_code":"fi","count":14},
+    {"year":2014,"country_code":"bw","count":14},
+    {"year":2009,"country_code":"pr","count":14},
+    {"year":2010,"country_code":"kg","count":14},
+    {"year":2010,"country_code":"lb","count":14},
+    {"year":2012,"country_code":"ao","count":14},
+    {"year":2008,"country_code":"pk","count":14},
+    {"year":2010,"country_code":"tz","count":14},
+    {"year":2014,"country_code":"ye","count":14},
+    {"year":2016,"country_code":"je","count":14},
+    {"year":2008,"country_code":"lv","count":14},
+    {"year":2017,"country_code":"sa","count":13},
+    {"year":2012,"country_code":"mg","count":13},
+    {"year":2015,"country_code":"fj","count":13},
+    {"year":2010,"country_code":"cu","count":13},
+    {"year":2011,"country_code":"sy","count":13},
+    {"year":2014,"country_code":"mw","count":13},
+    {"year":2011,"country_code":"rw","count":13},
+    {"year":2016,"country_code":"mo","count":13},
+    {"year":2014,"country_code":"tj","count":13},
+    {"year":2011,"country_code":"mg","count":13},
+    {"year":2014,"country_code":"la","count":13},
+    {"year":2014,"country_code":"cg","count":12},
+    {"year":2011,"country_code":"sn","count":12},
+    {"year":2017,"country_code":"sg","count":12},
+    {"year":2009,"country_code":"bo","count":12},
+    {"year":2017,"country_code":"mm","count":12},
+    {"year":2015,"country_code":"aq","count":12},
+    {"year":2010,"country_code":"gd","count":12},
+    {"year":2008,"country_code":"ae","count":12},
+    {"year":2011,"country_code":"al","count":12},
+    {"year":2015,"country_code":"tg","count":12},
+    {"year":2009,"country_code":"jo","count":12},
+    {"year":2009,"country_code":"pa","count":12},
+    {"year":2010,"country_code":"jm","count":12},
+    {"year":2009,"country_code":"mn","count":12},
+    {"year":2013,"country_code":"ht","count":11},
+    {"year":2010,"country_code":"mm","count":11},
+    {"year":2015,"country_code":"bf","count":11},
+    {"year":2011,"country_code":"zw","count":11},
+    {"year":2017,"country_code":"do","count":11},
+    {"year":2012,"country_code":"ye","count":11},
+    {"year":2015,"country_code":"pn","count":11},
+    {"year":2013,"country_code":"cg","count":11},
+    {"year":2013,"country_code":"na","count":11},
+    {"year":2010,"country_code":"mg","count":11},
+    {"year":2013,"country_code":"la","count":11},
+    {"year":2017,"country_code":"tn","count":11},
+    {"year":2010,"country_code":"qa","count":11},
+    {"year":2015,"country_code":"bn","count":11},
+    {"year":2009,"country_code":"tn","count":11},
+    {"year":2009,"country_code":"sa","count":11},
+    {"year":2012,"country_code":"so","count":11},
+    {"year":2015,"country_code":"tj","count":11},
+    {"year":2012,"country_code":"la","count":11},
+    {"year":2012,"country_code":"je","count":11},
+    {"year":2015,"country_code":"bm","count":11},
+    {"year":2011,"country_code":"mv","count":11},
+    {"year":2012,"country_code":"af","count":11},
+    {"year":2013,"country_code":"bn","count":11},
+    {"year":2016,"country_code":"re","count":11},
+    {"year":2016,"country_code":"ht","count":11},
+    {"year":2014,"country_code":"bz","count":11},
+    {"year":2017,"country_code":"gh","count":11},
+    {"year":2017,"country_code":"sk","count":11},
+    {"year":2010,"country_code":"am","count":11},
+    {"year":2016,"country_code":"sr","count":11},
+    {"year":2013,"country_code":"tg","count":10},
+    {"year":2009,"country_code":"ni","count":10},
+    {"year":2012,"country_code":"zm","count":10},
+    {"year":2017,"country_code":"by","count":10},
+    {"year":2015,"country_code":"bb","count":10},
+    {"year":2016,"country_code":"pg","count":10},
+    {"year":2010,"country_code":"bh","count":10},
+    {"year":2016,"country_code":"bm","count":10},
+    {"year":2012,"country_code":"bw","count":10},
+    {"year":2016,"country_code":"lr","count":10},
+    {"year":2009,"country_code":"ng","count":10},
+    {"year":2013,"country_code":"re","count":10},
+    {"year":2011,"country_code":"tt","count":10},
+    {"year":2013,"country_code":"bw","count":10},
+    {"year":2017,"country_code":"hk","count":10},
+    {"year":2016,"country_code":"mc","count":10},
+    {"year":2009,"country_code":"sv","count":10},
+    {"year":2012,"country_code":"bs","count":10},
+    {"year":2015,"country_code":"kp","count":10},
+    {"year":2017,"country_code":"cr","count":10},
+    {"year":2011,"country_code":"so","count":10},
+    {"year":2014,"country_code":"je","count":10},
+    {"year":2013,"country_code":"im","count":10},
+    {"year":2010,"country_code":"uz","count":10},
+    {"year":2009,"country_code":"lb","count":10},
+    {"year":2013,"country_code":"mp","count":9},
+    {"year":2016,"country_code":"sl","count":9},
+    {"year":2017,"country_code":"ec","count":9},
+    {"year":2014,"country_code":"aq","count":9},
+    {"year":2015,"country_code":"ga","count":9},
+    {"year":2016,"country_code":"bn","count":9},
+    {"year":2012,"country_code":"nc","count":9},
+    {"year":2016,"country_code":"bf","count":9},
+    {"year":2010,"country_code":"az","count":9},
+    {"year":2013,"country_code":"li","count":9},
+    {"year":2015,"country_code":"sl","count":9},
+    {"year":2013,"country_code":"gi","count":9},
+    {"year":2016,"country_code":"ls","count":9},
+    {"year":2010,"country_code":"sn","count":9},
+    {"year":2017,"country_code":"cm","count":9},
+    {"year":2016,"country_code":"la","count":9},
+    {"year":2011,"country_code":"mo","count":9},
+    {"year":2016,"country_code":"gn","count":9},
+    {"year":2014,"country_code":"mp","count":9},
+    {"year":2008,"country_code":"ve","count":9},
+    {"year":2009,"country_code":"gh","count":9},
+    {"year":2011,"country_code":"ye","count":9},
+    {"year":2011,"country_code":"ci","count":9},
+    {"year":2008,"country_code":"bo","count":9},
+    {"year":2008,"country_code":"lu","count":9},
+    {"year":2009,"country_code":"py","count":9},
+    {"year":2010,"country_code":"je","count":9},
+    {"year":2009,"country_code":"gt","count":9},
+    {"year":2008,"country_code":"ir","count":9},
+    {"year":2015,"country_code":"gp","count":9},
+    {"year":2016,"country_code":"fk","count":9},
+    {"year":2012,"country_code":"iq","count":9},
+    {"year":2012,"country_code":"tg","count":9},
+    {"year":2017,"country_code":"lt","count":9},
+    {"year":2016,"country_code":"mr","count":9},
+    {"year":2011,"country_code":"sz","count":9},
+    {"year":2016,"country_code":"pn","count":9},
+    {"year":2014,"country_code":"na","count":9},
+    {"year":2013,"country_code":"fo","count":8},
+    {"year":2016,"country_code":"gm","count":8},
+    {"year":2015,"country_code":"ml","count":8},
+    {"year":2016,"country_code":"km","count":8},
+    {"year":2015,"country_code":"gl","count":8},
+    {"year":2010,"country_code":"mu","count":8},
+    {"year":2014,"country_code":"bf","count":8},
+    {"year":2010,"country_code":"al","count":8},
+    {"year":2009,"country_code":"kz","count":8},
+    {"year":2012,"country_code":"om","count":8},
+    {"year":2016,"country_code":"gs","count":8},
+    {"year":2016,"country_code":"bz","count":8},
+    {"year":2013,"country_code":"bs","count":8},
+    {"year":2012,"country_code":"tj","count":8},
+    {"year":2017,"country_code":"hr","count":8},
+    {"year":2011,"country_code":"bs","count":8},
+    {"year":2015,"country_code":"cg","count":8},
+    {"year":2016,"country_code":"mp","count":8},
+    {"year":2014,"country_code":"ga","count":8},
+    {"year":2015,"country_code":"pf","count":8},
+    {"year":2014,"country_code":"gg","count":8},
+    {"year":2015,"country_code":"sr","count":8},
+    {"year":2015,"country_code":"li","count":8},
+    {"year":2016,"country_code":"ga","count":8},
+    {"year":2012,"country_code":"sd","count":8},
+    {"year":2015,"country_code":"gi","count":8},
+    {"year":2015,"country_code":"pg","count":8},
+    {"year":2014,"country_code":"re","count":8},
+    {"year":2016,"country_code":"tg","count":7},
+    {"year":2012,"country_code":"na","count":7},
+    {"year":2009,"country_code":"ma","count":7},
+    {"year":2013,"country_code":"sh","count":7},
+    {"year":2016,"country_code":"li","count":7},
+    {"year":2011,"country_code":"zm","count":7},
+    {"year":2012,"country_code":"re","count":7},
+    {"year":2011,"country_code":"sd","count":7},
+    {"year":2010,"country_code":"bj","count":7},
+    {"year":2016,"country_code":"gf","count":7},
+    {"year":2011,"country_code":"ao","count":7},
+    {"year":2015,"country_code":"sc","count":7},
+    {"year":2009,"country_code":"md","count":7},
+    {"year":2013,"country_code":"bm","count":7},
+    {"year":2016,"country_code":"mw","count":7},
+    {"year":2016,"country_code":"bb","count":7},
+    {"year":2016,"country_code":"vu","count":7},
+    {"year":2015,"country_code":"la","count":7},
+    {"year":2016,"country_code":"nc","count":7},
+    {"year":2016,"country_code":"bt","count":7},
+    {"year":2012,"country_code":"aq","count":7},
+    {"year":2014,"country_code":"kp","count":7},
+    {"year":2013,"country_code":"km","count":7},
+    {"year":2017,"country_code":"uz","count":7},
+    {"year":2017,"country_code":"tz","count":7},
+    {"year":2011,"country_code":"ky","count":7},
+    {"year":2016,"country_code":"ad","count":7},
+    {"year":2013,"country_code":"kp","count":7},
+    {"year":2016,"country_code":"im","count":7},
+    {"year":2009,"country_code":"kg","count":7},
+    {"year":2014,"country_code":"bt","count":7},
+    {"year":2017,"country_code":"pr","count":7},
+    {"year":2017,"country_code":"to","count":7},
+    {"year":2016,"country_code":"gg","count":7},
+    {"year":2016,"country_code":"gp","count":7},
+    {"year":2012,"country_code":"rw","count":7},
+    {"year":2009,"country_code":"cy","count":7},
+    {"year":2016,"country_code":"vc","count":7},
+    {"year":2013,"country_code":"aq","count":7},
+    {"year":2014,"country_code":"fj","count":7},
+    {"year":2008,"country_code":"bd","count":7},
+    {"year":2015,"country_code":"mw","count":7},
+    {"year":2014,"country_code":"pn","count":7},
+    {"year":2013,"country_code":"bf","count":7},
+    {"year":2017,"country_code":"mz","count":7},
+    {"year":2009,"country_code":"dz","count":7},
+    {"year":2016,"country_code":"sh","count":6},
+    {"year":2016,"country_code":"cv","count":6},
+    {"year":2010,"country_code":"mv","count":6},
+    {"year":2016,"country_code":"ky","count":6},
+    {"year":2011,"country_code":"bb","count":6},
+    {"year":2015,"country_code":"aw","count":6},
+    {"year":2015,"country_code":"mr","count":6},
+    {"year":2016,"country_code":"gy","count":6},
+    {"year":2009,"country_code":"bj","count":6},
+    {"year":2013,"country_code":"tj","count":6},
+    {"year":2016,"country_code":"pf","count":6},
+    {"year":2016,"country_code":"tv","count":6},
+    {"year":2009,"country_code":"do","count":6},
+    {"year":2017,"country_code":"sv","count":6},
+    {"year":2008,"country_code":"pe","count":6},
+    {"year":2008,"country_code":"lk","count":6},
+    {"year":2016,"country_code":"gl","count":6},
+    {"year":2009,"country_code":"et","count":6},
+    {"year":2012,"country_code":"fj","count":6},
+    {"year":2014,"country_code":"gu","count":6},
+    {"year":2015,"country_code":"ad","count":6},
+    {"year":2015,"country_code":"lr","count":6},
+    {"year":2014,"country_code":"pf","count":6},
+    {"year":2011,"country_code":"mz","count":6},
+    {"year":2016,"country_code":"lc","count":6},
+    {"year":2011,"country_code":"im","count":6},
+    {"year":2016,"country_code":"ss","count":6},
+    {"year":2011,"country_code":"pn","count":6},
+    {"year":2013,"country_code":"vu","count":6},
+    {"year":2009,"country_code":"kh","count":6},
+    {"year":2014,"country_code":"mq","count":6},
+    {"year":2013,"country_code":"bt","count":6},
+    {"year":2010,"country_code":"so","count":6},
+    {"year":2016,"country_code":"ck","count":6},
+    {"year":2016,"country_code":"aw","count":6},
+    {"year":2015,"country_code":"sh","count":6},
+    {"year":2017,"country_code":"af","count":6},
+    {"year":2008,"country_code":"md","count":6},
+    {"year":2013,"country_code":"ad","count":6},
+    {"year":2015,"country_code":"ge","count":6},
+    {"year":2009,"country_code":"ba","count":5},
+    {"year":2016,"country_code":"tf","count":5},
+    {"year":2017,"country_code":"cy","count":5},
+    {"year":2011,"country_code":"om","count":5},
+    {"year":2010,"country_code":"ye","count":5},
+    {"year":2014,"country_code":"sh","count":5},
+    {"year":2012,"country_code":"mq","count":5},
+    {"year":2011,"country_code":"mw","count":5},
+    {"year":2015,"country_code":"fo","count":5},
+    {"year":2008,"country_code":"mk","count":5},
+    {"year":2017,"country_code":"vi","count":5},
+    {"year":2010,"country_code":"ni","count":5},
+    {"year":2012,"country_code":"ly","count":5},
+    {"year":2015,"country_code":"gf","count":5},
+    {"year":2011,"country_code":"na","count":5},
+    {"year":2014,"country_code":"bb","count":5},
+    {"year":2011,"country_code":"nc","count":5},
+    {"year":2010,"country_code":"gi","count":5},
+    {"year":2012,"country_code":"li","count":5},
+    {"year":2008,"country_code":"ec","count":5},
+    {"year":2008,"country_code":"sv","count":5},
+    {"year":2016,"country_code":"vi","count":5},
+    {"year":2012,"country_code":"mz","count":5},
+    {"year":2016,"country_code":"st","count":5},
+    {"year":2015,"country_code":"bt","count":5},
+    {"year":2017,"country_code":"is","count":5},
+    {"year":2017,"country_code":"zw","count":5},
+    {"year":2010,"country_code":"zw","count":5},
+    {"year":2013,"country_code":"bb","count":5},
+    {"year":2015,"country_code":"va","count":5},
+    {"year":2012,"country_code":"mw","count":5},
+    {"year":2017,"country_code":"mu","count":5},
+    {"year":2017,"country_code":"pa","count":5},
+    {"year":2009,"country_code":"mv","count":5},
+    {"year":2011,"country_code":"je","count":5},
+    {"year":2009,"country_code":"kw","count":5},
+    {"year":2014,"country_code":"cv","count":5},
+    {"year":2013,"country_code":"gl","count":5},
+    {"year":2015,"country_code":"ky","count":5},
+    {"year":2016,"country_code":"ws","count":5},
+    {"year":2014,"country_code":"sl","count":5},
+    {"year":2014,"country_code":"bm","count":5},
+    {"year":2017,"country_code":"py","count":5},
+    {"year":2014,"country_code":"ml","count":5},
+    {"year":2009,"country_code":"qa","count":5},
+    {"year":2013,"country_code":"ly","count":5},
+    {"year":2015,"country_code":"gg","count":5},
+    {"year":2011,"country_code":"re","count":5},
+    {"year":2015,"country_code":"mp","count":5},
+    {"year":2016,"country_code":"sb","count":5},
+    {"year":2012,"country_code":"bm","count":5},
+    {"year":2016,"country_code":"tl","count":5},
+    {"year":2010,"country_code":"ly","count":5},
+    {"year":2017,"country_code":"mk","count":5},
+    {"year":2017,"country_code":"ni","count":5},
+    {"year":2016,"country_code":"an","count":5},
+    {"year":2014,"country_code":"ss","count":5},
+    {"year":2010,"country_code":"zm","count":5},
+    {"year":2014,"country_code":"gl","count":5},
+    {"year":2013,"country_code":"fj","count":5},
+    {"year":2013,"country_code":"ga","count":5},
+    {"year":2013,"country_code":"bz","count":5},
+    {"year":2015,"country_code":"km","count":5},
+    {"year":2015,"country_code":"tl","count":5},
+    {"year":2016,"country_code":"mq","count":5},
+    {"year":2010,"country_code":"sy","count":5},
+    {"year":2017,"country_code":"md","count":5},
+    {"year":2017,"country_code":"cg","count":5},
+    {"year":2014,"country_code":"gp","count":5},
+    {"year":2008,"country_code":"jo","count":5},
+    {"year":2008,"country_code":"py","count":5},
+    {"year":2017,"country_code":"kz","count":5},
+    {"year":2013,"country_code":"mw","count":5},
+    {"year":2011,"country_code":"bm","count":4},
+    {"year":2011,"country_code":"gp","count":4},
+    {"year":2009,"country_code":"tz","count":4},
+    {"year":2013,"country_code":"dm","count":4},
+    {"year":2017,"country_code":"az","count":4},
+    {"year":2014,"country_code":"li","count":4},
+    {"year":2010,"country_code":"rw","count":4},
+    {"year":2012,"country_code":"cg","count":4},
+    {"year":2011,"country_code":"la","count":4},
+    {"year":2010,"country_code":"gg","count":4},
+    {"year":2016,"country_code":"dm","count":4},
+    {"year":2010,"country_code":"bb","count":4},
+    {"year":2013,"country_code":"ml","count":4},
+    {"year":2016,"country_code":"ne","count":4},
+    {"year":2016,"country_code":"mf","count":4},
+    {"year":2017,"country_code":"jo","count":4},
+    {"year":2014,"country_code":"ge","count":4},
+    {"year":2012,"country_code":"mp","count":4},
+    {"year":2016,"country_code":"bv","count":4},
+    {"year":2013,"country_code":"ky","count":4},
+    {"year":2015,"country_code":"gm","count":4},
+    {"year":2014,"country_code":"gy","count":4},
+    {"year":2011,"country_code":"pf","count":4},
+    {"year":2008,"country_code":"gi","count":4},
+    {"year":2010,"country_code":"mo","count":4},
+    {"year":2015,"country_code":"sm","count":4},
+    {"year":2015,"country_code":"mq","count":4},
+    {"year":2015,"country_code":"ne","count":4},
+    {"year":2010,"country_code":"cm","count":4},
+    {"year":2012,"country_code":"kp","count":4},
+    {"year":2011,"country_code":"af","count":4},
+    {"year":2013,"country_code":"pg","count":4},
+    {"year":2009,"country_code":"hn","count":4},
+    {"year":2010,"country_code":"bm","count":4},
+    {"year":2015,"country_code":"tc","count":4},
+    {"year":2011,"country_code":"kp","count":4},
+    {"year":2016,"country_code":"to","count":4},
+    {"year":2013,"country_code":"mq","count":4},
+    {"year":2009,"country_code":"mo","count":4},
+    {"year":2013,"country_code":"pn","count":4},
+    {"year":2011,"country_code":"mc","count":4},
+    {"year":2011,"country_code":"bz","count":4},
+    {"year":2014,"country_code":"bn","count":4},
+    {"year":2017,"country_code":"ly","count":4},
+    {"year":2015,"country_code":"ls","count":4},
+    {"year":2010,"country_code":"gp","count":4},
+    {"year":2013,"country_code":"vg","count":4},
+    {"year":2017,"country_code":"am","count":4},
+    {"year":2015,"country_code":"mc","count":4},
+    {"year":2014,"country_code":"sm","count":4},
+    {"year":2010,"country_code":"ml","count":4},
+    {"year":2011,"country_code":"iq","count":4},
+    {"year":2016,"country_code":"fo","count":4},
+    {"year":2012,"country_code":"ht","count":4},
+    {"year":2011,"country_code":"gi","count":4},
+    {"year":2011,"country_code":"gg","count":4},
+    {"year":2011,"country_code":"gl","count":4},
+    {"year":2009,"country_code":"bh","count":4},
+    {"year":2008,"country_code":"kz","count":4},
+    {"year":2009,"country_code":"ug","count":4},
+    {"year":2016,"country_code":"bi","count":4},
+    {"year":2009,"country_code":"gi","count":4},
+    {"year":2016,"country_code":"hm","count":4},
+    {"year":2016,"country_code":"ml","count":4},
+    {"year":2014,"country_code":"mc","count":4},
+    {"year":2013,"country_code":"gy","count":4},
+    {"year":2007,"country_code":"us","count":3},
+    {"year":2014,"country_code":"ky","count":3},
+    {"year":2015,"country_code":"dj","count":3},
+    {"year":2017,"country_code":"qa","count":3},
+    {"year":2014,"country_code":"tm","count":3},
+    {"year":2009,"country_code":"al","count":3},
+    {"year":2017,"country_code":"bo","count":3},
+    {"year":2012,"country_code":"gl","count":3},
+    {"year":2017,"country_code":"sn","count":3},
+    {"year":2017,"country_code":"tt","count":3},
+    {"year":2010,"country_code":"mw","count":3},
+    {"year":2016,"country_code":"as","count":3},
+    {"year":2014,"country_code":"lc","count":3},
+    {"year":2015,"country_code":"vg","count":3},
+    {"year":2016,"country_code":"bl","count":3},
+    {"year":2017,"country_code":"ao","count":3},
+    {"year":2013,"country_code":"gp","count":3},
+    {"year":2017,"country_code":"kh","count":3},
+    {"year":2017,"country_code":"lu","count":3},
+    {"year":2011,"country_code":"ga","count":3},
+    {"year":2017,"country_code":"kg","count":3},
+    {"year":2015,"country_code":"gy","count":3},
+    {"year":2012,"country_code":"gu","count":3},
+    {"year":2008,"country_code":"do","count":3},
+    {"year":2017,"country_code":"al","count":3},
+    {"year":2010,"country_code":"mz","count":3},
+    {"year":2011,"country_code":"ly","count":3},
+    {"year":2017,"country_code":"ci","count":3},
+    {"year":2017,"country_code":"gt","count":3},
+    {"year":2008,"country_code":"ma","count":3},
+    {"year":2010,"country_code":"bt","count":3},
+    {"year":2014,"country_code":"ad","count":3},
+    {"year":2008,"country_code":"cy","count":3},
+    {"year":2012,"country_code":"bb","count":3},
+    {"year":2017,"country_code":"cu","count":3},
+    {"year":2008,"country_code":"mn","count":3},
+    {"year":2013,"country_code":"gg","count":3},
+    {"year":2012,"country_code":"fo","count":3},
+    {"year":2013,"country_code":"bi","count":3},
+    {"year":2009,"country_code":"uz","count":3},
+    {"year":2011,"country_code":"sb","count":3},
+    {"year":2014,"country_code":"pg","count":3},
+    {"year":2016,"country_code":"td","count":3},
+    {"year":2015,"country_code":"gu","count":3},
+    {"year":2017,"country_code":"ee","count":3},
+    {"year":2012,"country_code":"ps","count":3},
+    {"year":2016,"country_code":"sc","count":3},
+    {"year":2013,"country_code":"sm","count":3},
+    {"year":2016,"country_code":"ag","count":3},
+    {"year":2008,"country_code":"ng","count":3},
+    {"year":2013,"country_code":"fk","count":3},
+    {"year":2008,"country_code":"mw","count":3},
+    {"year":2008,"country_code":"gd","count":3},
+    {"year":2012,"country_code":"lc","count":3},
+    {"year":2010,"country_code":"aq","count":3},
+    {"year":2017,"country_code":"hn","count":3},
+    {"year":2016,"country_code":"nr","count":3},
+    {"year":2008,"country_code":"mu","count":3},
+    {"year":2012,"country_code":"km","count":3},
+    {"year":2017,"country_code":"ht","count":3},
+    {"year":2014,"country_code":"gf","count":3},
+    {"year":2015,"country_code":"ss","count":3},
+    {"year":2008,"country_code":"gt","count":3},
+    {"year":2012,"country_code":"ge","count":3},
+    {"year":2012,"country_code":"sm","count":3},
+    {"year":2013,"country_code":"pf","count":3},
+    {"year":2016,"country_code":"mh","count":3},
+    {"year":2016,"country_code":"kn","count":3},
+    {"year":2014,"country_code":"sb","count":3},
+    {"year":2014,"country_code":"bi","count":3},
+    {"year":2013,"country_code":"ne","count":3},
+    {"year":2014,"country_code":"dj","count":3},
+    {"year":2016,"country_code":"vg","count":3},
+    {"year":2010,"country_code":"sz","count":3},
+    {"year":2016,"country_code":"ms","count":3},
+    {"year":2017,"country_code":"pg","count":3},
+    {"year":2012,"country_code":"gy","count":3},
+    {"year":2011,"country_code":"fj","count":3},
+    {"year":2010,"country_code":"na","count":3},
+    {"year":2012,"country_code":"cv","count":3},
+    {"year":2012,"country_code":"ss","count":3},
+    {"year":2017,"country_code":"lb","count":3},
+    {"year":2012,"country_code":"mc","count":3},
+    {"year":2012,"country_code":"sh","count":3},
+    {"year":2013,"country_code":"ls","count":3},
+    {"year":2015,"country_code":"sb","count":3},
+    {"year":2011,"country_code":"ge","count":3},
+    {"year":2016,"country_code":"va","count":3},
+    {"year":2017,"country_code":"lv","count":3},
+    {"year":2009,"country_code":"cu","count":3},
+    {"year":2017,"country_code":"mg","count":3},
+    {"year":2011,"country_code":"bt","count":3},
+    {"year":2016,"country_code":"tk","count":3},
+    {"year":2012,"country_code":"bz","count":2},
+    {"year":2010,"country_code":"bs","count":2},
+    {"year":2009,"country_code":"je","count":2},
+    {"year":2015,"country_code":"cx","count":2},
+    {"year":2016,"country_code":"pm","count":2},
+    {"year":2012,"country_code":"gp","count":2},
+    {"year":2008,"country_code":"ni","count":2},
+    {"year":2016,"country_code":"cc","count":2},
+    {"year":2014,"country_code":"ne","count":2},
+    {"year":2008,"country_code":"jm","count":2},
+    {"year":2010,"country_code":"bw","count":2},
+    {"year":2017,"country_code":"me","count":2},
+    {"year":2008,"country_code":"ba","count":2},
+    {"year":2015,"country_code":"vi","count":2},
+    {"year":2012,"country_code":"sc","count":2},
+    {"year":2013,"country_code":"ss","count":2},
+    {"year":2010,"country_code":"fo","count":2},
+    {"year":2016,"country_code":"io","count":2},
+    {"year":2017,"country_code":"sy","count":2},
+    {"year":2011,"country_code":"ht","count":2},
+    {"year":2017,"country_code":"ne","count":2},
+    {"year":2011,"country_code":"sl","count":2},
+    {"year":2014,"country_code":"ag","count":2},
+    {"year":2010,"country_code":"sd","count":2},
+    {"year":2012,"country_code":"pn","count":2},
+    {"year":2009,"country_code":"ad","count":2},
+    {"year":2015,"country_code":"lc","count":2},
+    {"year":2011,"country_code":"ps","count":2},
+    {"year":2013,"country_code":"mr","count":2},
+    {"year":2013,"country_code":"ws","count":2},
+    {"year":2014,"country_code":"sr","count":2},
+    {"year":2016,"country_code":"cx","count":2},
+    {"year":2012,"country_code":"pg","count":2},
+    {"year":2009,"country_code":"zm","count":2},
+    {"year":2013,"country_code":"io","count":2},
+    {"year":2015,"country_code":"cv","count":2},
+    {"year":2014,"country_code":"ls","count":2},
+    {"year":2016,"country_code":"tm","count":2},
+    {"year":2017,"country_code":"mw","count":2},
+    {"year":2017,"country_code":"rw","count":2},
+    {"year":2010,"country_code":"mc","count":2},
+    {"year":2012,"country_code":"mr","count":2},
+    {"year":2017,"country_code":"ag","count":2},
+    {"year":2016,"country_code":"sj","count":2},
+    {"year":2009,"country_code":"jm","count":2},
+    {"year":2013,"country_code":"cv","count":2},
+    {"year":2016,"country_code":"sm","count":2},
+    {"year":2008,"country_code":"bh","count":2},
+    {"year":2008,"country_code":"np","count":2},
+    {"year":2017,"country_code":"bs","count":2},
+    {"year":2012,"country_code":"ga","count":2},
+    {"year":2017,"country_code":"kp","count":2},
+    {"year":2009,"country_code":"mu","count":2},
+    {"year":2012,"country_code":"ad","count":2},
+    {"year":2010,"country_code":"om","count":2},
+    {"year":2017,"country_code":"et","count":2},
+    {"year":2010,"country_code":"me","count":2},
+    {"year":2012,"country_code":"tl","count":2},
+    {"year":2010,"country_code":"nc","count":2},
+    {"year":2012,"country_code":"gg","count":2},
+    {"year":2014,"country_code":"cf","count":2},
+    {"year":2010,"country_code":"bn","count":2},
+    {"year":2013,"country_code":"sr","count":2},
+    {"year":2012,"country_code":"gn","count":2},
+    {"year":2010,"country_code":"im","count":2},
+    {"year":2017,"country_code":"mt","count":2},
+    {"year":2008,"country_code":"mt","count":2},
+    {"year":2008,"country_code":"sa","count":2},
+    {"year":2011,"country_code":"bw","count":2},
+    {"year":2017,"country_code":"bj","count":2},
+    {"year":2008,"country_code":"lb","count":2},
+    {"year":2016,"country_code":"er","count":2},
+    {"year":2011,"country_code":"va","count":2},
+    {"year":2017,"country_code":"ga","count":2},
+    {"year":2011,"country_code":"bn","count":2},
+    {"year":2013,"country_code":"ge","count":2},
+    {"year":2010,"country_code":"mp","count":2},
+    {"year":2015,"country_code":"gn","count":2},
+    {"year":2011,"country_code":"li","count":2},
+    {"year":2010,"country_code":"ci","count":2},
+    {"year":2014,"country_code":"nu","count":2},
+    {"year":2015,"country_code":"ws","count":2},
+    {"year":2009,"country_code":"na","count":2},
+    {"year":2008,"country_code":"tn","count":2},
+    {"year":2014,"country_code":"va","count":2},
+    {"year":2010,"country_code":"kp","count":2},
+    {"year":2016,"country_code":"ps","count":2},
+    {"year":2013,"country_code":"va","count":2},
+    {"year":2013,"country_code":"gu","count":2},
+    {"year":2010,"country_code":"tt","count":2},
+    {"year":2014,"country_code":"ws","count":2},
+    {"year":2008,"country_code":"kh","count":2},
+    {"year":2016,"country_code":"dj","count":2},
+    {"year":2017,"country_code":"zm","count":2},
+    {"year":2009,"country_code":"mm","count":2},
+    {"year":2008,"country_code":"hn","count":2},
+    {"year":2017,"country_code":"sb","count":2},
+    {"year":2008,"country_code":"pa","count":2},
+    {"year":2017,"country_code":"sl","count":2},
+    {"year":2009,"country_code":"am","count":2},
+    {"year":2014,"country_code":"yt","count":2},
+    {"year":2017,"country_code":"uy","count":2},
+    {"year":2017,"country_code":"pf","count":2},
+    {"year":2014,"country_code":"fo","count":2},
+    {"year":2016,"country_code":"nu","count":2},
+    {"year":2016,"country_code":"gw","count":2},
+    {"year":2010,"country_code":"ad","count":2},
+    {"year":2011,"country_code":"aq","count":2},
+    {"year":2017,"country_code":"va","count":2},
+    {"year":2014,"country_code":"sc","count":2},
+    {"year":2010,"country_code":"pn","count":2},
+    {"year":2016,"country_code":"gq","count":2},
+    {"year":2011,"country_code":"ad","count":2},
+    {"year":2011,"country_code":"fo","count":2},
+    {"year":2011,"country_code":"sh","count":2},
+    {"year":2008,"country_code":"gh","count":2},
+    {"year":2012,"country_code":"ky","count":2},
+    {"year":2011,"country_code":"tm","count":2},
+    {"year":2013,"country_code":"vc","count":2},
+    {"year":2013,"country_code":"dj","count":2},
+    {"year":2010,"country_code":"re","count":2},
+    {"year":2017,"country_code":"so","count":2},
+    {"year":2012,"country_code":"bt","count":2},
+    {"year":2009,"country_code":"sz","count":2},
+    {"year":2017,"country_code":"si","count":2},
+    {"year":2011,"country_code":"ai","count":1},
+    {"year":2017,"country_code":"sd","count":1},
+    {"year":2012,"country_code":"gm","count":1},
+    {"year":2017,"country_code":"ky","count":1},
+    {"year":2013,"country_code":"ai","count":1},
+    {"year":2017,"country_code":"gd","count":1},
+    {"year":2010,"country_code":"cv","count":1},
+    {"year":2012,"country_code":"ws","count":1},
+    {"year":2016,"country_code":"pw","count":1},
+    {"year":2017,"country_code":"om","count":1},
+    {"year":2013,"country_code":"lc","count":1},
+    {"year":2011,"country_code":"km","count":1},
+    {"year":2008,"country_code":"cm","count":1},
+    {"year":2009,"country_code":"mz","count":1},
+    {"year":2012,"country_code":"sb","count":1},
+    {"year":2017,"country_code":"ml","count":1},
+    {"year":2013,"country_code":"sc","count":1},
+    {"year":2008,"country_code":"re","count":1},
+    {"year":2014,"country_code":"dm","count":1},
+    {"year":2015,"country_code":"cf","count":1},
+    {"year":2008,"country_code":"nc","count":1},
+    {"year":2017,"country_code":"nf","count":1},
+    {"year":2017,"country_code":"bz","count":1},
+    {"year":2008,"country_code":"sn","count":1},
+    {"year":2009,"country_code":"ao","count":1},
+    {"year":2015,"country_code":"to","count":1},
+    {"year":2015,"country_code":"gw","count":1},
+    {"year":2012,"country_code":"ms","count":1},
+    {"year":2008,"country_code":"am","count":1},
+    {"year":2015,"country_code":"mf","count":1},
+    {"year":2008,"country_code":"mv","count":1},
+    {"year":2012,"country_code":"sl","count":1},
+    {"year":2015,"country_code":"st","count":1},
+    {"year":2012,"country_code":"dm","count":1},
+    {"year":2012,"country_code":"ml","count":1},
+    {"year":2011,"country_code":"ls","count":1},
+    {"year":2015,"country_code":"vu","count":1},
+    {"year":2013,"country_code":"ck","count":1},
+    {"year":2012,"country_code":"vi","count":1},
+    {"year":2014,"country_code":"tv","count":1},
+    {"year":2015,"country_code":"gq","count":1},
+    {"year":2011,"country_code":"cg","count":1},
+    {"year":2017,"country_code":"an","count":1},
+    {"year":2011,"country_code":"mh","count":1},
+    {"year":2015,"country_code":"cd","count":1},
+    {"year":2017,"country_code":"tj","count":1},
+    {"year":2017,"country_code":"vu","count":1},
+    {"year":2011,"country_code":"pg","count":1},
+    {"year":2013,"country_code":"mc","count":1},
+    {"year":2014,"country_code":"tc","count":1},
+    {"year":2008,"country_code":"aw","count":1},
+    {"year":2017,"country_code":"gs","count":1},
+    {"year":2016,"country_code":"wf","count":1},
+    {"year":2009,"country_code":"af","count":1},
+    {"year":2010,"country_code":"bz","count":1},
+    {"year":2016,"country_code":"ki","count":1},
+    {"year":2009,"country_code":"fo","count":1},
+    {"year":2012,"country_code":"tm","count":1},
+    {"year":2014,"country_code":"gm","count":1},
+    {"year":2011,"country_code":"mp","count":1},
+    {"year":2017,"country_code":"vc","count":1},
+    {"year":2014,"country_code":"lr","count":1},
+    {"year":2013,"country_code":"ps","count":1},
+    {"year":2008,"country_code":"ug","count":1},
+    {"year":2009,"country_code":"tt","count":1},
+    {"year":2012,"country_code":"bi","count":1},
+    {"year":2008,"country_code":"vu","count":1},
+    {"year":2012,"country_code":"fk","count":1},
+    {"year":2017,"country_code":"gy","count":1},
+    {"year":2011,"country_code":"ms","count":1},
+    {"year":2012,"country_code":"ck","count":1},
+    {"year":2009,"country_code":"gd","count":1},
+    {"year":2009,"country_code":"sn","count":1},
+    {"year":2017,"country_code":"cv","count":1},
+    {"year":2013,"country_code":"tl","count":1},
+    {"year":2017,"country_code":"sc","count":1},
+    {"year":2016,"country_code":"cf","count":1},
+    {"year":2010,"country_code":"ne","count":1},
+    {"year":2012,"country_code":"td","count":1},
+    {"year":2017,"country_code":"bh","count":1},
+    {"year":2012,"country_code":"bf","count":1},
+    {"year":2011,"country_code":"ml","count":1},
+    {"year":2014,"country_code":"pw","count":1},
+    {"year":2013,"country_code":"gn","count":1},
+    {"year":2008,"country_code":"ke","count":1},
+    {"year":2017,"country_code":"bf","count":1},
+    {"year":2009,"country_code":"gp","count":1},
+    {"year":2010,"country_code":"lr","count":1},
+    {"year":2015,"country_code":"cc","count":1},
+    {"year":2009,"country_code":"gn","count":1},
+    {"year":2015,"country_code":"er","count":1},
+    {"year":2014,"country_code":"vu","count":1},
+    {"year":2017,"country_code":"re","count":1},
+    {"year":2010,"country_code":"la","count":1},
+    {"year":2014,"country_code":"mh","count":1},
+    {"year":2009,"country_code":"bm","count":1},
+    {"year":2009,"country_code":"az","count":1},
+    {"year":2010,"country_code":"ck","count":1},
+    {"year":2011,"country_code":"sm","count":1},
+    {"year":2017,"country_code":"hm","count":1},
+    {"year":2012,"country_code":"lr","count":1},
+    {"year":2010,"country_code":"km","count":1},
+    {"year":2010,"country_code":"fj","count":1},
+    {"year":2010,"country_code":"af","count":1},
+    {"year":2010,"country_code":"ao","count":1},
+    {"year":2017,"country_code":"vg","count":1},
+    {"year":2008,"country_code":"li","count":1},
+    {"year":2017,"country_code":"mo","count":1},
+    {"year":2010,"country_code":"gu","count":1},
+    {"year":2010,"country_code":"ht","count":1},
+    {"year":2014,"country_code":"km","count":1},
+    {"year":2014,"country_code":"aw","count":1},
+    {"year":2017,"country_code":"ss","count":1},
+    {"year":2010,"country_code":"lc","count":1},
+    {"year":2009,"country_code":"cm","count":1},
+    {"year":2015,"country_code":"yt","count":1},
+    {"year":2012,"country_code":"ai","count":1},
+    {"year":2011,"country_code":"mq","count":1},
+    {"year":2008,"country_code":"mg","count":1},
+    {"year":2008,"country_code":"kw","count":1},
+    {"year":2014,"country_code":"vg","count":1},
+    {"year":2015,"country_code":"ps","count":1},
+    {"year":2016,"country_code":"ai","count":1},
+    {"year":2011,"country_code":"vi","count":1},
+    {"year":2010,"country_code":"tl","count":1},
+    {"year":2015,"country_code":"vc","count":1},
+    {"year":2009,"country_code":"gu","count":1},
+    {"year":2012,"country_code":"as","count":1},
+    {"year":2013,"country_code":"gm","count":1},
+    {"year":2017,"country_code":"sr","count":1},
+    {"year":2012,"country_code":"ls","count":1},
+    {"year":2015,"country_code":"nu","count":1},
+    {"year":2017,"country_code":"bm","count":1},
+    {"year":2015,"country_code":"tm","count":1},
+    {"year":2014,"country_code":"ki","count":1},
+    {"year":2010,"country_code":"sc","count":1},
+    {"year":2016,"country_code":"tc","count":1},
+    {"year":2009,"country_code":"me","count":1},
+    {"year":2017,"country_code":"na","count":1},
+    {"year":2009,"country_code":"nc","count":1},
+    {"year":2008,"country_code":"dz","count":1},
+    {"year":2011,"country_code":"gy","count":1},
+    {"year":2011,"country_code":"aw","count":1},
+    {"year":2010,"country_code":"gy","count":1},
+    {"year":2012,"country_code":"ne","count":1},
+    {"year":2008,"country_code":"cu","count":1},
+    {"year":2010,"country_code":"ky","count":1},
+    {"year":2011,"country_code":"fk","count":1},
+    {"year":2017,"country_code":"mn","count":1},
+    {"year":2009,"country_code":"vg","count":1},
+    {"year":2017,"country_code":"fo","count":1},
+    {"year":2008,"country_code":"zm","count":1},
+    {"year":2008,"country_code":"tt","count":1},
+    {"year":2014,"country_code":"tl","count":1},
+    {"year":2014,"country_code":"gs","count":1},
+    {"year":2010,"country_code":"li","count":1},
+    {"year":2008,"country_code":"kg","count":1},
+    {"year":2009,"country_code":"sy","count":1},
+    {"year":2009,"country_code":"pn","count":1},
+    {"year":2008,"country_code":"gg","count":1},
+    {"year":2011,"country_code":"gn","count":1},
+    {"year":2008,"country_code":"bj","count":1},
+    {"year":2013,"country_code":"sb","count":1},
+    {"year":2013,"country_code":"mh","count":1},
+    {"year":2011,"country_code":"bf","count":1},
+    {"year":2013,"country_code":"lr","count":1},
+    {"year":2015,"country_code":"bv","count":1},
+    {"year":2011,"country_code":"ss","count":1},
+    {"year":2009,"country_code":"mc","count":1},
+    {"year":2010,"country_code":"sj","count":1},
+    {"year":2012,"country_code":"gf","count":1},
+    {"year":2015,"country_code":"ag","count":1},
+    {"year":2008,"country_code":"mm","count":1},
+    {"year":2016,"country_code":"yt","count":1},
+    {"year":2017,"country_code":"lr","count":1},
+    {"year":2014,"country_code":"mr","count":1},
+    {"year":2016,"country_code":"cd","count":1},
+    {"year":2017,"country_code":"jm","count":1},
+    {"year":2011,"country_code":"dm","count":1},
+    {"year":2010,"country_code":"to","count":1},
+    {"year":2012,"country_code":"vg","count":1},
+    {"year":2017,"country_code":"sh","count":1}
+]

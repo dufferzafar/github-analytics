@@ -1,749 +1,751 @@
-{"city":"Bengaluru","count":21205}
-{"city":"Pune","count":7225}
-{"city":"Chennai","count":6863}
-{"city":"Hyderabad","count":6622}
-{"city":"Mumbai","count":5635}
-{"city":"New Delhi","count":4544}
-{"city":"Delhi","count":2358}
-{"city":"Gurgaon","count":2223}
-{"city":"Ahmadabad","count":2045}
-{"city":"Noida","count":2043}
-{"city":"Kolkata","count":1796}
-{"city":"Jaipur","count":957}
-{"city":"Chandigarh","count":883}
-{"city":"Kochi","count":827}
-{"city":"Indore","count":781}
-{"city":"Coimbatore","count":728}
-{"city":"Trivandrum","count":544}
-{"city":"Cuttack","count":523}
-{"city":"Surat","count":399}
-{"city":"Bhubaneshwar","count":332}
-{"city":"Gandhinagar","count":319}
-{"city":"Vadodara","count":317}
-{"city":"Kharagpur","count":316}
-{"city":"Nagpur","count":284}
-{"city":"Rajkot","count":281}
-{"city":"Mysore","count":251}
-{"city":"Mohali","count":250}
-{"city":"Lucknow","count":249}
-{"city":"Guwahati","count":225}
-{"city":"Allahabad","count":220}
-{"city":"Kozhikode","count":212}
-{"city":"Kanpur","count":212}
-{"city":"Vishakhapatnam","count":209}
-{"city":"Bhopal","count":191}
-{"city":"Dehra Dun","count":188}
-{"city":"Mangalore","count":185}
-{"city":"Navi Mumbai","count":176}
-{"city":"Madurai","count":173}
-{"city":"Ghaziabad","count":157}
-{"city":"Roorkee","count":144}
-{"city":"Varanasi","count":142}
-{"city":"Ludhiana","count":140}
-{"city":"Vellore","count":137}
-{"city":"Jodhpur","count":127}
-{"city":"Pilani","count":126}
-{"city":"Manipala","count":115}
-{"city":"Faridabad","count":106}
-{"city":"Nashik","count":105}
-{"city":"Patna","count":102}
-{"city":"Jalandhar","count":102}
-{"city":"Tiruchirappalli","count":100}
-{"city":"Ernakulam","count":98}
-{"city":"Bally","count":90}
-{"city":"Park Town","count":85}
-{"city":"Greater Noida","count":85}
-{"city":"Trichūr","count":83}
-{"city":"Vijayawada","count":77}
-{"city":"Srinagar","count":75}
-{"city":"Ranchi","count":74}
-{"city":"Gwalior","count":72}
-{"city":"Durgapur","count":72}
-{"city":"Udaipur","count":69}
-{"city":"Jabalpur","count":69}
-{"city":"Thane","count":66}
-{"city":"Warangal","count":65}
-{"city":"Dhanbad","count":61}
-{"city":"Banglore","count":59}
-{"city":"Sambhajinagar","count":57}
-{"city":"Kakinada","count":54}
-{"city":"Ahmedabad","count":53}
-{"city":"Raurkela","count":51}
-{"city":"R F","count":50}
-{"city":"Raipur","count":44}
-{"city":"Jamshedpur","count":43}
-{"city":"Patiala","count":43}
-{"city":"Amritsar","count":41}
-{"city":"Palghat","count":39}
-{"city":"Panchkula","count":39}
-{"city":"Quilon","count":38}
-{"city":"Shimla","count":37}
-{"city":"Sāngli","count":36}
-{"city":"Belgaum","count":36}
-{"city":"Karur","count":36}
-{"city":"Surathkal","count":35}
-{"city":"Agra","count":34}
-{"city":"Hamirpur","count":32}
-{"city":"Erode","count":32}
-{"city":"Tirupati","count":31}
-{"city":"Jammu","count":30}
-{"city":"Hubli","count":30}
-{"city":"Aligarh","count":30}
-{"city":"NCC Area","count":29}
-{"city":"North Guwahati","count":29}
-{"city":"Bhilai","count":28}
-{"city":"Guntur","count":28}
-{"city":"Bikaner","count":28}
-{"city":"Māler Kotla","count":26}
-{"city":"Haora","count":26}
-{"city":"Dharmsala","count":26}
-{"city":"Katpadi","count":26}
-{"city":"Kottayam","count":25}
-{"city":"Bhavnagar","count":25}
-{"city":"Nagercoil","count":24}
-{"city":"Ajmer","count":23}
-{"city":"Cannanore","count":23}
-{"city":"Kota","count":21}
-{"city":"Hardwar","count":21}
-{"city":"Powai","count":21}
-{"city":"Ānand","count":20}
-{"city":"Meerut","count":20}
-{"city":"Kakaguda","count":19}
-{"city":"Vashi","count":17}
-{"city":"Kandukur","count":17}
-{"city":"Thanjavur","count":17}
-{"city":"Gorakhpur","count":16}
-{"city":"Shillong","count":16}
-{"city":"Sholapur","count":15}
-{"city":"Tumkūr","count":14}
-{"city":"Silchar","count":14}
-{"city":"Udipi","count":14}
-{"city":"Tirunelveli","count":14}
-{"city":"Udhagamandalam","count":13}
-{"city":"Mahhadian","count":13}
-{"city":"Shiliguri","count":12}
-{"city":"Bhatinda","count":12}
-{"city":"Jālgaon","count":12}
-{"city":"Junagadh","count":12}
-{"city":"Bhubaneswar","count":11}
-{"city":"Nānded","count":11}
-{"city":"Baner","count":11}
-{"city":"Kochinda","count":11}
-{"city":"Salem","count":11}
-{"city":"Tiruppūr","count":11}
-{"city":"Bareilly","count":11}
-{"city":"Nadiād","count":11}
-{"city":"Amravati","count":10}
-{"city":"Agartala","count":10}
-{"city":"Malappuram","count":10}
-{"city":"Ropar","count":10}
-{"city":"Pantnagar","count":10}
-{"city":"Virār","count":10}
-{"city":"Rājahmundry","count":10}
-{"city":"Nellore","count":10}
-{"city":"Asansol","count":10}
-{"city":"Thiruvananthapuram","count":10}
-{"city":"Alwar","count":10}
-{"city":"Kurnool","count":10}
-{"city":"Andheri West","count":9}
-{"city":"Haldwāni","count":9}
-{"city":"Ahmadnagar","count":9}
-{"city":"Karnāl","count":9}
-{"city":"Jagatpur","count":9}
-{"city":"Mandi","count":9}
-{"city":"Thiruverumbur","count":9}
-{"city":"Dehradun","count":9}
-{"city":"Bhīlwāra","count":9}
-{"city":"Valsād","count":9}
-{"city":"Jamnagar","count":9}
-{"city":"Villupuram","count":8}
-{"city":"Thodupuzha","count":8}
-{"city":"Haldia","count":8}
-{"city":"Jhansi","count":8}
-{"city":"Hanamkonda","count":8}
-{"city":"Panaji","count":8}
-{"city":"Bhimavaram","count":8}
-{"city":"Ambala","count":8}
-{"city":"There","count":8}
-{"city":"Lonavla","count":8}
-{"city":"Techno Park","count":8}
-{"city":"Karimnagar","count":8}
-{"city":"Faridpur Durgapur","count":8}
-{"city":"Hosūr","count":7}
-{"city":"Brahmapur","count":7}
-{"city":"Hisār","count":7}
-{"city":"Madhapur","count":7}
-{"city":"Usawa","count":7}
-{"city":"Dwarka","count":7}
-{"city":"Kumbakonam","count":7}
-{"city":"Anantapur","count":7}
-{"city":"Kalyan","count":7}
-{"city":"Hassan","count":7}
-{"city":"Alleppey","count":7}
-{"city":"Ongole","count":7}
-{"city":"Vizianagaram","count":6}
-{"city":"Yamunānagar","count":6}
-{"city":"Bapatla","count":6}
-{"city":"Pathānkot","count":6}
-{"city":"Durg","count":6}
-{"city":"Morādābād","count":6}
-{"city":"Sricity","count":6}
-{"city":"Namakkal","count":6}
-{"city":"Sātāra","count":6}
-{"city":"Muzaffarpur","count":6}
-{"city":"Dharwad","count":6}
-{"city":"Bharūch","count":6}
-{"city":"Durgapur West","count":6}
-{"city":"Cuddalore","count":6}
-{"city":"Gurgoan","count":6}
-{"city":"Airoli","count":6}
-{"city":"Pollāchi","count":6}
-{"city":"Ghaziabad","count":6}
-{"city":"Nuzvid","count":6}
-{"city":"Gachibowli","count":6}
-{"city":"Rishikesh","count":6}
-{"city":"Kakkanad","count":6}
-{"city":"Patan","count":6}
-{"city":"Koratty","count":5}
-{"city":"Chittaurgarh","count":5}
-{"city":"Ulhasnagar","count":5}
-{"city":"Balianta","count":5}
-{"city":"Kasaragod","count":5}
-{"city":"Seonī","count":5}
-{"city":"Madgaon","count":5}
-{"city":"Kothrud","count":5}
-{"city":"Hadapsar","count":5}
-{"city":"Navsāri","count":5}
-{"city":"Mahesāna","count":5}
-{"city":"Tuticorin","count":5}
-{"city":"Aluva","count":5}
-{"city":"Chinchwad","count":5}
-{"city":"Srirangam","count":5}
-{"city":"Asapur","count":5}
-{"city":"Hoshiārpur","count":4}
-{"city":"Bhuj","count":4}
-{"city":"Tezpur","count":4}
-{"city":"Margao","count":4}
-{"city":"Tenkasi","count":4}
-{"city":"Kanchipuram","count":4}
-{"city":"Aizawl","count":4}
-{"city":"Kalyani","count":4}
-{"city":"Chengannur","count":4}
-{"city":"Kalol","count":4}
-{"city":"Puttur","count":4}
-{"city":"Ambala Cantt","count":4}
-{"city":"Nasik","count":4}
-{"city":"Krishnagiri","count":4}
-{"city":"Rohtak","count":4}
-{"city":"Darjiling","count":4}
-{"city":"Koramangala","count":4}
-{"city":"Surendranagar","count":4}
-{"city":"Electronics City","count":4}
-{"city":"Bhiwāni","count":4}
-{"city":"Cherthala","count":4}
-{"city":"Neemrana","count":4}
-{"city":"Dombivli","count":4}
-{"city":"Panvel","count":4}
-{"city":"Bilaspur","count":4}
-{"city":"Mysuru","count":4}
-{"city":"Ponda","count":4}
-{"city":"Sivakasi","count":4}
-{"city":"Shimoga","count":4}
-{"city":"Auroville","count":4}
-{"city":"Visakhapatnam","count":4}
-{"city":"Muvattupuzha","count":4}
-{"city":"Neyveli","count":4}
-{"city":"Vallabh Vidya Nagar","count":3}
-{"city":"Māvelikara","count":3}
-{"city":"Aurangabad","count":3}
-{"city":"Mohammadpur","count":3}
-{"city":"Fatehgarh Sahib","count":3}
-{"city":"Badlapur","count":3}
-{"city":"Shegaon","count":3}
-{"city":"Ratnagiri","count":3}
-{"city":"Kalyani Nagar","count":3}
-{"city":"Tiruchengode","count":3}
-{"city":"Ahemdabad","count":3}
-{"city":"Bardhaman","count":3}
-{"city":"Virudhunagar","count":3}
-{"city":"Sambalpur","count":3}
-{"city":"Firozepur","count":3}
-{"city":"Gurugram","count":3}
-{"city":"Sirsi","count":3}
-{"city":"Gorai","count":3}
-{"city":"Bhiwandi","count":3}
-{"city":"Bhiwadi","count":3}
-{"city":"Itanagar","count":3}
-{"city":"Mandya","count":3}
-{"city":"Bilāspur","count":3}
-{"city":"Cuddapah","count":3}
-{"city":"Srirangapatna","count":3}
-{"city":"Amreli","count":3}
-{"city":"Dhule","count":3}
-{"city":"Kanniyakumari","count":3}
-{"city":"Mangaluru","count":3}
-{"city":"Katra","count":3}
-{"city":"Pathanamthitta","count":3}
-{"city":"Alandi","count":3}
-{"city":"Berhampur","count":3}
-{"city":"Chalakudy","count":3}
-{"city":"Haldwani","count":3}
-{"city":"Chikmagalur","count":2}
-{"city":"Hāpur","count":2}
-{"city":"Daman","count":2}
-{"city":"Angamali","count":2}
-{"city":"Changanassery","count":2}
-{"city":"Srīkākulam","count":2}
-{"city":"Salem Sub-District","count":2}
-{"city":"C M C","count":2}
-{"city":"Gulbarga","count":2}
-{"city":"Hubballi","count":2}
-{"city":"Sector 63","count":2}
-{"city":"Bhagalpur","count":2}
-{"city":"Howrah","count":2}
-{"city":"Nainital","count":2}
-{"city":"Madhubani","count":2}
-{"city":"Proddatur","count":2}
-{"city":"Yelagiri","count":2}
-{"city":"Kothamangalam","count":2}
-{"city":"Dadar","count":2}
-{"city":"Hisar","count":2}
-{"city":"Phagwāra","count":2}
-{"city":"Tiruvalla","count":2}
-{"city":"Jalpāiguri","count":2}
-{"city":"Hazaribag","count":2}
-{"city":"Rourkela","count":2}
-{"city":"Karaikal","count":2}
-{"city":"Dharmapuri","count":2}
-{"city":"Kottakal","count":2}
-{"city":"Shrīrāmpur","count":2}
-{"city":"Adyar","count":2}
-{"city":"Porbandar","count":2}
-{"city":"Kansai","count":2}
-{"city":"Sringeri","count":2}
-{"city":"Banka","count":2}
-{"city":"Navsari","count":2}
-{"city":"Therani","count":2}
-{"city":"Baddi","count":2}
-{"city":"Pudukkottai","count":2}
-{"city":"Ujjain","count":2}
-{"city":"Fatehābād","count":2}
-{"city":"Dadri","count":2}
-{"city":"Kurukshetra","count":2}
-{"city":"Katargam","count":2}
-{"city":"Vasai","count":2}
-{"city":"Dindigul","count":2}
-{"city":"Usail","count":2}
-{"city":"Prabhadevi","count":2}
-{"city":"Nalgonda","count":2}
-{"city":"Anicad","count":2}
-{"city":"Udupi","count":2}
-{"city":"Himatnagar","count":2}
-{"city":"Valsad","count":2}
-{"city":"Malegaon","count":2}
-{"city":"Orai","count":2}
-{"city":"Bokaro","count":2}
-{"city":"Aurngabad","count":2}
-{"city":"Saharanpur","count":2}
-{"city":"Umbergaon","count":2}
-{"city":"Hinjewadi","count":2}
-{"city":"Panipat","count":2}
-{"city":"Chidambaram","count":2}
-{"city":"Air","count":2}
-{"city":"Puttaparthi","count":2}
-{"city":"Gaya","count":2}
-{"city":"Wardha","count":2}
-{"city":"Bhilwara","count":2}
-{"city":"Rājapālaiyam","count":2}
-{"city":"Rāmachandrapuram","count":2}
-{"city":"Sonipat","count":2}
-{"city":"Rāichūr","count":2}
-{"city":"Raigarh","count":2}
-{"city":"Pauri","count":2}
-{"city":"Info City","count":2}
-{"city":"Rajahmundry","count":2}
-{"city":"Thyagaraya Nagar","count":2}
-{"city":"Puri","count":2}
-{"city":"Gudivada","count":2}
-{"city":"Kolar Gold Fields","count":2}
-{"city":"Sangareddy","count":2}
-{"city":"Adilabad","count":2}
-{"city":"Tehri","count":2}
-{"city":"Belapur","count":2}
-{"city":"Mughal Sarai","count":2}
-{"city":"Mausa","count":2}
-{"city":"Zirakpur","count":1}
-{"city":"Dharampur","count":1}
-{"city":"Narayan Peth","count":1}
-{"city":"Ainthapali","count":1}
-{"city":"Dimapur","count":1}
-{"city":"Mahendragarh","count":1}
-{"city":"Bara Banki","count":1}
-{"city":"Saharsa","count":1}
-{"city":"Singrauli","count":1}
-{"city":"Balangir","count":1}
-{"city":"Tinsukia","count":1}
-{"city":"Cheyyar","count":1}
-{"city":"Kharghar","count":1}
-{"city":"Kavali","count":1}
-{"city":"Sangrur","count":1}
-{"city":"Goraya","count":1}
-{"city":"Kasaragod district","count":1}
-{"city":"Maduranthakam","count":1}
-{"city":"Vrindavan","count":1}
-{"city":"Karandighi","count":1}
-{"city":"Jasdan","count":1}
-{"city":"Rudrapur","count":1}
-{"city":"Bhawanipatna","count":1}
-{"city":"Biswan","count":1}
-{"city":"Davangere","count":1}
-{"city":"Ankola","count":1}
-{"city":"Nalagarh","count":1}
-{"city":"Kapurthala","count":1}
-{"city":"Ingrāj Bāzār","count":1}
-{"city":"Perumbakkam","count":1}
-{"city":"Bajaj Nagar","count":1}
-{"city":"Mālūr","count":1}
-{"city":"Dinanagar","count":1}
-{"city":"Malleswaram","count":1}
-{"city":"Pehowa","count":1}
-{"city":"Andippatti","count":1}
-{"city":"Ashti","count":1}
-{"city":"Halol","count":1}
-{"city":"Dumka","count":1}
-{"city":"Loni","count":1}
-{"city":"Neyyattinkara","count":1}
-{"city":"Kopargaon","count":1}
-{"city":"Kot Kapūra","count":1}
-{"city":"Akola","count":1}
-{"city":"Buldana","count":1}
-{"city":"Chandel","count":1}
-{"city":"Khurda","count":1}
-{"city":"Kāshīpur","count":1}
-{"city":"Rāmanāthapuram","count":1}
-{"city":"Sector 62","count":1}
-{"city":"Barara","count":1}
-{"city":"Punalur","count":1}
-{"city":"Mandvi","count":1}
-{"city":"Kinathukadavu","count":1}
-{"city":"Karkhana","count":1}
-{"city":"Korba","count":1}
-{"city":"Satara","count":1}
-{"city":"Anekal","count":1}
-{"city":"Kalka","count":1}
-{"city":"Vikasnagar","count":1}
-{"city":"Rajsamand","count":1}
-{"city":"Banjar","count":1}
-{"city":"Laxmi Nagar","count":1}
-{"city":"Gangtok","count":1}
-{"city":"Etah","count":1}
-{"city":"Sathupalli","count":1}
-{"city":"Paonta Sahib","count":1}
-{"city":"Kalamassery","count":1}
-{"city":"Sikar","count":1}
-{"city":"Basheerbagh","count":1}
-{"city":"Chengalpattu","count":1}
-{"city":"Vidyavihar","count":1}
-{"city":"Gondal","count":1}
-{"city":"Baramati","count":1}
-{"city":"Gajuwaka","count":1}
-{"city":"Vasad","count":1}
-{"city":"Bhavani","count":1}
-{"city":"Sirhind","count":1}
-{"city":"Sendhwa","count":1}
-{"city":"Madanapalle","count":1}
-{"city":"Suratgarh","count":1}
-{"city":"Shupiyan","count":1}
-{"city":"Narayanavanam","count":1}
-{"city":"Ooty","count":1}
-{"city":"Bellary","count":1}
-{"city":"Vasundhara","count":1}
-{"city":"Talegaon","count":1}
-{"city":"Sangamner","count":1}
-{"city":"Palghar","count":1}
-{"city":"Maheshwar","count":1}
-{"city":"Sivasagar","count":1}
-{"city":"Unnao","count":1}
-{"city":"Avinashi","count":1}
-{"city":"Ara","count":1}
-{"city":"Kollam","count":1}
-{"city":"Vikas Puri","count":1}
-{"city":"Raj Kumar","count":1}
-{"city":"Tenali","count":1}
-{"city":"Kapadvanj","count":1}
-{"city":"Jaora","count":1}
-{"city":"Machilipatnam","count":1}
-{"city":"Gudiyāttam","count":1}
-{"city":"Bārāsat","count":1}
-{"city":"Dahisar","count":1}
-{"city":"Jhunjhunūn","count":1}
-{"city":"Beltangadi","count":1}
-{"city":"Medavakkam","count":1}
-{"city":"Bhimtal","count":1}
-{"city":"Samastipur","count":1}
-{"city":"Navadwīp","count":1}
-{"city":"Jamner","count":1}
-{"city":"Tiruppur","count":1}
-{"city":"Barpeta","count":1}
-{"city":"Jadavpur","count":1}
-{"city":"Rajendra Place","count":1}
-{"city":"Tiruvannamalai","count":1}
-{"city":"Nizamabad","count":1}
-{"city":"Bardoli","count":1}
-{"city":"Sakti","count":1}
-{"city":"Suri-I Sub-District","count":1}
-{"city":"Shalimar Bagh","count":1}
-{"city":"Parbhani","count":1}
-{"city":"Dalhousie","count":1}
-{"city":"Kannur","count":1}
-{"city":"Dharapuram","count":1}
-{"city":"Abu Road","count":1}
-{"city":"Mainpuri","count":1}
-{"city":"Palakkad","count":1}
-{"city":"Tosham","count":1}
-{"city":"Dāvangere","count":1}
-{"city":"Alwaye","count":1}
-{"city":"Panagudi","count":1}
-{"city":"Mira Bhayander","count":1}
-{"city":"Mapusa","count":1}
-{"city":"Bayad","count":1}
-{"city":"Amaravati","count":1}
-{"city":"Ravangla","count":1}
-{"city":"Sector 66","count":1}
-{"city":"Hatsingimari","count":1}
-{"city":"Palwal","count":1}
-{"city":"Behāla","count":1}
-{"city":"Jamui","count":1}
-{"city":"Mylavaram","count":1}
-{"city":"Kokrajhar","count":1}
-{"city":"Jorhat","count":1}
-{"city":"Danapur","count":1}
-{"city":"Nimach","count":1}
-{"city":"Gidi","count":1}
-{"city":"Tirūr","count":1}
-{"city":"Bijapur","count":1}
-{"city":"Pen","count":1}
-{"city":"Sector 6","count":1}
-{"city":"Jalandhar Cantonment","count":1}
-{"city":"Basar","count":1}
-{"city":"Mahuva","count":1}
-{"city":"Theni","count":1}
-{"city":"Wakad","count":1}
-{"city":"Thrissur","count":1}
-{"city":"Banjara Hills","count":1}
-{"city":"Gariadhar","count":1}
-{"city":"Manupatti","count":1}
-{"city":"Kandivali","count":1}
-{"city":"Kundli","count":1}
-{"city":"Bobbili","count":1}
-{"city":"J P Nagar 1st Phase","count":1}
-{"city":"Paravur","count":1}
-{"city":"Puducherry","count":1}
-{"city":"Vazhakulam","count":1}
-{"city":"Kumaranellur","count":1}
-{"city":"Morena","count":1}
-{"city":"Anand","count":1}
-{"city":"Jagadhri","count":1}
-{"city":"Karwi","count":1}
-{"city":"Sayla","count":1}
-{"city":"Industrial Area Phase 8","count":1}
-{"city":"Marol","count":1}
-{"city":"Udala","count":1}
-{"city":"Tarana","count":1}
-{"city":"Raiganj","count":1}
-{"city":"Rāj Nāndgaon","count":1}
-{"city":"Mirzapur","count":1}
-{"city":"Gharuan","count":1}
-{"city":"Bhandāra","count":1}
-{"city":"Bandikui","count":1}
-{"city":"Diu","count":1}
-{"city":"Kothavalasa","count":1}
-{"city":"Hathin","count":1}
-{"city":"Muzaffarnagar","count":1}
-{"city":"Dewās","count":1}
-{"city":"Orissa","count":1}
-{"city":"Kotagiri","count":1}
-{"city":"Mylapore","count":1}
-{"city":"Osmanabad","count":1}
-{"city":"Thoothukkudi","count":1}
-{"city":"Andheri","count":1}
-{"city":"Kunnathur","count":1}
-{"city":"Beāwar","count":1}
-{"city":"Dhuburi","count":1}
-{"city":"Maler Kotla","count":1}
-{"city":"Chandrapur","count":1}
-{"city":"Thoubal","count":1}
-{"city":"Gubbi","count":1}
-{"city":"Avalurpet","count":1}
-{"city":"Nilokheri","count":1}
-{"city":"Kotdwara","count":1}
-{"city":"Kadur","count":1}
-{"city":"Dausa","count":1}
-{"city":"Port Blair","count":1}
-{"city":"Rajbagh","count":1}
-{"city":"Ajnala","count":1}
-{"city":"Chakdah","count":1}
-{"city":"Gandhidham","count":1}
-{"city":"Nāgaur","count":1}
-{"city":"Jālna","count":1}
-{"city":"New Lamka","count":1}
-{"city":"Khurai","count":1}
-{"city":"Godhra","count":1}
-{"city":"Guna","count":1}
-{"city":"Nerul","count":1}
-{"city":"Narhe","count":1}
-{"city":"Jaffar Pur Kalan","count":1}
-{"city":"Kathanian","count":1}
-{"city":"Karwar","count":1}
-{"city":"Lahul","count":1}
-{"city":"Unnāo","count":1}
-{"city":"Talappilly","count":1}
-{"city":"Guntakal","count":1}
-{"city":"Barmer","count":1}
-{"city":"Memari-II Scub- District","count":1}
-{"city":"Lonere","count":1}
-{"city":"White Field","count":1}
-{"city":"Chazhoor","count":1}
-{"city":"Chennai City Corporation Limits","count":1}
-{"city":"Dharampuri","count":1}
-{"city":"Vadodra","count":1}
-{"city":"Rudraprayag","count":1}
-{"city":"Galgotias College","count":1}
-{"city":"Maranadu","count":1}
-{"city":"Jehanabad","count":1}
-{"city":"Dhansura","count":1}
-{"city":"Turkya","count":1}
-{"city":"Burla","count":1}
-{"city":"Saket","count":1}
-{"city":"Srivilliputhur","count":1}
-{"city":"Dharanikota","count":1}
-{"city":"Dewas","count":1}
-{"city":"Chail","count":1}
-{"city":"Ben","count":1}
-{"city":"Kunnam","count":1}
-{"city":"Rewāri","count":1}
-{"city":"Imphal","count":1}
-{"city":"Harraiya","count":1}
-{"city":"Bidhan Nagar","count":1}
-{"city":"Pathankot","count":1}
-{"city":"Patti","count":1}
-{"city":"Ghatsila","count":1}
-{"city":"Aali","count":1}
-{"city":"Poonamallee","count":1}
-{"city":"Chīrāla","count":1}
-{"city":"Ajanta","count":1}
-{"city":"Gozaria","count":1}
-{"city":"Tumsar","count":1}
-{"city":"Gāndhī Nagar","count":1}
-{"city":"Payyannur","count":1}
-{"city":"Pithapuram","count":1}
-{"city":"Kanhangad","count":1}
-{"city":"Santacruz West","count":1}
-{"city":"Nanded","count":1}
-{"city":"Kalpetta","count":1}
-{"city":"Najibabad","count":1}
-{"city":"Urapakkam","count":1}
-{"city":"Doddaballapur","count":1}
-{"city":"Nedumangad","count":1}
-{"city":"Supaul","count":1}
-{"city":"Dera Bassi","count":1}
-{"city":"Jodhpur Cross Road","count":1}
-{"city":"Mesra","count":1}
-{"city":"Kaloor","count":1}
-{"city":"Kasaragod Sub-District","count":1}
-{"city":"Pardi","count":1}
-{"city":"Islampur","count":1}
-{"city":"Bareta","count":1}
-{"city":"Noida Sector 63","count":1}
-{"city":"Vadnagar","count":1}
-{"city":"Pimpri","count":1}
-{"city":"Gangānagar","count":1}
-{"city":"Solan","count":1}
-{"city":"Barpeta Road","count":1}
-{"city":"Bankura","count":1}
-{"city":"Shirpur","count":1}
-{"city":"Araria","count":1}
-{"city":"Kothagudem","count":1}
-{"city":"Ganganagar","count":1}
-{"city":"Deesa","count":1}
-{"city":"Booty","count":1}
-{"city":"Akurdi","count":1}
-{"city":"Karkal","count":1}
-{"city":"Kadaiyanallur","count":1}
-{"city":"Piravom","count":1}
-{"city":"Dwarahat","count":1}
-{"city":"Palai","count":1}
-{"city":"Jhalawar","count":1}
-{"city":"Kovilpatti","count":1}
-{"city":"Uran","count":1}
-{"city":"Vapi","count":1}
-{"city":"Huzurabad","count":1}
-{"city":"Baharagora","count":1}
-{"city":"Krishangarh","count":1}
-{"city":"Sathyamangalam","count":1}
-{"city":"Ramapuram","count":1}
-{"city":"Sri Madhopur","count":1}
-{"city":"Perintalmanna","count":1}
-{"city":"Siliguri","count":1}
-{"city":"Mandapeta","count":1}
-{"city":"Jaunpur","count":1}
-{"city":"Sangli","count":1}
-{"city":"Pitampura","count":1}
-{"city":"Hapur","count":1}
-{"city":"Longowal","count":1}
-{"city":"Anakaputhur","count":1}
-{"city":"Ziro","count":1}
-{"city":"Bhojpur","count":1}
-{"city":"Bharatpur","count":1}
-{"city":"Thiruninravur","count":1}
-{"city":"Satna","count":1}
-{"city":"Perumbavoor","count":1}
-{"city":"Marthandanthurai","count":1}
-{"city":"Sonārpur","count":1}
-{"city":"Alamuru","count":1}
-{"city":"Malout","count":1}
-{"city":"Kalladka","count":1}
-{"city":"Mathura","count":1}
-{"city":"New Panvel","count":1}
-{"city":"Karjat","count":1}
-{"city":"Sriperumbudur","count":1}
-{"city":"Basti","count":1}
-{"city":"Nārnaul","count":1}
-{"city":"Bihta","count":1}
-{"city":"Lātūr","count":1}
-{"city":"Nilambur","count":1}
-{"city":"Vontimitta","count":1}
-{"city":"Cooch Behar","count":1}
-{"city":"Salaya","count":1}
-{"city":"Sāgwāra","count":1}
-{"city":"Mandsaur","count":1}
-{"city":"Tanuku","count":1}
-{"city":"Tanur","count":1}
-{"city":"Mira Road","count":1}
-{"city":"Baidyabati","count":1}
-{"city":"Bramhapuri","count":1}
-{"city":"Amroha","count":1}
-{"city":"Nalasopara","count":1}
-{"city":"Veraval","count":1}
-{"city":"Bhandardara","count":1}
-{"city":"Golāghāt","count":1}
-{"city":"Yanam","count":1}
-{"city":"Karen","count":1}
-{"city":"Chittoor","count":1}
-{"city":"Thoothukudi","count":1}
-{"city":"Kangayam","count":1}
-{"city":"Marang Marcha","count":1}
-{"city":"Udaipura","count":1}
-{"city":"Rayachoti","count":1}
-{"city":"North Gauhati","count":1}
-{"city":"Ghandhi Nagar","count":1}
-{"city":"Azamgarh","count":1}
-{"city":"Perungudi","count":1}
-{"city":"Chandannagar","count":1}
-{"city":"Baikunthpur","count":1}
-{"city":"Dhaka","count":1}
-{"city":"Hagaribommanahalli","count":1}
-{"city":"Anjar","count":1}
-{"city":"Raghunathpur","count":1}
-{"city":"Rangapara","count":1}
-{"city":"Golaghat","count":1}
+[
+    {"city":"Bengaluru","count":21205},
+    {"city":"Pune","count":7225},
+    {"city":"Chennai","count":6863},
+    {"city":"Hyderabad","count":6622},
+    {"city":"Mumbai","count":5635},
+    {"city":"New Delhi","count":4544},
+    {"city":"Delhi","count":2358},
+    {"city":"Gurgaon","count":2223},
+    {"city":"Ahmadabad","count":2045},
+    {"city":"Noida","count":2043},
+    {"city":"Kolkata","count":1796},
+    {"city":"Jaipur","count":957},
+    {"city":"Chandigarh","count":883},
+    {"city":"Kochi","count":827},
+    {"city":"Indore","count":781},
+    {"city":"Coimbatore","count":728},
+    {"city":"Trivandrum","count":544},
+    {"city":"Cuttack","count":523},
+    {"city":"Surat","count":399},
+    {"city":"Bhubaneshwar","count":332},
+    {"city":"Gandhinagar","count":319},
+    {"city":"Vadodara","count":317},
+    {"city":"Kharagpur","count":316},
+    {"city":"Nagpur","count":284},
+    {"city":"Rajkot","count":281},
+    {"city":"Mysore","count":251},
+    {"city":"Mohali","count":250},
+    {"city":"Lucknow","count":249},
+    {"city":"Guwahati","count":225},
+    {"city":"Allahabad","count":220},
+    {"city":"Kozhikode","count":212},
+    {"city":"Kanpur","count":212},
+    {"city":"Vishakhapatnam","count":209},
+    {"city":"Bhopal","count":191},
+    {"city":"Dehra Dun","count":188},
+    {"city":"Mangalore","count":185},
+    {"city":"Navi Mumbai","count":176},
+    {"city":"Madurai","count":173},
+    {"city":"Ghaziabad","count":157},
+    {"city":"Roorkee","count":144},
+    {"city":"Varanasi","count":142},
+    {"city":"Ludhiana","count":140},
+    {"city":"Vellore","count":137},
+    {"city":"Jodhpur","count":127},
+    {"city":"Pilani","count":126},
+    {"city":"Manipala","count":115},
+    {"city":"Faridabad","count":106},
+    {"city":"Nashik","count":105},
+    {"city":"Patna","count":102},
+    {"city":"Jalandhar","count":102},
+    {"city":"Tiruchirappalli","count":100},
+    {"city":"Ernakulam","count":98},
+    {"city":"Bally","count":90},
+    {"city":"Park Town","count":85},
+    {"city":"Greater Noida","count":85},
+    {"city":"Trichūr","count":83},
+    {"city":"Vijayawada","count":77},
+    {"city":"Srinagar","count":75},
+    {"city":"Ranchi","count":74},
+    {"city":"Gwalior","count":72},
+    {"city":"Durgapur","count":72},
+    {"city":"Udaipur","count":69},
+    {"city":"Jabalpur","count":69},
+    {"city":"Thane","count":66},
+    {"city":"Warangal","count":65},
+    {"city":"Dhanbad","count":61},
+    {"city":"Banglore","count":59},
+    {"city":"Sambhajinagar","count":57},
+    {"city":"Kakinada","count":54},
+    {"city":"Ahmedabad","count":53},
+    {"city":"Raurkela","count":51},
+    {"city":"R F","count":50},
+    {"city":"Raipur","count":44},
+    {"city":"Jamshedpur","count":43},
+    {"city":"Patiala","count":43},
+    {"city":"Amritsar","count":41},
+    {"city":"Palghat","count":39},
+    {"city":"Panchkula","count":39},
+    {"city":"Quilon","count":38},
+    {"city":"Shimla","count":37},
+    {"city":"Sāngli","count":36},
+    {"city":"Belgaum","count":36},
+    {"city":"Karur","count":36},
+    {"city":"Surathkal","count":35},
+    {"city":"Agra","count":34},
+    {"city":"Hamirpur","count":32},
+    {"city":"Erode","count":32},
+    {"city":"Tirupati","count":31},
+    {"city":"Jammu","count":30},
+    {"city":"Hubli","count":30},
+    {"city":"Aligarh","count":30},
+    {"city":"NCC Area","count":29},
+    {"city":"North Guwahati","count":29},
+    {"city":"Bhilai","count":28},
+    {"city":"Guntur","count":28},
+    {"city":"Bikaner","count":28},
+    {"city":"Māler Kotla","count":26},
+    {"city":"Haora","count":26},
+    {"city":"Dharmsala","count":26},
+    {"city":"Katpadi","count":26},
+    {"city":"Kottayam","count":25},
+    {"city":"Bhavnagar","count":25},
+    {"city":"Nagercoil","count":24},
+    {"city":"Ajmer","count":23},
+    {"city":"Cannanore","count":23},
+    {"city":"Kota","count":21},
+    {"city":"Hardwar","count":21},
+    {"city":"Powai","count":21},
+    {"city":"Ānand","count":20},
+    {"city":"Meerut","count":20},
+    {"city":"Kakaguda","count":19},
+    {"city":"Vashi","count":17},
+    {"city":"Kandukur","count":17},
+    {"city":"Thanjavur","count":17},
+    {"city":"Gorakhpur","count":16},
+    {"city":"Shillong","count":16},
+    {"city":"Sholapur","count":15},
+    {"city":"Tumkūr","count":14},
+    {"city":"Silchar","count":14},
+    {"city":"Udipi","count":14},
+    {"city":"Tirunelveli","count":14},
+    {"city":"Udhagamandalam","count":13},
+    {"city":"Mahhadian","count":13},
+    {"city":"Shiliguri","count":12},
+    {"city":"Bhatinda","count":12},
+    {"city":"Jālgaon","count":12},
+    {"city":"Junagadh","count":12},
+    {"city":"Bhubaneswar","count":11},
+    {"city":"Nānded","count":11},
+    {"city":"Baner","count":11},
+    {"city":"Kochinda","count":11},
+    {"city":"Salem","count":11},
+    {"city":"Tiruppūr","count":11},
+    {"city":"Bareilly","count":11},
+    {"city":"Nadiād","count":11},
+    {"city":"Amravati","count":10},
+    {"city":"Agartala","count":10},
+    {"city":"Malappuram","count":10},
+    {"city":"Ropar","count":10},
+    {"city":"Pantnagar","count":10},
+    {"city":"Virār","count":10},
+    {"city":"Rājahmundry","count":10},
+    {"city":"Nellore","count":10},
+    {"city":"Asansol","count":10},
+    {"city":"Thiruvananthapuram","count":10},
+    {"city":"Alwar","count":10},
+    {"city":"Kurnool","count":10},
+    {"city":"Andheri West","count":9},
+    {"city":"Haldwāni","count":9},
+    {"city":"Ahmadnagar","count":9},
+    {"city":"Karnāl","count":9},
+    {"city":"Jagatpur","count":9},
+    {"city":"Mandi","count":9},
+    {"city":"Thiruverumbur","count":9},
+    {"city":"Dehradun","count":9},
+    {"city":"Bhīlwāra","count":9},
+    {"city":"Valsād","count":9},
+    {"city":"Jamnagar","count":9},
+    {"city":"Villupuram","count":8},
+    {"city":"Thodupuzha","count":8},
+    {"city":"Haldia","count":8},
+    {"city":"Jhansi","count":8},
+    {"city":"Hanamkonda","count":8},
+    {"city":"Panaji","count":8},
+    {"city":"Bhimavaram","count":8},
+    {"city":"Ambala","count":8},
+    {"city":"There","count":8},
+    {"city":"Lonavla","count":8},
+    {"city":"Techno Park","count":8},
+    {"city":"Karimnagar","count":8},
+    {"city":"Faridpur Durgapur","count":8},
+    {"city":"Hosūr","count":7},
+    {"city":"Brahmapur","count":7},
+    {"city":"Hisār","count":7},
+    {"city":"Madhapur","count":7},
+    {"city":"Usawa","count":7},
+    {"city":"Dwarka","count":7},
+    {"city":"Kumbakonam","count":7},
+    {"city":"Anantapur","count":7},
+    {"city":"Kalyan","count":7},
+    {"city":"Hassan","count":7},
+    {"city":"Alleppey","count":7},
+    {"city":"Ongole","count":7},
+    {"city":"Vizianagaram","count":6},
+    {"city":"Yamunānagar","count":6},
+    {"city":"Bapatla","count":6},
+    {"city":"Pathānkot","count":6},
+    {"city":"Durg","count":6},
+    {"city":"Morādābād","count":6},
+    {"city":"Sricity","count":6},
+    {"city":"Namakkal","count":6},
+    {"city":"Sātāra","count":6},
+    {"city":"Muzaffarpur","count":6},
+    {"city":"Dharwad","count":6},
+    {"city":"Bharūch","count":6},
+    {"city":"Durgapur West","count":6},
+    {"city":"Cuddalore","count":6},
+    {"city":"Gurgoan","count":6},
+    {"city":"Airoli","count":6},
+    {"city":"Pollāchi","count":6},
+    {"city":"Ghaziabad","count":6},
+    {"city":"Nuzvid","count":6},
+    {"city":"Gachibowli","count":6},
+    {"city":"Rishikesh","count":6},
+    {"city":"Kakkanad","count":6},
+    {"city":"Patan","count":6},
+    {"city":"Koratty","count":5},
+    {"city":"Chittaurgarh","count":5},
+    {"city":"Ulhasnagar","count":5},
+    {"city":"Balianta","count":5},
+    {"city":"Kasaragod","count":5},
+    {"city":"Seonī","count":5},
+    {"city":"Madgaon","count":5},
+    {"city":"Kothrud","count":5},
+    {"city":"Hadapsar","count":5},
+    {"city":"Navsāri","count":5},
+    {"city":"Mahesāna","count":5},
+    {"city":"Tuticorin","count":5},
+    {"city":"Aluva","count":5},
+    {"city":"Chinchwad","count":5},
+    {"city":"Srirangam","count":5},
+    {"city":"Asapur","count":5},
+    {"city":"Hoshiārpur","count":4},
+    {"city":"Bhuj","count":4},
+    {"city":"Tezpur","count":4},
+    {"city":"Margao","count":4},
+    {"city":"Tenkasi","count":4},
+    {"city":"Kanchipuram","count":4},
+    {"city":"Aizawl","count":4},
+    {"city":"Kalyani","count":4},
+    {"city":"Chengannur","count":4},
+    {"city":"Kalol","count":4},
+    {"city":"Puttur","count":4},
+    {"city":"Ambala Cantt","count":4},
+    {"city":"Nasik","count":4},
+    {"city":"Krishnagiri","count":4},
+    {"city":"Rohtak","count":4},
+    {"city":"Darjiling","count":4},
+    {"city":"Koramangala","count":4},
+    {"city":"Surendranagar","count":4},
+    {"city":"Electronics City","count":4},
+    {"city":"Bhiwāni","count":4},
+    {"city":"Cherthala","count":4},
+    {"city":"Neemrana","count":4},
+    {"city":"Dombivli","count":4},
+    {"city":"Panvel","count":4},
+    {"city":"Bilaspur","count":4},
+    {"city":"Mysuru","count":4},
+    {"city":"Ponda","count":4},
+    {"city":"Sivakasi","count":4},
+    {"city":"Shimoga","count":4},
+    {"city":"Auroville","count":4},
+    {"city":"Visakhapatnam","count":4},
+    {"city":"Muvattupuzha","count":4},
+    {"city":"Neyveli","count":4},
+    {"city":"Vallabh Vidya Nagar","count":3},
+    {"city":"Māvelikara","count":3},
+    {"city":"Aurangabad","count":3},
+    {"city":"Mohammadpur","count":3},
+    {"city":"Fatehgarh Sahib","count":3},
+    {"city":"Badlapur","count":3},
+    {"city":"Shegaon","count":3},
+    {"city":"Ratnagiri","count":3},
+    {"city":"Kalyani Nagar","count":3},
+    {"city":"Tiruchengode","count":3},
+    {"city":"Ahemdabad","count":3},
+    {"city":"Bardhaman","count":3},
+    {"city":"Virudhunagar","count":3},
+    {"city":"Sambalpur","count":3},
+    {"city":"Firozepur","count":3},
+    {"city":"Gurugram","count":3},
+    {"city":"Sirsi","count":3},
+    {"city":"Gorai","count":3},
+    {"city":"Bhiwandi","count":3},
+    {"city":"Bhiwadi","count":3},
+    {"city":"Itanagar","count":3},
+    {"city":"Mandya","count":3},
+    {"city":"Bilāspur","count":3},
+    {"city":"Cuddapah","count":3},
+    {"city":"Srirangapatna","count":3},
+    {"city":"Amreli","count":3},
+    {"city":"Dhule","count":3},
+    {"city":"Kanniyakumari","count":3},
+    {"city":"Mangaluru","count":3},
+    {"city":"Katra","count":3},
+    {"city":"Pathanamthitta","count":3},
+    {"city":"Alandi","count":3},
+    {"city":"Berhampur","count":3},
+    {"city":"Chalakudy","count":3},
+    {"city":"Haldwani","count":3},
+    {"city":"Chikmagalur","count":2},
+    {"city":"Hāpur","count":2},
+    {"city":"Daman","count":2},
+    {"city":"Angamali","count":2},
+    {"city":"Changanassery","count":2},
+    {"city":"Srīkākulam","count":2},
+    {"city":"Salem Sub-District","count":2},
+    {"city":"C M C","count":2},
+    {"city":"Gulbarga","count":2},
+    {"city":"Hubballi","count":2},
+    {"city":"Sector 63","count":2},
+    {"city":"Bhagalpur","count":2},
+    {"city":"Howrah","count":2},
+    {"city":"Nainital","count":2},
+    {"city":"Madhubani","count":2},
+    {"city":"Proddatur","count":2},
+    {"city":"Yelagiri","count":2},
+    {"city":"Kothamangalam","count":2},
+    {"city":"Dadar","count":2},
+    {"city":"Hisar","count":2},
+    {"city":"Phagwāra","count":2},
+    {"city":"Tiruvalla","count":2},
+    {"city":"Jalpāiguri","count":2},
+    {"city":"Hazaribag","count":2},
+    {"city":"Rourkela","count":2},
+    {"city":"Karaikal","count":2},
+    {"city":"Dharmapuri","count":2},
+    {"city":"Kottakal","count":2},
+    {"city":"Shrīrāmpur","count":2},
+    {"city":"Adyar","count":2},
+    {"city":"Porbandar","count":2},
+    {"city":"Kansai","count":2},
+    {"city":"Sringeri","count":2},
+    {"city":"Banka","count":2},
+    {"city":"Navsari","count":2},
+    {"city":"Therani","count":2},
+    {"city":"Baddi","count":2},
+    {"city":"Pudukkottai","count":2},
+    {"city":"Ujjain","count":2},
+    {"city":"Fatehābād","count":2},
+    {"city":"Dadri","count":2},
+    {"city":"Kurukshetra","count":2},
+    {"city":"Katargam","count":2},
+    {"city":"Vasai","count":2},
+    {"city":"Dindigul","count":2},
+    {"city":"Usail","count":2},
+    {"city":"Prabhadevi","count":2},
+    {"city":"Nalgonda","count":2},
+    {"city":"Anicad","count":2},
+    {"city":"Udupi","count":2},
+    {"city":"Himatnagar","count":2},
+    {"city":"Valsad","count":2},
+    {"city":"Malegaon","count":2},
+    {"city":"Orai","count":2},
+    {"city":"Bokaro","count":2},
+    {"city":"Aurngabad","count":2},
+    {"city":"Saharanpur","count":2},
+    {"city":"Umbergaon","count":2},
+    {"city":"Hinjewadi","count":2},
+    {"city":"Panipat","count":2},
+    {"city":"Chidambaram","count":2},
+    {"city":"Air","count":2},
+    {"city":"Puttaparthi","count":2},
+    {"city":"Gaya","count":2},
+    {"city":"Wardha","count":2},
+    {"city":"Bhilwara","count":2},
+    {"city":"Rājapālaiyam","count":2},
+    {"city":"Rāmachandrapuram","count":2},
+    {"city":"Sonipat","count":2},
+    {"city":"Rāichūr","count":2},
+    {"city":"Raigarh","count":2},
+    {"city":"Pauri","count":2},
+    {"city":"Info City","count":2},
+    {"city":"Rajahmundry","count":2},
+    {"city":"Thyagaraya Nagar","count":2},
+    {"city":"Puri","count":2},
+    {"city":"Gudivada","count":2},
+    {"city":"Kolar Gold Fields","count":2},
+    {"city":"Sangareddy","count":2},
+    {"city":"Adilabad","count":2},
+    {"city":"Tehri","count":2},
+    {"city":"Belapur","count":2},
+    {"city":"Mughal Sarai","count":2},
+    {"city":"Mausa","count":2},
+    {"city":"Zirakpur","count":1},
+    {"city":"Dharampur","count":1},
+    {"city":"Narayan Peth","count":1},
+    {"city":"Ainthapali","count":1},
+    {"city":"Dimapur","count":1},
+    {"city":"Mahendragarh","count":1},
+    {"city":"Bara Banki","count":1},
+    {"city":"Saharsa","count":1},
+    {"city":"Singrauli","count":1},
+    {"city":"Balangir","count":1},
+    {"city":"Tinsukia","count":1},
+    {"city":"Cheyyar","count":1},
+    {"city":"Kharghar","count":1},
+    {"city":"Kavali","count":1},
+    {"city":"Sangrur","count":1},
+    {"city":"Goraya","count":1},
+    {"city":"Kasaragod district","count":1},
+    {"city":"Maduranthakam","count":1},
+    {"city":"Vrindavan","count":1},
+    {"city":"Karandighi","count":1},
+    {"city":"Jasdan","count":1},
+    {"city":"Rudrapur","count":1},
+    {"city":"Bhawanipatna","count":1},
+    {"city":"Biswan","count":1},
+    {"city":"Davangere","count":1},
+    {"city":"Ankola","count":1},
+    {"city":"Nalagarh","count":1},
+    {"city":"Kapurthala","count":1},
+    {"city":"Ingrāj Bāzār","count":1},
+    {"city":"Perumbakkam","count":1},
+    {"city":"Bajaj Nagar","count":1},
+    {"city":"Mālūr","count":1},
+    {"city":"Dinanagar","count":1},
+    {"city":"Malleswaram","count":1},
+    {"city":"Pehowa","count":1},
+    {"city":"Andippatti","count":1},
+    {"city":"Ashti","count":1},
+    {"city":"Halol","count":1},
+    {"city":"Dumka","count":1},
+    {"city":"Loni","count":1},
+    {"city":"Neyyattinkara","count":1},
+    {"city":"Kopargaon","count":1},
+    {"city":"Kot Kapūra","count":1},
+    {"city":"Akola","count":1},
+    {"city":"Buldana","count":1},
+    {"city":"Chandel","count":1},
+    {"city":"Khurda","count":1},
+    {"city":"Kāshīpur","count":1},
+    {"city":"Rāmanāthapuram","count":1},
+    {"city":"Sector 62","count":1},
+    {"city":"Barara","count":1},
+    {"city":"Punalur","count":1},
+    {"city":"Mandvi","count":1},
+    {"city":"Kinathukadavu","count":1},
+    {"city":"Karkhana","count":1},
+    {"city":"Korba","count":1},
+    {"city":"Satara","count":1},
+    {"city":"Anekal","count":1},
+    {"city":"Kalka","count":1},
+    {"city":"Vikasnagar","count":1},
+    {"city":"Rajsamand","count":1},
+    {"city":"Banjar","count":1},
+    {"city":"Laxmi Nagar","count":1},
+    {"city":"Gangtok","count":1},
+    {"city":"Etah","count":1},
+    {"city":"Sathupalli","count":1},
+    {"city":"Paonta Sahib","count":1},
+    {"city":"Kalamassery","count":1},
+    {"city":"Sikar","count":1},
+    {"city":"Basheerbagh","count":1},
+    {"city":"Chengalpattu","count":1},
+    {"city":"Vidyavihar","count":1},
+    {"city":"Gondal","count":1},
+    {"city":"Baramati","count":1},
+    {"city":"Gajuwaka","count":1},
+    {"city":"Vasad","count":1},
+    {"city":"Bhavani","count":1},
+    {"city":"Sirhind","count":1},
+    {"city":"Sendhwa","count":1},
+    {"city":"Madanapalle","count":1},
+    {"city":"Suratgarh","count":1},
+    {"city":"Shupiyan","count":1},
+    {"city":"Narayanavanam","count":1},
+    {"city":"Ooty","count":1},
+    {"city":"Bellary","count":1},
+    {"city":"Vasundhara","count":1},
+    {"city":"Talegaon","count":1},
+    {"city":"Sangamner","count":1},
+    {"city":"Palghar","count":1},
+    {"city":"Maheshwar","count":1},
+    {"city":"Sivasagar","count":1},
+    {"city":"Unnao","count":1},
+    {"city":"Avinashi","count":1},
+    {"city":"Ara","count":1},
+    {"city":"Kollam","count":1},
+    {"city":"Vikas Puri","count":1},
+    {"city":"Raj Kumar","count":1},
+    {"city":"Tenali","count":1},
+    {"city":"Kapadvanj","count":1},
+    {"city":"Jaora","count":1},
+    {"city":"Machilipatnam","count":1},
+    {"city":"Gudiyāttam","count":1},
+    {"city":"Bārāsat","count":1},
+    {"city":"Dahisar","count":1},
+    {"city":"Jhunjhunūn","count":1},
+    {"city":"Beltangadi","count":1},
+    {"city":"Medavakkam","count":1},
+    {"city":"Bhimtal","count":1},
+    {"city":"Samastipur","count":1},
+    {"city":"Navadwīp","count":1},
+    {"city":"Jamner","count":1},
+    {"city":"Tiruppur","count":1},
+    {"city":"Barpeta","count":1},
+    {"city":"Jadavpur","count":1},
+    {"city":"Rajendra Place","count":1},
+    {"city":"Tiruvannamalai","count":1},
+    {"city":"Nizamabad","count":1},
+    {"city":"Bardoli","count":1},
+    {"city":"Sakti","count":1},
+    {"city":"Suri-I Sub-District","count":1},
+    {"city":"Shalimar Bagh","count":1},
+    {"city":"Parbhani","count":1},
+    {"city":"Dalhousie","count":1},
+    {"city":"Kannur","count":1},
+    {"city":"Dharapuram","count":1},
+    {"city":"Abu Road","count":1},
+    {"city":"Mainpuri","count":1},
+    {"city":"Palakkad","count":1},
+    {"city":"Tosham","count":1},
+    {"city":"Dāvangere","count":1},
+    {"city":"Alwaye","count":1},
+    {"city":"Panagudi","count":1},
+    {"city":"Mira Bhayander","count":1},
+    {"city":"Mapusa","count":1},
+    {"city":"Bayad","count":1},
+    {"city":"Amaravati","count":1},
+    {"city":"Ravangla","count":1},
+    {"city":"Sector 66","count":1},
+    {"city":"Hatsingimari","count":1},
+    {"city":"Palwal","count":1},
+    {"city":"Behāla","count":1},
+    {"city":"Jamui","count":1},
+    {"city":"Mylavaram","count":1},
+    {"city":"Kokrajhar","count":1},
+    {"city":"Jorhat","count":1},
+    {"city":"Danapur","count":1},
+    {"city":"Nimach","count":1},
+    {"city":"Gidi","count":1},
+    {"city":"Tirūr","count":1},
+    {"city":"Bijapur","count":1},
+    {"city":"Pen","count":1},
+    {"city":"Sector 6","count":1},
+    {"city":"Jalandhar Cantonment","count":1},
+    {"city":"Basar","count":1},
+    {"city":"Mahuva","count":1},
+    {"city":"Theni","count":1},
+    {"city":"Wakad","count":1},
+    {"city":"Thrissur","count":1},
+    {"city":"Banjara Hills","count":1},
+    {"city":"Gariadhar","count":1},
+    {"city":"Manupatti","count":1},
+    {"city":"Kandivali","count":1},
+    {"city":"Kundli","count":1},
+    {"city":"Bobbili","count":1},
+    {"city":"J P Nagar 1st Phase","count":1},
+    {"city":"Paravur","count":1},
+    {"city":"Puducherry","count":1},
+    {"city":"Vazhakulam","count":1},
+    {"city":"Kumaranellur","count":1},
+    {"city":"Morena","count":1},
+    {"city":"Anand","count":1},
+    {"city":"Jagadhri","count":1},
+    {"city":"Karwi","count":1},
+    {"city":"Sayla","count":1},
+    {"city":"Industrial Area Phase 8","count":1},
+    {"city":"Marol","count":1},
+    {"city":"Udala","count":1},
+    {"city":"Tarana","count":1},
+    {"city":"Raiganj","count":1},
+    {"city":"Rāj Nāndgaon","count":1},
+    {"city":"Mirzapur","count":1},
+    {"city":"Gharuan","count":1},
+    {"city":"Bhandāra","count":1},
+    {"city":"Bandikui","count":1},
+    {"city":"Diu","count":1},
+    {"city":"Kothavalasa","count":1},
+    {"city":"Hathin","count":1},
+    {"city":"Muzaffarnagar","count":1},
+    {"city":"Dewās","count":1},
+    {"city":"Orissa","count":1},
+    {"city":"Kotagiri","count":1},
+    {"city":"Mylapore","count":1},
+    {"city":"Osmanabad","count":1},
+    {"city":"Thoothukkudi","count":1},
+    {"city":"Andheri","count":1},
+    {"city":"Kunnathur","count":1},
+    {"city":"Beāwar","count":1},
+    {"city":"Dhuburi","count":1},
+    {"city":"Maler Kotla","count":1},
+    {"city":"Chandrapur","count":1},
+    {"city":"Thoubal","count":1},
+    {"city":"Gubbi","count":1},
+    {"city":"Avalurpet","count":1},
+    {"city":"Nilokheri","count":1},
+    {"city":"Kotdwara","count":1},
+    {"city":"Kadur","count":1},
+    {"city":"Dausa","count":1},
+    {"city":"Port Blair","count":1},
+    {"city":"Rajbagh","count":1},
+    {"city":"Ajnala","count":1},
+    {"city":"Chakdah","count":1},
+    {"city":"Gandhidham","count":1},
+    {"city":"Nāgaur","count":1},
+    {"city":"Jālna","count":1},
+    {"city":"New Lamka","count":1},
+    {"city":"Khurai","count":1},
+    {"city":"Godhra","count":1},
+    {"city":"Guna","count":1},
+    {"city":"Nerul","count":1},
+    {"city":"Narhe","count":1},
+    {"city":"Jaffar Pur Kalan","count":1},
+    {"city":"Kathanian","count":1},
+    {"city":"Karwar","count":1},
+    {"city":"Lahul","count":1},
+    {"city":"Unnāo","count":1},
+    {"city":"Talappilly","count":1},
+    {"city":"Guntakal","count":1},
+    {"city":"Barmer","count":1},
+    {"city":"Memari-II Scub- District","count":1},
+    {"city":"Lonere","count":1},
+    {"city":"White Field","count":1},
+    {"city":"Chazhoor","count":1},
+    {"city":"Chennai City Corporation Limits","count":1},
+    {"city":"Dharampuri","count":1},
+    {"city":"Vadodra","count":1},
+    {"city":"Rudraprayag","count":1},
+    {"city":"Galgotias College","count":1},
+    {"city":"Maranadu","count":1},
+    {"city":"Jehanabad","count":1},
+    {"city":"Dhansura","count":1},
+    {"city":"Turkya","count":1},
+    {"city":"Burla","count":1},
+    {"city":"Saket","count":1},
+    {"city":"Srivilliputhur","count":1},
+    {"city":"Dharanikota","count":1},
+    {"city":"Dewas","count":1},
+    {"city":"Chail","count":1},
+    {"city":"Ben","count":1},
+    {"city":"Kunnam","count":1},
+    {"city":"Rewāri","count":1},
+    {"city":"Imphal","count":1},
+    {"city":"Harraiya","count":1},
+    {"city":"Bidhan Nagar","count":1},
+    {"city":"Pathankot","count":1},
+    {"city":"Patti","count":1},
+    {"city":"Ghatsila","count":1},
+    {"city":"Aali","count":1},
+    {"city":"Poonamallee","count":1},
+    {"city":"Chīrāla","count":1},
+    {"city":"Ajanta","count":1},
+    {"city":"Gozaria","count":1},
+    {"city":"Tumsar","count":1},
+    {"city":"Gāndhī Nagar","count":1},
+    {"city":"Payyannur","count":1},
+    {"city":"Pithapuram","count":1},
+    {"city":"Kanhangad","count":1},
+    {"city":"Santacruz West","count":1},
+    {"city":"Nanded","count":1},
+    {"city":"Kalpetta","count":1},
+    {"city":"Najibabad","count":1},
+    {"city":"Urapakkam","count":1},
+    {"city":"Doddaballapur","count":1},
+    {"city":"Nedumangad","count":1},
+    {"city":"Supaul","count":1},
+    {"city":"Dera Bassi","count":1},
+    {"city":"Jodhpur Cross Road","count":1},
+    {"city":"Mesra","count":1},
+    {"city":"Kaloor","count":1},
+    {"city":"Kasaragod Sub-District","count":1},
+    {"city":"Pardi","count":1},
+    {"city":"Islampur","count":1},
+    {"city":"Bareta","count":1},
+    {"city":"Noida Sector 63","count":1},
+    {"city":"Vadnagar","count":1},
+    {"city":"Pimpri","count":1},
+    {"city":"Gangānagar","count":1},
+    {"city":"Solan","count":1},
+    {"city":"Barpeta Road","count":1},
+    {"city":"Bankura","count":1},
+    {"city":"Shirpur","count":1},
+    {"city":"Araria","count":1},
+    {"city":"Kothagudem","count":1},
+    {"city":"Ganganagar","count":1},
+    {"city":"Deesa","count":1},
+    {"city":"Booty","count":1},
+    {"city":"Akurdi","count":1},
+    {"city":"Karkal","count":1},
+    {"city":"Kadaiyanallur","count":1},
+    {"city":"Piravom","count":1},
+    {"city":"Dwarahat","count":1},
+    {"city":"Palai","count":1},
+    {"city":"Jhalawar","count":1},
+    {"city":"Kovilpatti","count":1},
+    {"city":"Uran","count":1},
+    {"city":"Vapi","count":1},
+    {"city":"Huzurabad","count":1},
+    {"city":"Baharagora","count":1},
+    {"city":"Krishangarh","count":1},
+    {"city":"Sathyamangalam","count":1},
+    {"city":"Ramapuram","count":1},
+    {"city":"Sri Madhopur","count":1},
+    {"city":"Perintalmanna","count":1},
+    {"city":"Siliguri","count":1},
+    {"city":"Mandapeta","count":1},
+    {"city":"Jaunpur","count":1},
+    {"city":"Sangli","count":1},
+    {"city":"Pitampura","count":1},
+    {"city":"Hapur","count":1},
+    {"city":"Longowal","count":1},
+    {"city":"Anakaputhur","count":1},
+    {"city":"Ziro","count":1},
+    {"city":"Bhojpur","count":1},
+    {"city":"Bharatpur","count":1},
+    {"city":"Thiruninravur","count":1},
+    {"city":"Satna","count":1},
+    {"city":"Perumbavoor","count":1},
+    {"city":"Marthandanthurai","count":1},
+    {"city":"Sonārpur","count":1},
+    {"city":"Alamuru","count":1},
+    {"city":"Malout","count":1},
+    {"city":"Kalladka","count":1},
+    {"city":"Mathura","count":1},
+    {"city":"New Panvel","count":1},
+    {"city":"Karjat","count":1},
+    {"city":"Sriperumbudur","count":1},
+    {"city":"Basti","count":1},
+    {"city":"Nārnaul","count":1},
+    {"city":"Bihta","count":1},
+    {"city":"Lātūr","count":1},
+    {"city":"Nilambur","count":1},
+    {"city":"Vontimitta","count":1},
+    {"city":"Cooch Behar","count":1},
+    {"city":"Salaya","count":1},
+    {"city":"Sāgwāra","count":1},
+    {"city":"Mandsaur","count":1},
+    {"city":"Tanuku","count":1},
+    {"city":"Tanur","count":1},
+    {"city":"Mira Road","count":1},
+    {"city":"Baidyabati","count":1},
+    {"city":"Bramhapuri","count":1},
+    {"city":"Amroha","count":1},
+    {"city":"Nalasopara","count":1},
+    {"city":"Veraval","count":1},
+    {"city":"Bhandardara","count":1},
+    {"city":"Golāghāt","count":1},
+    {"city":"Yanam","count":1},
+    {"city":"Karen","count":1},
+    {"city":"Chittoor","count":1},
+    {"city":"Thoothukudi","count":1},
+    {"city":"Kangayam","count":1},
+    {"city":"Marang Marcha","count":1},
+    {"city":"Udaipura","count":1},
+    {"city":"Rayachoti","count":1},
+    {"city":"North Gauhati","count":1},
+    {"city":"Ghandhi Nagar","count":1},
+    {"city":"Azamgarh","count":1},
+    {"city":"Perungudi","count":1},
+    {"city":"Chandannagar","count":1},
+    {"city":"Baikunthpur","count":1},
+    {"city":"Dhaka","count":1},
+    {"city":"Hagaribommanahalli","count":1},
+    {"city":"Anjar","count":1},
+    {"city":"Raghunathpur","count":1},
+    {"city":"Rangapara","count":1},
+    {"city":"Golaghat","count":1}
+]
