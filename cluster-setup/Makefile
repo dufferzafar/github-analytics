@@ -1,26 +1,16 @@
 MY_IP := $(shell ifconfig wlp2s0 | grep "inet addr:" | cut -d: -f2 | cut -d " " -f 1)
 
-push-setup:
-	rsync -r . vm1:/home/vm1/github-analytics/cluster-setup/
-	rsync -r . vm2:/home/vm2/github-analytics/cluster-setup/
-	rsync -r . vm3:/home/vm3/github-analytics/cluster-setup/
-	rsync -r . vm4:/home/vm4/github-analytics/cluster-setup/
+stop-all: stop-hdfs stop-spark
+start-all: start-hdfs start-spark
 
-copy-hadoop-config:
-	ssh -t vm1 cp /home/vm1/github-analytics/cluster-setup/hadoop/* /home/vm1/hadoop/etc/hadoop/
-
-stop-all: stop-dfs stop-spark stop-pyspark
-
-start-all: start-dfs start-spark
-
-start-dfs:
+start-hdfs:
 	./run vm1 "~/hadoop/sbin/hadoop-daemon.sh" start namenode
 
 	./run vm2 "~/hadoop/sbin/hadoop-daemon.sh" start datanode
 	./run vm3 "~/hadoop/sbin/hadoop-daemon.sh" start datanode
 	./run vm4 "~/hadoop/sbin/hadoop-daemon.sh" start datanode
 
-stop-dfs:
+stop-hdfs:
 	./run vm1 "~/hadoop/sbin/hadoop-daemon.sh" stop namenode
 
 	./run vm2 "~/hadoop/sbin/hadoop-daemon.sh" stop datanode
@@ -29,22 +19,21 @@ stop-dfs:
 
 start-spark:
 	./run vm1 "~/spark/sbin/start-master.sh" -h vm1
-	@# ./run vm1 "~/spark/sbin/start-slave.sh" -c 1 -m 3G spark://vm1:7077
 
-	./run vm2 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
-	./run vm3 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
-	./run vm4 "~/spark/sbin/start-slave.sh" -c 3 -m 3G spark://vm1:7077
+	./run vm2 "~/spark/sbin/start-slave.sh" -c 4 -m 3500M spark://vm1:7077
+	./run vm3 "~/spark/sbin/start-slave.sh" -c 4 -m 3500M spark://vm1:7077
+	./run vm4 "~/spark/sbin/start-slave.sh" -c 4 -m 3500M spark://vm1:7077
 
-stop-spark: stop-pyspark
+stop-spark:
 	./run vm1 "~/spark/sbin/stop-master.sh"
-	@# ./run vm1 "~/spark/sbin/stop-slave.sh"
 
 	./run vm2 "~/spark/sbin/stop-slave.sh"
 	./run vm3 "~/spark/sbin/stop-slave.sh"
 	./run vm4 "~/spark/sbin/stop-slave.sh"
 
+# Our pyspark is configured to launch jupyter (via environment variables and config files etc.)
 start-pyspark:
-	./run vm1 "~/spark/bin/pyspark" --master spark://vm1:7077 --deploy-mode client --executor-cores 2 --executor-memory 3G --driver-memory 6G --conf spark.driver.maxResultSize=3G
+	./run vm1 "~/spark/bin/pyspark" --master spark://vm1:7077 --deploy-mode client --executor-cores 4 --executor-memory 3500M --driver-memory 6G --conf spark.driver.maxResultSize=3G
 
 stop-pyspark:
 	./run vm1 pkill jupyter
@@ -56,14 +45,18 @@ sync-spark-config:
 	scp spark/* "vm3:~/spark/conf"
 	scp spark/* "vm4:~/spark/conf"
 
+
 restart-all: stop-all
 	./run-all sudo shutdown -r now
+
 
 hdfs-du:
 	./run-all du -h -d0 "~/hdfs"
 
 hdfs-report:
 	./run vm1 hdfs dfsadmin -report
+
+#
 
 mount-src-harish:
 	@#./run vm1 mkdir -p "~/github-analytics/src-harish"
