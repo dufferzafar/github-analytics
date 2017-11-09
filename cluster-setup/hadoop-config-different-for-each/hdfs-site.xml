@@ -29,6 +29,7 @@
 
   <property>
     <name>dfs.data.dir</name>
-    <value>file:/home/vm*/hdfs/datanode</value>
+    <value>file:/home/vm*/hdfs/datanode,file:/home/vm*/50gb/hdfs/datanode</value>
   </property>
+
 </configuration>

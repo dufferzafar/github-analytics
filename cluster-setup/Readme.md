@@ -88,6 +88,38 @@ In hindsight, we shouldn't have changed the usernames! (should we change them ba
 
 * Installed Spark on all machines
 
+### 8/11/2017
+
+* Successfully ran spark standalone cluster on all nodes
+* Installed anaconda3 on all machines (`~/anaconda3`)
+* Ran jupyter-lab notebook on spark cluster
+
+* Mounted the additional 50GB disk on vm1
+    - `sudo mkfs.ext4 /dev/vdb`
+    - `mkdir ~/50gb/`
+    - `sudo mount /dev/vdb 50gb/`
+    - `sudo chown vm1 50gb/`
+
+### 9/11/2017
+
+* Mounted the additional 50GB disk on vm{2,3,4}
+    - `sudo mkfs.ext4 /dev/vdb`
+    - `mkdir ~/50gb/`
+    - `sudo mount /dev/vdb 50gb/`
+    - `sudo chown vm{2,3,4} 50gb/`
+
+* Add a new directory for hdfs
+    - `mkdir ~/50gb/hdfs`
+
+* Add it to `hdfs-site.xml`
+    - `data.dir`
+
+* Adding the mount entry to so it can get automounted on restart
+    - `sudo vim /etc/fstab`
+    - Add line `/dev/vdb /home/vm2/50gb ext4 errors=remount-ro 0 1`
+
+* Restart the machines
+
 # Master
 
 * scp hadoop tarball to master
