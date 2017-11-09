@@ -57,6 +57,14 @@
         {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata" : {}}
     ],
 
+    "commits_new.csv": [
+        {"name": "id"              , "type": "long"      , "nullable": false , "metadata" : {}} ,
+        {"name": "author_id"       , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "committer_id"    , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "project_id"      , "type": "long"      , "nullable": true  , "metadata" : {}} ,
+        {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata" : {}}
+    ],
+
     "pull_requests.csv": [
         {"name": "id"              , "type": "long"      , "nullable": false , "metadata": {}} ,
         {"name": "head_repo_id"    , "type": "long"      , "nullable": true  , "metadata": {}} ,
