@@ -1,0 +1,27 @@
+
+Users with Most Followers
+
++-------+----------------+--------------------+----+----+-------+---------+---------+-------+------------+-----------+
+|user_id|           login|             company|type|fake|deleted|following|followers|starred|repos_source|repos_forks|
++-------+----------------+--------------------+----+----+-------+---------+---------+-------+------------+-----------+
+|   5203|        torvalds|    Linux Foundation| USR|   0|      0|     null|    52722|      1|           5|          2|
+|    896|     JakeWharton|        Square, Inc.| USR|   0|      0|       24|    30161|    261|          86|         24|
+| 376498|              Tj|                Apex| USR|   0|      0|      175|    25827|    966|         238|         81|
+|   6240|      addyosmani|              Google| USR|   0|      0|      243|    24604|    522|         147|        154|
+|   1779|       paulirish|   Google Chrome, ♥z| USR|   0|      0|      253|    24510|    445|          56|        242|
+|   9236|         mojombo|                null| USR|   0|      0|       11|    23076|     37|          40|         20|
+|   1570|         defunkt|            @github | USR|   0|      0|      230|    18522|    139|          78|         29|
+|   3871|    sindresorhus|@avajs @chalk @ye...| USR|   0|      0|      188|    15755|   2274|         974|        142|
+|   1736|douglascrockford|                null| USR|   0|      0|     null|    15396|      5|          16|       null|
+|  13009|        mbostock|                null| USR|   0|      0|       13|    14928|     29|          53|         18|
+|  24452|         jeresig|              @Khan | USR|   0|      0|       33|    14703|    372|          48|         47|
+| 616741|          ruanyf|                null| USR|   0|      0|     null|    14701|    124|          36|         12|
+|2468643|        daimajia|Beijing Normal Un...| USR|   0|      0|      234|    14507|   1974|          24|         37|
+|   2427|           mattt|              @apple| USR|   0|      0|      203|    13705|    293|          59|          2|
+|  81423|             mdo|              GitHub| USR|   0|      0|       23|    13443|    153|          23|         17|
+|    796|    kennethreitz|              Heroku| USR|   0|      0|      224|    13360|    919|         119|         37|
+|  10005|         schacon|                null| USR|   0|      0|       24|    13102|     86|          94|         82|
+| 417948|         gaearon|            Facebook| USR|   0|      0|      177|    13007|   1172|          59|        177|
+|2016667|           jlord|              GitHub| USR|   0|      0|       32|    11897|    139|         109|         41|
+|   1954|     visionmedia|                null| USR|   0|      0|      157|    11714|    624|         160|         63|
++-------+----------------+--------------------+----+----+-------+---------+---------+-------+------------+-----------+
