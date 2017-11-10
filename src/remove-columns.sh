@@ -11,7 +11,7 @@ pv commits.csv | xsv select -n '!2' -o commits_new.csv
 # pv commits.csv | sed "s/,[\"a-z0-9]*//" > commits_new.csv
 
 # Remove Column 4 (ext_ref_id)
-xsv select -n '!4' -o project_membders_new.csv -- project_members.csv
+xsv select -n '!4' -o project_members_new.csv -- project_members.csv
 
 # Remove Column 5 (pull_request)
 pv issues.csv | xsv select -n '!5' -o issues_new.csv
