@@ -10,7 +10,7 @@ Table 1 lists the CSV files in the dataset.
 \vspace{25px}
 \begin{table}[htb]
     \centering
-    \begin{tabular}{@{}llcl@{}}
+    \begin{tabular}{@{}llrl@{}}
 
         \toprule
              & File & Size & Data \\
@@ -19,7 +19,6 @@ Table 1 lists the CSV files in the dataset.
 
            \rowcolor{LightCyan}
             1 & users.csv                   & 1.6 GB   & GitHub Users \\
-           \rowcolor{LightCyan}
             2 & organization\_members.csv   & 16.1 MB  & Users that are members of an organization \\
            \rowcolor{LightCyan}
             3 & followers.csv               & 588.7 MB & Users that follow another user \\
@@ -49,8 +48,40 @@ Table 1 lists the CSV files in the dataset.
         \bottomrule
     \end{tabular}
 
-    \caption{
-        GHTorrent Dataset Contents (\code{mysql-2017-09-01.tar.gz})
-    }
-    \small{Colored rows indicate files that we performed analysis on}
+    \caption{GHTorrent Dataset Contents (\code{mysql-2017-09-01.tar.gz})}
+    \small{Colored rows indicate files that we performed analysis on.}
+\end{table}
+
+\newpage
+\subsection{Preprocessing}
+
+% We used standard UNIX command line tools to
+We used \fnurl{xsv}{https://github.com/BurntSushi/xsv/}, a command line CSV parsing tool, to remove columns that contained redundant information which reduced the size of the files. \\
+
+From \code{projects.csv}, we removed the description field which was free form text describing the project. \\
+
+% TODO
+\large{ TODO: Other changes that we did! }
+
+\vspace{25px}
+\begin{table}[htb]
+    \centering
+
+    \begin{tabular}{@{}llrr@{}}
+    \toprule
+        File & Fields Removed & Old Size & New Size \\
+    \midrule
+        users.csv            & -                &   1.6 GB &    1.6 GB \\
+        followers.csv        & -                & 588.7 MB &  588.7 MB \\
+        watchers.csv         & -                &   2.9 GB &    2.9 GB \\
+        projects.csv         & Description, URL &  11.1 GB &    4.4 GB \\
+        project\_members.csv & ext\_ref\_id     & 491.8 MB &  321.0 MB \\
+        commits.csv          & SHA of Commits   &  68.8 GB &   37.6 GB \\
+        issues.csv           & Pull Request     &   3.0 GB &    2.8 GB \\
+    \midrule
+        Total Size           &                  &  88.5 GB &   49.5 GB \\
+    \bottomrule
+    \end{tabular}
+
+    \caption{Size before and after preprocessing of files}
 \end{table}
