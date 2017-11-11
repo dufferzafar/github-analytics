@@ -15,6 +15,7 @@
 			[
 				"*.egg-info",
 				".cache",
+				"metastore_db",
 				"_Help/**"
 			],
 			"path": "."
