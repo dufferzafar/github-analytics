@@ -1,0 +1,55 @@
+
++--------+-------------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+
+| user_id|              login|             company|         state|     city|followers|has_stars|contributes_to|issues|pulls|commits|commits_others|
++--------+-------------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+
+| 6209469|          murugan-r|           BigBinary|    Tamil Nadu|  Chennai|        1|     null|           239|     4|    1|   8994|          7486|
+| 7288428|          ryker1990|Dcube Tech Ventures |        Punjab|   Mohali|        8|     null|           215|  null| null|   1817|          1809|
+| 1971356|     rituparnapanda|      Fulfil.IO Inc.|          null|     null|       24|     null|           201|     2|    1|    379|           325|
+|   12307|           harinath|                null|     Karnataka|Bengaluru|       23|     null|           197|     1| null|   2001|          2001|
+|   23397|       rajeshpillai|                null|   Maharashtra|   Mumbai|       32|       87|           187|  null| null|    543|             8|
+| 3951783|           AlekhyaR|Cybrilla Technolo...|     Karnataka|Bengaluru|        4|     null|           164|  null| null|     11|             2|
+|   47789|      kshtzsharma48|           Developer|          null|     null|        7|       13|           156|  null| null|   null|          null|
+|   23402|            hemanth|             @paypal|          null|     null|     1209|    14032|           148|   505|   39|   5212|          1420|
+| 4692487|       AnanthaRajuC|                null|     Karnataka|Bengaluru|       20|       10|           143|     5| null|    315|             3|
+| 1550350|      tarunbhardwaj|      Tarun Bhardwaj|          null|     null|       21|        4|           142|    18|    3|   6324|          5170|
+|  128455|        mehulsbhatt|Simha Consultants...|          null|     null|       18|      191|           132|     9| null|    662|            37|
+|    6592|       chirayudesai|                null|       Gujarat|Ahmadabad|      159|       28|           132|     9|   12|  14070|         13637|
+|  191172|        AalokParikh|                null|       Gujarat|Ahmadabad|        5|       20|           131|     4| null|      8|             3|
+|   23173|      rageshkrishna|           Shippable|     Karnataka|Bengaluru|        5|        2|           128|   214| null|   2144|           627|
+|10534641|         shreejit13|            OlinData|     Karnataka|Bengaluru|     null|        1|           120|     5| null|     14|             8|
+|  338585|        Manishearth|           @mozilla |   Maharashtra|   Mumbai|      459|     2008|           116|   714|   91|  11765|          4401|
+|  151050|          tejastank|OpenERP/Python/PH...|          null|     null|       15|       80|           115|   152| null|     93|            11|
+| 4259664|          Jackeagle|                null|          null|     null|       55|       10|           113|  null| null|   2780|          2442|
+|   39572|          nigelbabu|                null|          null|     null|      133|       63|           110|   176|   49|   3234|          2678|
+|11360704|       daemonSlayer|         XantheLabs |         Delhi|    Delhi|        4|        4|           108|    31| null|   1032|           511|
+|  817159|             jeswin|           AgileHead|     Karnataka|Bengaluru|       14|       65|           107|   161| null|   2961|           876|
+| 3278894|             wohlig|   Wohlig Technology|   Maharashtra|   Mumbai|        8|        3|           105|  null| null|   5827|          5305|
+|  100888|   vikas-srivastava|      Moonpeak Media|          null|     null|       15|       13|            96|    12|    9|    453|            69|
+|30523473|        ranvijayHub|                 TCS|   Maharashtra|   Mumbai|     null|     null|            93|  null| null|   null|          null|
+|13967675|                a5g|GE India Technolo...|     Karnataka|Bengaluru|     null|     null|            93|  null| null|      2|          null|
+|30361321|      alokchauhan13|       GE Healthcare|     Karnataka|Bengaluru|     null|     null|            93|  null| null|      5|          null|
+| 3247077|       Sonali-Goyal|       IIIT HYDERBAD|Andhra Pradesh|Hyderabad|        1|     null|            92|  null| null|     79|            43|
+|30521498|          gishuWork|        GE Oil n Gas|   Maharashtra|   Mumbai|     null|     null|            92|  null| null|   null|          null|
+| 1270094|          prakashpp|      Fulfil.IO Inc.|         Delhi|    Delhi|       11|        3|            92|    15|    9|   3020|          1952|
+| 3040800|         NoelMacwan|SXDevelopers & @T...|       Gujarat|    Ānand|       41|       12|            90|     5|    2|   2714|          1505|
+|  120309|             vivekp|         HackerEarth|     Karnataka|Bengaluru|      226|       14|            88|     2| null|     84|            73|
+| 1181161|        basavareddy|                  GE|     Karnataka|Bengaluru|     null|     null|            88|  null| null|     24|          null|
+| 4261932|       TusharSachde|   Wohlig Technology|          null|     null|        3|     null|            86|     1| null|   3749|          3449|
+| 2543816|     ShaikAsifullah|                null|     Rajasthan|   Pilani|        1|        1|            85|     1| null|     41|             2|
+|   38372|        tanmaypatel|                null|   Maharashtra|     Pune|       34|        2|            85|  null| null|    274|           143|
+| 2098117|        hegdeashwin|Open Source Contr...|   Maharashtra|     Pune|       81|      247|            85|   890|    2|   3835|          1938|
+|    8311|         dhilipsiva|           @appknox |     Karnataka|Bengaluru|       78|      459|            85|   153|   12|   3833|          1276|
+|11806583|        kraghupathi|      VLEAD @ IIIT-H|Andhra Pradesh|Hyderabad|        1|        1|            85|    18| null|    965|           579|
+|11739201|             mehul0|             JJasani|       Gujarat|   Rajkot|     null|        2|            84|     1| null|     47|             1|
+| 9458321|             afalak|                null|     Karnataka|Bengaluru|        2|     null|            81|     8| null|    132|          null|
+| 2044265|              bollu|      IIIT Hyderabad|Andhra Pradesh|Hyderabad|       50|      465|            81|    84|    2|   3921|           830|
+|  184626|nishant-shrivastava|        Webonise Lab|   Maharashtra|     Pune|       13|        2|            81|     6| null|    138|            34|
+|  227688|           hiren443|DIGICorp Informat...|       Gujarat|Ahmadabad|        7|       44|            80|     6| null|      9|          null|
+| 6767608|           acadgild|                null|     Karnataka|Bengaluru|        5|     null|            80|  null| null|      1|          null|
+|   93669|         kracekumar|                null|     Karnataka|Bengaluru|      348|      189|            80|   374|   70|   2713|          2063|
+|     792|          yuvipanda|                null|    Tamil Nadu|  Chennai|      474|      167|            79|   420|  187|   8966|          6230|
+| 3254200|          arvindr21|    The IoT Suitcase|Andhra Pradesh|Hyderabad|      669|     1757|            78|    37|    1|   1290|            86|
+|  284006|            ranganh|                null|          null|     null|        2|     null|            77|     2| null|   null|          null|
+| 1045042|     maheshongithub|        ThoughtWorks|Andhra Pradesh|Hyderabad|        1|     null|            75|  null| null|     50|            48|
+| 8413382|          maharjunm|        ThoughtWorks|Andhra Pradesh|Hyderabad|        1|        7|            74|  null| null|    588|           103|
++--------+-------------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+

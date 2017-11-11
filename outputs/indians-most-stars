@@ -1,0 +1,55 @@
+
++--------+-----------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+
+| user_id|            login|             company|         state|     city|followers|has_stars|contributes_to|issues|pulls|commits|commits_others|
++--------+-----------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+
+|   23402|          hemanth|             @paypal|          null|     null|     1209|    14032|           148|   505|   39|   5212|          1420|
+| 6310255|amitshekhariitbhu|          Bobble App|         Delhi|New Delhi|      311|    10360|             7|    10| null|   1581|           509|
+| 3408218|    sachinchoolur|Available for New...|     Karnataka|Bengaluru|      255|     9799|             3|     1|    1|    901|            53|
+|  163695|        chinchang|           @wingify |         Delhi|    Delhi|      468|     9326|             9|   136|    2|   1647|           245|
+| 5769465|          nisrulz|      @omnilabs-inc |       Haryana|  Gurgaon|      320|     8024|             1|    47|    2|   2788|           278|
+| 6559743|        aritraroy|                null|          null|     null|      189|     8005|          null|    32| null|    285|             5|
+| 1343504|        sameersbn|                null|           Goa|     null|      582|     7706|            23|    69|   10|  15917|          4680|
+| 6880792|   kailashahirwar|                null|     Karnataka|Bengaluru|        4|     7206|          null|  null| null|     45|            14|
+| 5107602|           iCHAIT|                null|          null|     null|      129|     7143|             5|    53|    8|   1363|           498|
+| 2600239|      dhamaniasad|                null|   Maharashtra|   Nagpur|       72|     7089|            39|    41| null|   1325|           173|
+| 5540963|          naman14|                null|         Delhi|New Delhi|      466|     6818|             5|     5|    1|   1320|           453|
+|   26271|         sitaramc|                null|Andhra Pradesh|Hyderabad|      335|     6306|             5|    12| null|   2171|           899|
+|   39721|    threepointone|                null|     Karnataka|Bengaluru|      346|     5445|            14|   167|    3|   2648|           194|
+|  300567|      siddharthkp|                null|     Karnataka|Bengaluru|       46|     5287|            13|   137|    1|   2398|           133|
+|  428875|       kovidgoyal|                null|   Maharashtra|   Mumbai|      244|     4978|             4|    62|   16|  29601|          3899|
+| 6131656|            adtac|                null|    Tamil Nadu|  Chennai|        9|     4866|             1|   209|    3|   2040|          1214|
+| 2940742|            jarun|                null|     Karnataka|Bengaluru|      117|     4462|             1|    64| null|   3455|            78|
+| 8541687|       metagrover|           TAKE ZERO|          null|     null|       65|     3998|             4|    61| null|   1466|          1431|
+| 2822668|            ghosh|           Cleartrip|     Karnataka|Bengaluru|      102|     3967|             9|    23|    1|   1104|           104|
+|  981089|         rishabhp|                null|          null|     null|      126|     3897|             1|    26| null|    536|           428|
+|30680352|      OmkarPathak|                null|   Maharashtra|     Pune|     null|     2968|          null|     5| null|    719|            13|
+| 2566115|           webkul|              WebKul| Uttar Pradesh|    Noida|       11|     2917|             3|     3| null|    126|             8|
+|   66055|  ragunathjawahar|        Mobs & Geeks|    Tamil Nadu|  Chennai|      317|     2899|            10|    33| null|    761|           244|
+|   74479|         HashNuke|                null|     Karnataka|Bengaluru|      276|     2765|            35|    92|    4|   4985|          1123|
+|11739754|          nitin42|                null|          null|Dehra Dun|       12|     2688|             1|    43|    1|   2475|            42|
+| 5644707|    princejwesley|@nodejs Core Coll...|    Tamil Nadu|  Chennai|      123|     2651|             7|    29|    1|   1191|           170|
+| 1897977|      ajinabraham|        OpenSecurity|     Karnataka|Bengaluru|      418|     2464|            21|    87|    1|    912|           238|
+| 8786853| developer-shivam|                null|         Delhi|New Delhi|       19|     2449|             4|  null| null|    434|            17|
+| 5787841|      Ashok-Varma|           ClearTrip|          null|     null|       55|     2437|          null|    18| null|    234|             2|
+| 8392485|          hanc00l|                null|        Odisha|  Cuttack|      162|     2335|          null|     3| null|     24|             3|
+| 2446188|          yask123|          @Flipkart |         Delhi|New Delhi|      324|     2173|             7|   101| null|   2833|            43|
+| 9555236|    farizrahman4u|         @datalogai |          null|     null|      125|     2172|             4|    23|    1|   1352|           315|
+|  274435|           satyan|                null|     Karnataka|Bengaluru|       84|     2153|             3|     8| null|    145|            53|
+| 7721759|   TakeoffAndroid|             Takeoff|    Tamil Nadu|  Chennai|      112|     2136|             1|    18| null|    294|             2|
+|  338585|      Manishearth|           @mozilla |   Maharashtra|   Mumbai|      459|     2008|           116|   714|   91|  11765|          4401|
+|10007129|     ironmaniiith|https://www.youtu...|Andhra Pradesh|Hyderabad|       47|     1989|             3|    44|    2|  43279|           322|
+| 1942872|    varshylmobile|Varshyl Mobile Pv...|          null|     null|      138|     1977|            21|     1|    1|    153|          null|
+| 3692893|          ritz078|         Housing.com|   Maharashtra|   Mumbai|       91|     1966|             9|   148|    4|   2543|           271|
+| 7391618|          sharish|                null|    Tamil Nadu|  Chennai|       64|     1965|          null|     1| null|     65|            19|
+| 3097802|        bitshadow|                null|     Karnataka|Bengaluru|       69|     1940|             4|    13|    1|    340|           104|
+| 3475919|       debugger22|  BITS Pilani, India|   Maharashtra|   Mumbai|      264|     1916|            15|   105|    4|   1465|           590|
+| 2416560|         titu1994|                null|          null|     null|       57|     1903|            17|     7| null|   1649|           198|
+|  269639|         kirang89|     WalletKit, Inc.|    Tamil Nadu|     null|      288|     1874|            22|    34|    3|    973|            59|
+|  956749|           mayuur|                null|       Gujarat|Ahmadabad|       88|     1861|             5|     4| null|    103|             1|
+| 4612622|     ManrajGrover|Practo Technologi...|     Karnataka|Bengaluru|      181|     1831|            20|   214|    3|   2370|           218|
+| 1305514|            jpuri|              Humble|         Delhi|New Delhi|       33|     1761|            13|   104|    2|   2569|          1110|
+| 3254200|        arvindr21|    The IoT Suitcase|Andhra Pradesh|Hyderabad|      669|     1757|            78|    37|    1|   1290|            86|
+|  972811|         amitkaps|            amitkaps|     Karnataka|Bengaluru|       64|     1745|            12|     7| null|   1110|            73|
+| 5958931|        vipulasri|                null|         Delhi|New Delhi|       55|     1691|             2|    73| null|    142|            22|
+| 3889952|       ganapativs|              Tracxn|     Karnataka|Bengaluru|       14|     1671|             6|    14| null|   1159|            53|
++--------+-----------------+--------------------+--------------+---------+---------+---------+--------------+------+-----+-------+--------------+

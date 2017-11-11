@@ -1,0 +1,55 @@
+
++-------+-------------------+--------------------+--------------+---------+---------+---------+-------+------------+-----------+---------+-----------+------+-----+-------+--------------+
+|user_id|              login|             company|         state|     city|following|followers|starred|repos_source|repos_forks|has_stars|contribs_to|issues|pulls|commits|commits_others|
++-------+-------------------+--------------------+--------------+---------+---------+---------+-------+------------+-----------+---------+-----------+------+-----+-------+--------------+
+|2371939|          slidenerd|           slidenerd|   Maharashtra|   Mumbai|     null|     2740|      4|          39|          3|      811|          6|    94| null|    380|             7|
+|  23402|            hemanth|             @paypal|          null|     null|      144|     1209|    788|         284|        268|    14032|        148|   505|   39|   5212|          1420|
+|2548587|         ashish1294|      NITK Surathkal|     Karnataka|Mangalore|        4|      822|      9|           7|          5|      255|         10|    23| null|    461|           189|
+|2937823|   tapasweni-pathak|            SAP Labs|     Karnataka|Bengaluru|        3|      718|    374|          59|         15|      717|         33|   128|    1|   1627|           348|
+|3254200|          arvindr21|    The IoT Suitcase|Andhra Pradesh|Hyderabad|       47|      669|    599|         154|         51|     1757|         78|    37|    1|   1290|            86|
+|3757550|    pranavlathigara|                null|       Gujarat|   Rajkot|    11534|      589|  21322|           5|        746|      291|          1|    24| null|   null|          null|
+|1343504|          sameersbn|                null|           Goa|     null|        5|      582|    149|          37|         81|     7706|         23|    69|   10|  15917|          4680|
+| 140187|           captn3m0|          @razorpay |     Karnataka|Bengaluru|      580|      542|    832|          99|         95|      970|         57|   178|   13|   3446|          1604|
+|  13201|            arunagw|                null|          null|     null|      251|      485|    307|          24|         63|      381|         72|    17|  444|   2275|          1516|
+|    792|          yuvipanda|                null|    Tamil Nadu|  Chennai|       82|      474|    114|         126|        134|      167|         79|   420|  187|   8966|          6230|
+| 163695|          chinchang|           @wingify |         Delhi|    Delhi|       48|      468|    332|          37|         20|     9326|          9|   136|    2|   1647|           245|
+|5540963|            naman14|                null|         Delhi|New Delhi|       10|      466|    126|          34|          9|     6818|          5|     5|    1|   1320|           453|
+| 338585|        Manishearth|           @mozilla |   Maharashtra|   Mumbai|       28|      459|     37|          59|        168|     2008|        116|   714|   91|  11765|          4401|
+| 126017|            sanand0|                null|     Karnataka|Bengaluru|       58|      445|     19|          34|          9|      186|          9|    46|    3|    722|           409|
+|1897977|        ajinabraham|        OpenSecurity|     Karnataka|Bengaluru|       12|      418|     43|          37|         74|     2464|         21|    87|    1|    912|           238|
+|1159815|       PareshMayani| Lets Nurture, India|       Gujarat|Ahmadabad|       60|      413|    243|          19|         87|      669|          6|    47|    1|    350|           226|
+|  96668|         jayrambhia|              Elanic|     Karnataka|Bengaluru|       66|      412|     50|          59|         35|     1614|         14|    43|   31|   1062|           214|
+|  92890|    championswimmer|     @coding-blocks |         Delhi|New Delhi|       30|      410|     59|         107|         60|      573|         33|   389|    4|   7018|          5202|
+|7108513|          SnehaRane|                null|          null|     null|     5778|      390|   null|        null|       null|     null|       null|  null| null|   null|          null|
+|  22453|          thejeshgn|Independent Techn...|     Karnataka|Bengaluru|      732|      373|   1683|          85|         62|       89|         37|    89|    1|   1736|           625|
+|  16576|          debasishg|                null|          null|     null|        1|      353|     38|          27|         10|     1392|         11|    37|    1|    557|           115|
+|9402034|        in28minutes|         in28Minutes|Andhra Pradesh|Hyderabad|     null|      352|   null|          37|          2|     1180|       null|  null| null|    262|             6|
+|  93669|         kracekumar|                null|     Karnataka|Bengaluru|      117|      348|    113|          66|        106|      189|         80|   374|   70|   2713|          2063|
+|  39721|      threepointone|                null|     Karnataka|Bengaluru|        3|      346|    134|          78|         54|     5445|         14|   167|    3|   2648|           194|
+|  39557|               jace|             HasGeek|     Karnataka|Bengaluru|       90|      344|    173|          12|         21|       35|         38|   712|    8|   4633|          4480|
+|  26271|           sitaramc|                null|Andhra Pradesh|Hyderabad|     null|      335|      4|          23|          1|     6306|          5|    12| null|   2171|           899|
+| 147946|          kushaldas|             Red Hat|   Maharashtra|     Pune|       63|      326|     25|          41|         39|      751|         14|   142|    1|   2062|           311|
+|2446188|            yask123|          @Flipkart |         Delhi|New Delhi|      160|      324|    672|          83|         59|     2173|          7|   101| null|   2833|            43|
+|5769465|            nisrulz|      @omnilabs-inc |       Haryana|  Gurgaon|       21|      320|    622|          50|         54|     8024|          1|    47|    2|   2788|           278|
+|  66055|    ragunathjawahar|        Mobs & Geeks|    Tamil Nadu|  Chennai|       93|      317|   1295|          18|          4|     2899|         10|    33| null|    761|           244|
+|6310255|  amitshekhariitbhu|          Bobble App|         Delhi|New Delhi|        5|      311|     46|          19|         21|    10360|          7|    10| null|   1581|           509|
+|  48159|     sayanchowdhury|        Red Hat Inc.|     Karnataka|Bengaluru|      139|      289|     93|          38|         75|       62|         26|    72|    3|   1658|          1028|
+| 292811|           satya164|        callstack.io|     Karnataka|Bengaluru|        6|      288|    109|          50|         27|     1439|         47|   167|    9|  12653|          9925|
+| 269639|           kirang89|     WalletKit, Inc.|    Tamil Nadu|     null|      150|      288|    858|          41|         34|     1874|         22|    34|    3|    973|            59|
+| 200730|           tkmagesh|   Craftsman Systems|     Karnataka|Bengaluru|        6|      278|      6|         419|         44|       71|         50|     4| null|   6116|            91|
+|  74479|           HashNuke|                null|     Karnataka|Bengaluru|        7|      276|    153|          86|         63|     2765|         35|    92|    4|   4985|          1123|
+| 123900|         aliHafizji|       Self Employed|          null|     null|       13|      271|     76|          12|         12|      256|         13|    47|    5|    288|           138|
+|  80816|        hacksparrow|                 IBM|     Karnataka|Bengaluru|       13|      269|    143|          48|        116|      908|         15|   140|    3|   2327|          1360|
+|  66089|              sudar|                null|    Tamil Nadu|  Chennai|       26|      267|    289|          74|         18|     1612|         21|   383|   10|   2164|           256|
+|3475919|         debugger22|  BITS Pilani, India|   Maharashtra|   Mumbai|       56|      264|    449|          21|         27|     1916|         15|   105|    4|   1465|           590|
+| 306978|     sachingupta006|         HackerEarth|     Karnataka|Bengaluru|        4|      263|     11|           4|          3|       40|          1|     7|    1|     19|             4|
+|  26598|         ViralBShah|Julia Computing, ...|     Karnataka|Bengaluru|     null|      257|    203|           3|          3|       11|         35|   839|   28|   4438|          4375|
+|2116686|  chetanspeed511987|         chetanpatel|       Gujarat|Ahmadabad|     5219|      257|      7|           3|         15|        7|       null|  null| null|     15|             4|
+|3408218|      sachinchoolur|Available for New...|     Karnataka|Bengaluru|        8|      255|    107|          27|          4|     9799|          3|     1|    1|    901|            53|
+| 334438|      shashankmehta|            Razorpay|     Karnataka|Bengaluru|       76|      253|    299|           9|          6|      685|         18|    12| null|    648|           307|
+|1434197|             hargup|                null|   West Bengal|Kharagpur|      612|      252|    257|          39|         50|       30|         20|   224|    6|   2393|           923|
+| 116520|prathamesh-sonpatki|           BigBinary|   Maharashtra|     Pune|      243|      252|    132|          31|        103|       56|         34|    95|   86|   3500|          1622|
+| 428875|         kovidgoyal|                null|   Maharashtra|   Mumbai|     null|      244|     27|          16|         15|     4978|          4|    62|   16|  29601|          3899|
+|1270338|        karthikb351|   HasGeek Media LLP|     Karnataka|Bengaluru|       48|      238|     81|          31|         24|      197|         22|    90|    1|   4572|          1127|
+|  46524|          geohacker|              Mapbox|     Karnataka|Bengaluru|        5|      227|     11|          58|         15|      190|         50|   337|   12|   2132|          1439|
++-------+-------------------+--------------------+--------------+---------+---------+---------+-------+------------+-----------+---------+-----------+------+-----+-------+--------------+
