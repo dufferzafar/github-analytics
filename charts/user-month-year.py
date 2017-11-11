@@ -80,8 +80,8 @@ color_bar = ColorBar(
 p.add_layout(color_bar, 'right')
 
 p.select_one(HoverTool).tooltips = [
-    ('date', '@month, @year'),
-    ('count', '@users{(0,0)}'),
+    ('Month', '@month @year'),
+    ('Users', '@users'),
 ]
 
 show(p)      # show the plot
