@@ -5,7 +5,16 @@
 \usepackage[final]{pdfpages}
 
 % For URLs
-\usepackage{hyperref}
+% hidelinks removes the border around links
+\usepackage[hidelinks]{hyperref}
+% This changes the color of links
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
 
 % Smaller margin
 \usepackage[a4paper, margin=1in]{geometry}
@@ -13,9 +22,11 @@
 % For tables
 \usepackage{booktabs}
 
+% For colored table rows
+\usepackage{colortbl}
+
 % Center the section headings
 \usepackage{titlesec}
-\titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
 
 % Remove indent from new lines
 \setlength{\parindent}{0pt}
@@ -23,6 +34,11 @@
 % HTML Nostalgia
 \def\code#1{\texttt{#1}}
 \def\bold#1{\textbf{#1}}
+
+% Add footnote that binds to a URL
+\newcommand\fnurl[2]{
+    \href{#2}{#1}\footnote{\url{#2}}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -47,17 +63,22 @@
 % ToC
 \vspace{15px}
 \tableofcontents
+% \listoftables
+% \listoffigures
 
 \newpage
 \section{Introduction}
 
-GitHub is a code hosting and collaboration platform for Git repositories
+\href{http://github.com/}{GitHub} is a code hosting and collaboration platform for Git repositories
 (most of which are source code.) \\
 
-GHTorrent is a mirroring service that monitors the GitHub event stream and
+\href{http://ghtorrent.org/}{GHTorrent} is a mirroring service that monitors the GitHub event stream and
 stores the data. Which is then provided for download for research related
 activities. \\
 
 In this paper we report various analyses that we performed on the GitHub data.
+
+\vspace{50px}
+\input{dataset.tex}
 
 \end{document}
