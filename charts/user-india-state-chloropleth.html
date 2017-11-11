@@ -63,7 +63,6 @@
             var map = new Datamap({
                         element: document.getElementById('india'),
                         scope: 'india',
-                        data:mapdata,
                         geographyConfig: {
                             popupOnHover: true,
                             highlightOnHover: true,
@@ -85,7 +84,6 @@
 
             setTimeout(function(){
                 map.updateChoropleth(mapdata);
-                map.legend();
             },200);
             
             return [ map, mapdata, cdata];
