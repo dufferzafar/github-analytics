@@ -35,6 +35,9 @@ p1 = figure(
     width=1000
 )
 
+p1.xaxis.axis_label_text_font_size = "18pt"
+p1.yaxis.axis_label_text_font_size = "18pt"
+
 p1.yaxis[0].formatter = NumeralTickFormatter(format="0,0")
 p1.yaxis[0].ticker.desired_num_ticks = 10
 
