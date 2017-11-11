@@ -1,0 +1,63 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[final]{pdfpages}
+
+% For URLs
+\usepackage{hyperref}
+
+% Smaller margin
+\usepackage[a4paper, margin=1in]{geometry}
+
+% For tables
+\usepackage{booktabs}
+
+% Center the section headings
+\usepackage{titlesec}
+\titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
+
+% Remove indent from new lines
+\setlength{\parindent}{0pt}
+
+% HTML Nostalgia
+\def\code#1{\texttt{#1}}
+\def\bold#1{\textbf{#1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{
+  \bold{Final Project Report} \\
+  \large COP 701
+}
+
+\author{
+    Harish Thuwal, Shadab Zafar
+}
+
+\date{November, 2017}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% Document title, authors etc.
+\maketitle
+
+% ToC
+\vspace{15px}
+\tableofcontents
+
+\newpage
+\section{Introduction}
+
+GitHub is a code hosting and collaboration platform for Git repositories
+(most of which are source code.) \\
+
+GHTorrent is a mirroring service that monitors the GitHub event stream and
+stores the data. Which is then provided for download for research related
+activities. \\
+
+In this paper we report various analyses that we performed on the GitHub data.
+
+\end{document}
