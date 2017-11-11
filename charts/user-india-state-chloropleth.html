@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/datamaps.all.min.js?v=3"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript">""</script>
+    <div id="india" style="height: 900px; width: 1000px;"></div>
+    <script>
+
+    $( document ).ready(function() {
+
+
+        var twoletterstatecodes = { "Andaman and Nicobar Islands"  : "AN", "Andhra Pradesh" : "AP", "Arunachal Pradesh" : "AR", "Assam" : "AS", "Bihar" : "BR", "Chhattisgarh" : "CG", "Puducherry" : "PY", "Punjab" : "PB", "Rajasthan" : "RJ", "Sikkim" : "SK", "Tamil Nadu" : "TN", "Chandigarh" : "TR", "Telangana" : "TE", "Tripura" : "TR", "Uttar Pradesh" : "UP", "Uttarakhand" : "UK", "West Bengal" : "WB", "Odisha" : "OR", "Dadara and Nagar Havelli" : "DN", "Daman and Diu" : "DD", "Goa" : "GA", "Gujarat" : "GJ", "Haryana" : "HR", "Himachal Pradesh" : "HP", "Jammu and Kashmir" : "JK", "Jharkhand" : "JS", "Karnataka" : "KA", "Kerala" : "KL", "Lakshadweep" : "LD", "Madhya Pradesh" : "MP", "Maharashtra" : "MH", "Manipur" : "MN", "Meghalaya" : "ML", "Mizoram" : "MZ", "Nagaland" : "NL", "Delhi" : "DL"}
+
+         var resultData = (function() {
+            var json = null;
+            var result = null;
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': "../outputs/user-india-state-count.json",
+                'dataType': "json",
+                'success': function (data) {
+                    json = data;
+                },
+                'complete':function (){
+                    result =  processData(json);
+                }
+            });
+            return result;
+            })();
+
+          
+
+         
+        
+        function processData(data)
+        {
+            var mapdata = {};
+            var cdata = {};
+
+            var onlyValues = data.map(function(obj){ return parseInt(obj['count']); });
+            var minValue = Math.min.apply(null, onlyValues),
+                maxValue = Math.max.apply(null, onlyValues);
+
+            var paletteScale = d3.scale.sqrt()
+                    .domain([minValue ,maxValue])
+                    .range(["#BBDEFB", "#2196F3"]); //change the minimum and maximum color in gradient
+
+              
+
+            data.forEach(function(item){ 
+                var state = twoletterstatecodes[item['state']];
+                var numUsers = item['count'];
+                var color = paletteScale(numUsers)
+                mapdata[state] = color;
+                cdata[state] = numUsers;
+            });
+
+            var map = new Datamap({
+                        element: document.getElementById('india'),
+                        scope: 'india',
+                        data:mapdata,
+                        geographyConfig: {
+                            popupOnHover: true,
+                            highlightOnHover: true,
+                            borderColor: '#444',
+                            borderWidth: 0.5,
+                            dataUrl: 'topos/india-states.topo.json',
+                            popupTemplate: function(geography) {
+                               return '<div class="hoverinfo">' + '<b>' + geography.properties.name + '</b>'+ '<br> Users : ' + cdata[geography.id] + ' ';
+                            }
+                        },
+                        setProjection: function (element) {
+                            var projection = d3.geo.mercator()
+                                .center([78.9629, 23.5937]) // always in [East Latitude, North Longitude]
+                                .scale(1000);
+                            var path = d3.geo.path().projection(projection);
+                            return { path: path, projection: projection };
+                        }
+                    });
+
+            setTimeout(function(){
+                map.updateChoropleth(mapdata);
+                map.legend();
+            },200);
+            
+            return [ map, mapdata, cdata];
+        }
+
+        
+    });
+    </script>
+</body>
+
+</html>
