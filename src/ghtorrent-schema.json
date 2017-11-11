@@ -15,13 +15,19 @@
         {"name": "location"        , "type": "string"    , "nullable": true  , "metadata": {}}
     ],
 
-    "user_more.csv": [
-        {"name": "user_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
-        {"name": "following"       , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "followers"       , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "starred"         , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "repos_source"    , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "repos_forks"     , "type": "long"      , "nullable": true  , "metadata": {}}
+    "users_more.csv": [
+        {"name": "user_id"        , "type": "long" , "nullable": false , "metadata": {}} ,
+        {"name": "following"      , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "followers"      , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "starred"        , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "repos_source"   , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "repos_forks"    , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "has_stars"      , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "contributes_to" , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "issues"         , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "pulls"          , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "commits"        , "type": "long" , "nullable": true  , "metadata": {}} ,
+        {"name": "commits_others" , "type": "long" , "nullable": true  , "metadata": {}}
     ],
 
     "projects.csv": [
@@ -39,13 +45,30 @@
     ],
 
     "projects_new.csv": [
-        {"name": "id"              , "type": "string"    , "nullable": false , "metadata": {}} ,
-        {"name": "url"             , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "owner_id"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "language"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "created_at"      , "type": "string"    , "nullable": false , "metadata": {}} ,
-        {"name": "forked_from"     , "type": "string"    , "nullable": true  , "metadata": {}} ,
-        {"name": "deleted"         , "type": "string"    , "nullable": false , "metadata": {}}
+        {"name": "id"                , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "url"               , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "owner_id"          , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "language"          , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"        , "type": "timestamp" , "nullable": false , "metadata": {}} ,
+        {"name": "forked_from"       , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "deleted"           , "type": "short"     , "nullable": false , "metadata": {}}
+    ],
+
+    "project_members_new.csv": [
+        {"name": "project_id"        , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "user_id"           , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "created_at"        , "type": "timestamp" , "nullable": false , "metadata": {}}
+    ],
+
+    "projects_more.csv": [
+        {"name": "project_id"        , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "stars"             , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "forks"             , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "contributors"      , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "issues"            , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "pull_requests"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "commits"           , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "commits_by_others" , "type": "long"      , "nullable": true  , "metadata": {}}
     ],
 
     "commits.csv": [
@@ -80,7 +103,6 @@
         {"name": "repo_id"         , "type": "long"      , "nullable": true  , "metadata": {}} ,
         {"name": "reporter_id"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
         {"name": "assignee_id"     , "type": "long"      , "nullable": true  , "metadata": {}} ,
-        {"name": "pull_request"    , "type": "short"     , "nullable": false , "metadata": {}} ,
         {"name": "pull_request_id" , "type": "long"      , "nullable": true  , "metadata": {}} ,
         {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}} ,
         {"name": "issue_id"        , "type": "long"      , "nullable": false , "metadata": {}}
@@ -104,5 +126,25 @@
         {"name": "repo_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
         {"name": "user_id"         , "type": "long"      , "nullable": false , "metadata": {}} ,
         {"name": "created_at"      , "type": "timestamp" , "nullable": false , "metadata": {}}
+    ],
+
+    "project_commit_count.csv": [
+        {"name": "project_id"        , "type": "long" , "nullable": false , "metadata": {}} ,
+        {"name": "commits"           , "type": "long" , "nullable": false , "metadata": {}}
+    ],
+
+    "project_commit_others_count.csv": [
+        {"name": "project_id"        , "type": "long" , "nullable": false , "metadata": {}} ,
+        {"name": "commits_by_others" , "type": "long" , "nullable": false , "metadata": {}}
+    ],
+
+    "user_commit_count.csv": [
+        {"name": "user_id"           , "type": "long" , "nullable": false , "metadata": {}} ,
+        {"name": "commits"           , "type": "long" , "nullable": false , "metadata": {}}
+    ],
+
+    "user_commit_others_count.csv": [
+        {"name": "user_id"           , "type": "long" , "nullable": false , "metadata": {}} ,
+        {"name": "commits_on_others"           , "type": "long" , "nullable": false , "metadata": {}}
     ]
 }
