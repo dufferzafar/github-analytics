@@ -50,19 +50,7 @@
                 highlightBorderWidth: 3
             },
         });
-        
-        function normalize(data_list, factor)
-        {   
-            var max = Math.max(...data_list[1]);
-            var min = Math.min(...data_list[0]);
 
-            for (var i = 0; i < data_list[0].length; i++) {
-                data_list[1][i] = factor*((data_list[1][i].count - min)/(max-min))
-            }
-            return data_list;
-        }
-
-         
         function tomapdata(year_data, back=false)
         {
             var mymapdata = {}
@@ -102,7 +90,7 @@
                     var item = year_data[i];
                     var country = item.key;
                     var numUsers = item.value; 
-                    // console.log(country);
+                    
                     mymapdata[country] = paletteScale(numUsers);
                 }
             }
@@ -114,6 +102,7 @@
             var cdata = {};
             var mapdata= {};
             cdata["Total"] = {};
+
             for(var i=0; i< read_data.length ; i++){
 
                 var year = read_data[i].year;
@@ -130,16 +119,14 @@
                 else
                     cdata["Total"][country] +=  read_data[i].count;
             }
+
             for (var key in cdata) {
                 if (cdata.hasOwnProperty(key)) {          
                     mapdata[key] = tomapdata(cdata[key]);
                 }
             }
-
             mapdata["default"] = tomapdata(cdata["Total"], true);
-            console.log(mapdata["default"]);
             
-
             map.year = "Total";
             map['data'] = cdata[map.year];
             map.updateChoropleth(mapdata[map.year]);
