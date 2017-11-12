@@ -12,20 +12,24 @@
       
     <div class="row">
         <div class="col s12 m12 l12">
-          <div class="card">
-              <div class="card-image container" id="map" style="position: relative">
-                <!-- This div holds the chloropleth -->
-             <a class="btn-floating halfway-fab waves-effect waves-light red" id="button"><i class="material-icons">forward</i></a>
-            </div>
-            <div class="card-content">
-                <span class="card-title" id="year_name">Card Title</span>
-
-        </div>
-            </div>
-          </div>
-        </div>
-    </div>
-  
+          	<div class="card">
+          		<div class="row">
+            		<div class="col s12 m6 l4 offset-l4 offset-m3">
+	            		<div class="card-content">
+	                		<span class="card-title text-reflow center-align""><b>Number of new Users</b></span>
+	        			</div>
+	        		</div>
+	            	<div class="card-image container" id="map" style="position: relative">
+	                <!-- This div holds the chloropleth -->
+	             		<a class="btn-floating halfway-fab waves-effect waves-light red" id="button"><i class="material-icons">forward</i></a>
+	            	</div>
+	        		<div class="card-content">
+	                	<span class="card-title center-align" id="year_name"></span>
+	        		</div>
+        		</div>
+			</div>
+    	</div>
+  	</div>
 
     <script>
     
@@ -130,11 +134,19 @@
             }
             mapdata["default"] = tomapdata(cdata["Total"], true);
             
+	        var years = d3.keys(cdata);
+            years.splice(years.indexOf("Total"), 1);
+            years = years.map(parseFloat);
+            var maxYear = d3.max(years);
+            var minYear = d3.min(years);
+            
             map.year = "Total";
             map['data'] = cdata[map.year];
             map.updateChoropleth(mapdata[map.year]);
             
-            return [mapdata, cdata];
+           	$("#year_name").html('<b>All years '+minYear+ ' - '+maxYear +'</b>');
+
+            return [mapdata, cdata, minYear, maxYear];
         }
 
         var resultData = (function() {
@@ -157,9 +169,11 @@
 
 
         /*Cycling through various years on click */
-        var year = "Total"
-        var mapdata = resultData[0];
-        var cdata = resultData[1];
+        var year = "Total",
+         	mapdata = resultData[0],
+         	cdata = resultData[1],
+         	minYear = resultData[2],
+         	maxYear = resultData[3];
         $("#button").click(function(){
             if(year == 2017)
                 year = "Total";
@@ -167,8 +181,10 @@
                 year = 2007;
             else 
                 year ++;
-
-            $("#year_name").html('<b>'+year+'</b>');
+            if (year == "Total")
+            	$("#year_name").html('<b>All years '+minYear+ ' - '+maxYear +'</b>');
+            else 
+            	$("#year_name").html('<b>'+year+'</b>');
             map.year = year;
             map['data'] = cdata[year];
             map.updateChoropleth(mapdata["default"]);
