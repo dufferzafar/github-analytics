@@ -117,9 +117,8 @@
                     cdata[year] = {};
                 }
                 cdata[year][country] = read_data[i].count;
-                
                 if(cdata["Total"][country] == undefined)
-                    cdata["Total"][country] = 0;
+                    cdata["Total"][country] = read_data[i].count;
                 else
                     cdata["Total"][country] +=  read_data[i].count;
             }
