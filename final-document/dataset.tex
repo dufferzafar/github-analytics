@@ -56,7 +56,7 @@ Table 1 lists the CSV files in the dataset.
 \subsection{Preprocessing}
 
 % We used standard UNIX command line tools to
-We used \fnurl{xsv}{https://github.com/BurntSushi/xsv/}, a command line CSV parsing tool, to remove columns that contained redundant information which reduced the size of the files. \\
+We used \fnurl{xsv}{https://github.com/BurntSushi/xsv/}, a command line CSV parsing tool, to remove columns that contained information we were not interested in. This helped reduce the size of the files. \\
 
 From \code{projects.csv}, we removed the description field which was free form text describing the project. \\
 
@@ -85,3 +85,4 @@ From \code{projects.csv}, we removed the description field which was free form t
 
     \caption{Size before and after preprocessing of files}
 \end{table}
+
