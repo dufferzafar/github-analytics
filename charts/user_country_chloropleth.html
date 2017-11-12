@@ -5,131 +5,175 @@
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="http://d3js.org/topojson.v1.min.js"></script>
     <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=3"></script>
-    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <div>
     <h2 id = "year_name"></h2>
     </div>
-    <div id="container1" style="position: relative; width: 80%; max-height: 450px;">
+    <div id="map" style=" width: 80%; height: 80%;">
     <!-- This div holds the chloropleth -->
     </div>
 
     <script>
     
-    var isoCodeConverterData = {"BD": "BGD", "BE": "BEL", "BF": "BFA", "BG": "BGR", "BA": "BIH", "BB": "BRB", "WF": "WLF", "BL": "BLM", "BM": "BMU", "BN": "BRN", "BO": "BOL", "BH": "BHR", "BI": "BDI", "BJ": "BEN", "BT": "BTN", "JM": "JAM", "BV": "BVT", "BW": "BWA", "WS": "WSM", "BQ": "BES", "BR": "BRA", "BS": "BHS", "JE": "JEY", "BY": "BLR", "BZ": "BLZ", "RU": "RUS", "RW": "RWA", "RS": "SRB", "TL": "TLS", "RE": "REU", "TM": "TKM", "TJ": "TJK", "RO": "ROU", "TK": "TKL", "GW": "GNB", "GU": "GUM", "GT": "GTM", "GS": "SGS", "GR": "GRC", "GQ": "GNQ", "GP": "GLP", "JP": "JPN", "GY": "GUY", "GG": "GGY", "GF": "GUF", "GE": "GEO", "GD": "GRD", "GB": "GBR", "GA": "GAB", "SV": "SLV", "GN": "GIN", "GM": "GMB", "GL": "GRL", "GI": "GIB", "GH": "GHA", "OM": "OMN", "TN": "TUN", "JO": "JOR", "HR": "HRV", "HT": "HTI", "HU": "HUN", "HK": "HKG", "HN": "HND", "HM": "HMD", "VE": "VEN", "PR": "PRI", "PS": "PSE", "PW": "PLW", "PT": "PRT", "SJ": "SJM", "PY": "PRY", "IQ": "IRQ", "PA": "PAN", "PF": "PYF", "PG": "PNG", "PE": "PER", "PK": "PAK", "PH": "PHL", "PN": "PCN", "PL": "POL", "PM": "SPM", "ZM": "ZMB", "EH": "ESH", "EE": "EST", "EG": "EGY", "ZA": "ZAF", "EC": "ECU", "IT": "ITA", "VN": "VNM", "SB": "SLB", "ET": "ETH", "SO": "SOM", "ZW": "ZWE", "SA": "SAU", "ES": "ESP", "ER": "ERI", "ME": "MNE", "MD": "MDA", "MG": "MDG", "MF": "MAF", "MA": "MAR", "MC": "MCO", "UZ": "UZB", "MM": "MMR", "ML": "MLI", "MO": "MAC", "MN": "MNG", "MH": "MHL", "MK": "MKD", "MU": "MUS", "MT": "MLT", "MW": "MWI", "MV": "MDV", "MQ": "MTQ", "MP": "MNP", "MS": "MSR", "MR": "MRT", "IM": "IMN", "UG": "UGA", "TZ": "TZA", "MY": "MYS", "MX": "MEX", "IL": "ISR", "FR": "FRA", "IO": "IOT", "SH": "SHN", "FI": "FIN", "FJ": "FJI", "FK": "FLK", "FM": "FSM", "FO": "FRO", "NI": "NIC", "NL": "NLD", "NO": "NOR", "NA": "NAM", "VU": "VUT", "NC": "NCL", "NE": "NER", "NF": "NFK", "NG": "NGA", "NZ": "NZL", "NP": "NPL", "NR": "NRU", "NU": "NIU", "CK": "COK", "XK": "XKX", "CI": "CIV", "CH": "CHE", "CO": "COL", "CN": "CHN", "CM": "CMR", "CL": "CHL", "CC": "CCK", "CA": "CAN", "CG": "COG", "CF": "CAF", "CD": "COD", "CZ": "CZE", "CY": "CYP", "CX": "CXR", "CR": "CRI", "CW": "CUW", "CV": "CPV", "CU": "CUB", "SZ": "SWZ", "SY": "SYR", "SX": "SXM", "KG": "KGZ", "KE": "KEN", "SS": "SSD", "SR": "SUR", "KI": "KIR", "KH": "KHM", "KN": "KNA", "KM": "COM", "ST": "STP", "SK": "SVK", "KR": "KOR", "SI": "SVN", "KP": "PRK", "KW": "KWT", "SN": "SEN", "SM": "SMR", "SL": "SLE", "SC": "SYC", "KZ": "KAZ", "KY": "CYM", "SG": "SGP", "SE": "SWE", "SD": "SDN", "DO": "DOM", "DM": "DMA", "DJ": "DJI", "DK": "DNK", "VG": "VGB", "DE": "DEU", "YE": "YEM", "DZ": "DZA", "US": "USA", "UY": "URY", "YT": "MYT", "UM": "UMI", "LB": "LBN", "LC": "LCA", "LA": "LAO", "TV": "TUV", "TW": "TWN", "TT": "TTO", "TR": "TUR", "LK": "LKA", "LI": "LIE", "LV": "LVA", "TO": "TON", "LT": "LTU", "LU": "LUX", "LR": "LBR", "LS": "LSO", "TH": "THA", "TF": "ATF", "TG": "TGO", "TD": "TCD", "TC": "TCA", "LY": "LBY", "VA": "VAT", "VC": "VCT", "AE": "ARE", "AD": "AND", "AG": "ATG", "AF": "AFG", "AI": "AIA", "VI": "VIR", "IS": "ISL", "IR": "IRN", "AM": "ARM", "AL": "ALB", "AO": "AGO", "AQ": "ATA", "AS": "ASM", "AR": "ARG", "AU": "AUS", "AT": "AUT", "AW": "ABW", "IN": "IND", "AX": "ALA", "AZ": "AZE", "IE": "IRL", "ID": "IDN", "UA": "UKR", "QA": "QAT", "MZ": "MOZ"};
+    $( document ).ready(function() {
 
-    var cyan = d3.rgb("#00aedb");
-    var top5color = [
-        cyan.darker(4).toString(),
-        cyan.darker(3).toString(),
-        cyan.darker(2).toString(),
-        cyan.darker(1).toString(),
-        "#00aedb"
-    ];
-    var data = {};
-    var mapdata= {};
+        var isoCodeConverterData = {"BD": "BGD", "BE": "BEL", "BF": "BFA", "BG": "BGR", "BA": "BIH", "BB": "BRB", "WF": "WLF", "BL": "BLM", "BM": "BMU", "BN": "BRN", "BO": "BOL", "BH": "BHR", "BI": "BDI", "BJ": "BEN", "BT": "BTN", "JM": "JAM", "BV": "BVT", "BW": "BWA", "WS": "WSM", "BQ": "BES", "BR": "BRA", "BS": "BHS", "JE": "JEY", "BY": "BLR", "BZ": "BLZ", "RU": "RUS", "RW": "RWA", "RS": "SRB", "TL": "TLS", "RE": "REU", "TM": "TKM", "TJ": "TJK", "RO": "ROU", "TK": "TKL", "GW": "GNB", "GU": "GUM", "GT": "GTM", "GS": "SGS", "GR": "GRC", "GQ": "GNQ", "GP": "GLP", "JP": "JPN", "GY": "GUY", "GG": "GGY", "GF": "GUF", "GE": "GEO", "GD": "GRD", "GB": "GBR", "GA": "GAB", "SV": "SLV", "GN": "GIN", "GM": "GMB", "GL": "GRL", "GI": "GIB", "GH": "GHA", "OM": "OMN", "TN": "TUN", "JO": "JOR", "HR": "HRV", "HT": "HTI", "HU": "HUN", "HK": "HKG", "HN": "HND", "HM": "HMD", "VE": "VEN", "PR": "PRI", "PS": "PSE", "PW": "PLW", "PT": "PRT", "SJ": "SJM", "PY": "PRY", "IQ": "IRQ", "PA": "PAN", "PF": "PYF", "PG": "PNG", "PE": "PER", "PK": "PAK", "PH": "PHL", "PN": "PCN", "PL": "POL", "PM": "SPM", "ZM": "ZMB", "EH": "ESH", "EE": "EST", "EG": "EGY", "ZA": "ZAF", "EC": "ECU", "IT": "ITA", "VN": "VNM", "SB": "SLB", "ET": "ETH", "SO": "SOM", "ZW": "ZWE", "SA": "SAU", "ES": "ESP", "ER": "ERI", "ME": "MNE", "MD": "MDA", "MG": "MDG", "MF": "MAF", "MA": "MAR", "MC": "MCO", "UZ": "UZB", "MM": "MMR", "ML": "MLI", "MO": "MAC", "MN": "MNG", "MH": "MHL", "MK": "MKD", "MU": "MUS", "MT": "MLT", "MW": "MWI", "MV": "MDV", "MQ": "MTQ", "MP": "MNP", "MS": "MSR", "MR": "MRT", "IM": "IMN", "UG": "UGA", "TZ": "TZA", "MY": "MYS", "MX": "MEX", "IL": "ISR", "FR": "FRA", "IO": "IOT", "SH": "SHN", "FI": "FIN", "FJ": "FJI", "FK": "FLK", "FM": "FSM", "FO": "FRO", "NI": "NIC", "NL": "NLD", "NO": "NOR", "NA": "NAM", "VU": "VUT", "NC": "NCL", "NE": "NER", "NF": "NFK", "NG": "NGA", "NZ": "NZL", "NP": "NPL", "NR": "NRU", "NU": "NIU", "CK": "COK", "XK": "XKX", "CI": "CIV", "CH": "CHE", "CO": "COL", "CN": "CHN", "CM": "CMR", "CL": "CHL", "CC": "CCK", "CA": "CAN", "CG": "COG", "CF": "CAF", "CD": "COD", "CZ": "CZE", "CY": "CYP", "CX": "CXR", "CR": "CRI", "CW": "CUW", "CV": "CPV", "CU": "CUB", "SZ": "SWZ", "SY": "SYR", "SX": "SXM", "KG": "KGZ", "KE": "KEN", "SS": "SSD", "SR": "SUR", "KI": "KIR", "KH": "KHM", "KN": "KNA", "KM": "COM", "ST": "STP", "SK": "SVK", "KR": "KOR", "SI": "SVN", "KP": "PRK", "KW": "KWT", "SN": "SEN", "SM": "SMR", "SL": "SLE", "SC": "SYC", "KZ": "KAZ", "KY": "CYM", "SG": "SGP", "SE": "SWE", "SD": "SDN", "DO": "DOM", "DM": "DMA", "DJ": "DJI", "DK": "DNK", "VG": "VGB", "DE": "DEU", "YE": "YEM", "DZ": "DZA", "US": "USA", "UY": "URY", "YT": "MYT", "UM": "UMI", "LB": "LBN", "LC": "LCA", "LA": "LAO", "TV": "TUV", "TW": "TWN", "TT": "TTO", "TR": "TUR", "LK": "LKA", "LI": "LIE", "LV": "LVA", "TO": "TON", "LT": "LTU", "LU": "LUX", "LR": "LBR", "LS": "LSO", "TH": "THA", "TF": "ATF", "TG": "TGO", "TD": "TCD", "TC": "TCA", "LY": "LBY", "VA": "VAT", "VC": "VCT", "AE": "ARE", "AD": "AND", "AG": "ATG", "AF": "AFG", "AI": "AIA", "VI": "VIR", "IS": "ISL", "IR": "IRN", "AM": "ARM", "AL": "ALB", "AO": "AGO", "AQ": "ATA", "AS": "ASM", "AR": "ARG", "AU": "AUS", "AT": "AUT", "AW": "ABW", "IN": "IND", "AX": "ALA", "AZ": "AZE", "IE": "IRL", "ID": "IDN", "UA": "UKR", "QA": "QAT", "MZ": "MOZ"};
 
-    var map = new Datamap({
-        scope: 'world',
-        element: document.getElementById('container1'),
-        projection: 'mercator',
-        height: 900,
-        fills: {
-          defaultFill: '#BBDEFB',
-        },
-        geographyConfig: {
-            popupTemplate: function(geography) {
-                if (typeof data[map.year][geography.id] == "undefined")
-                    var count = 0;
-                else
-                    var count = data[map.year][geography.id];
-                return '<div class="hoverinfo">' + '<b>' + geography.properties.name + '</b>'+ '<br> Users : ' + count + ' ';
+        var cyan = d3.rgb("#2196F3");
+
+        var map = new Datamap({
+            scope: 'world',
+            element: document.getElementById('map'),
+            projection: 'mercator',
+            height: 900,
+            fills: {
+              defaultFill: '#BBDEFB',
             },
-            highlightBorderWidth: 3
-        },
-    });
-    
-    function normalize(data_list, factor)
-    {   
-        var max = Math.max(...data_list[1]);
-        var min = Math.min(...data_list[0]);
+            geographyConfig: {
+                popupTemplate: function(geography) {
+                    if (typeof map.data[geography.id] == "undefined")
+                        var count = 0;
+                    else
+                        var count = map.data[geography.id];
+                    return '<div class="hoverinfo">' + '<b>' + geography.properties.name + '</b>'+ '<br> Users : ' + count + ' ';
+                },
+                highlightBorderWidth: 3
+            },
+        });
+        
+        function normalize(data_list, factor)
+        {   
+            var max = Math.max(...data_list[1]);
+            var min = Math.min(...data_list[0]);
 
-        for (var i = 0; i < data_list[0].length; i++) {
-            data_list[1][i] = factor*((data_list[1][i].count - min)/(max-min))
-        }
-        return data_list;
-    }
-
-     
-    function tomapdata(year_data, gradient_color)
-    {
-        year_data = d3.entries(year_data);
-        var mapdata = {}
-        for(var i=0 ;i<5 && i<year_data.length; i++)
-        {
-            mapdata[year_data[i].key] = top5color[i];
-        }
-
-        if(year_data.length >= 6)
-        {
-            year_data.splice(0, 5);
-
-            //normalization
-            var list_of_commit_count = year_data.map(function(x) {
-                return x["value"];
-            });
-
-            var max = d3.max(list_of_commit_count);
-            var min = d3.min(list_of_commit_count);
-
-            for(var i=0;i< year_data.length;i++){
-                normalized_value = 5*(year_data[i].value - min)/(max-min);
-                mapdata[year_data[i].key]=d3.rgb(gradient_color).darker(normalized_value/10).toString();
+            for (var i = 0; i < data_list[0].length; i++) {
+                data_list[1][i] = factor*((data_list[1][i].count - min)/(max-min))
             }
+            return data_list;
         }
-        return mapdata;
-    }
 
-    
-
-    function loadData() {
-        queue()   // queue function loads all external data files asynchronously 
-          .defer(d3.json,"../outputs/user-year-country-count.json")  
-          .await(processData);   // once all files are loaded, call the processData function passing
-    }
-
-    function processData(error, read_data)
-    {
-        data["Total"] = {};
-        for(var i=0; i< read_data.length ; i++){
-
-            var year = read_data[i].year;
-            var country = read_data[i].country_code;
-            country = isoCodeConverterData[country.toUpperCase()]
-            // console.log(keys.indexOf(year));
-            // console.log(keys);
-            if (typeof data[year] == "undefined")
-            {
-                data[year] = {};
-                keys = d3.keys(data);
-            }
-            data[year][country] = read_data[i].count;
+         
+        function tomapdata(year_data, back=false)
+        {
+            var mymapdata = {}
+            var list_of_commit_count = d3.values(year_data).map(parseInt);
+            var maxValue = d3.max(list_of_commit_count);
+            var minValue = d3.min(list_of_commit_count);
+            var paletteScale = d3.scale.log()
+                        .domain([minValue ,maxValue])
+                        .range(["#BBDEFB", "#2196F3"]);
             
-            if(data["Total"][country] == undefined)
-                data["Total"][country] = 0;
-            else
-                data["Total"][country] +=  read_data[i].count;
-        }
-        for (var key in data) {
-            // check if the property/key is defined in the object itself, not in parent
-            if (data.hasOwnProperty(key)) {          
-                mapdata[key] = tomapdata(data[key], "#64B5F6");
+            year_data = d3.entries(year_data);
+            
+            if(back)
+            {
+                for(var i=0 ;i<year_data.length; i++)
+                    mymapdata[year_data[i].key] = "#BBDEFB";
+                return mymapdata;
             }
+
+            var top5 = []
+            for(var i=0 ;i<5 && i<year_data.length; i++)
+                top5.push(year_data[i].value);
+            
+            var min = d3.min(top5);
+            top5 = top5.map(function (x){
+                return (x/(min))/1.5;
+            });
+            
+            for(var i=0 ;i<5 && i<year_data.length; i++)
+                mymapdata[year_data[i].key] = cyan.darker(top5[i]).toString();
+            
+            if(year_data.length >= 6)
+            {
+                year_data.splice(0, 5);
+                for(var i=0 ;i<year_data.length ;i++)
+                {
+                    var item = year_data[i];
+                    var country = item.key;
+                    var numUsers = item.value; 
+                    // console.log(country);
+                    mymapdata[country] = paletteScale(numUsers);
+                }
+            }
+            return mymapdata;
         }
 
-        map.year = "Total";
-        map.updateChoropleth(mapdata[map.year]);
-    }   
-    loadData();
-    
+        function processData(read_data)
+        {
+            var cdata = {};
+            var mapdata= {};
+            cdata["Total"] = {};
+            for(var i=0; i< read_data.length ; i++){
+
+                var year = read_data[i].year;
+                var country = read_data[i].country_code;
+                country = isoCodeConverterData[country.toUpperCase()]
+                if (typeof cdata[year] == "undefined")
+                {
+                    cdata[year] = {};
+                }
+                cdata[year][country] = read_data[i].count;
+                
+                if(cdata["Total"][country] == undefined)
+                    cdata["Total"][country] = 0;
+                else
+                    cdata["Total"][country] +=  read_data[i].count;
+            }
+            for (var key in cdata) {
+                if (cdata.hasOwnProperty(key)) {          
+                    mapdata[key] = tomapdata(cdata[key]);
+                }
+            }
+
+            mapdata["default"] = tomapdata(cdata["Total"], true);
+            console.log(mapdata["default"]);
+            
+
+            map.year = "Total";
+            map['data'] = cdata[map.year];
+            map.updateChoropleth(mapdata[map.year]);
+            
+            return [mapdata, cdata];
+        }
+
+        var resultData = (function() {
+           var json = null;
+           var result = null;
+           $.ajax({
+               'async': false,
+               'global': false,
+               'url': "../outputs/user-year-country-count.json",
+               'dataType': "json",
+               'success': function (data) {
+                   json = data;
+               },
+               'complete':function (){
+                   result =  processData(json);
+               }
+           });
+           return result;
+           })();   
+
+
+        /*Cycling through various years on click */
+        var year = "Total"
+        var mapdata = resultData[0];
+        var cdata = resultData[1];
+        $(document).click(function(){
+            if(year == 2017)
+                year = "Total";
+            else if (year == "Total")
+                year = 2007;
+            else 
+                year ++;
+            
+            map.year = year;
+            map['data'] = cdata[year];
+            map.updateChoropleth(mapdata["default"]);
+            map.updateChoropleth(mapdata[year]);
+            
+        });
+    });
    </script>
 </body>
