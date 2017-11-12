@@ -6,17 +6,56 @@ import os
 
 import json
 
-stats = {}
+top_users = [
+    ("torvalds", 5203, -8),
+    ("JakeWharton", 896, 0),
+    ("Tj", 376498, 0),
+    ("addyosmani", 6240, 0),
+    ("paulirish", 1779, 0),
+    ("mojombo", 9236, 0),
+    ("defunkt", 1570, 0),
+    ("sindresorhus", 3871, 0),
+    ("douglascrockford", 1736, 0),
+    ("mbostock", 13009, 0),
+    ("jeresig", 24452, 0),
+    ("ruanyf", 616741, 0),
+    ("daimajia", 2468643, 0),
+    ("mattt", 2427, 0),
+    ("mdo", 81423, 0),
+    ("kennethreitz", 796, -5),
+    ("schacon", 10005, 0),
+    ("gaearon", 417948, 0),
+    ("jlord", 2016667, 0),
+    ("visionmedia", 1954, 0),
+]
+
+jamians = [
+    ("dufferzafar", 1432224, 5),
+    ("iCHAIT", 5107602, 5),
+    ("TrigonaMinima", 2859386, 5),
+    ("nickedes", 6145009, 5),
+    ("rootAvish", 2549876, 5),
+    ("kwikadi", 4007006, 5),
+    ("prerit2010", 4925305, 5),
+]
+
+# This data came from spark analysis
+# with open("../outputs/commit_punchcard.json") as file:
+with open("../outputs/top_users_commit_punchcard.json") as file:
+# with open("../outputs/jamians_commit_punchcard.json") as file:
+    grouped_data = json.load(file)
 
 days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-for d in days:
-    stats[d] = [0] * 24
+author, author_id, tz_offset = top_users[15]
+# author, author_id, tz_offset = jamians[0]
 
-with open("../outputs/commit_punchcard.json") as file:
-    grouped_data = json.load(file)
+output_file = "commits-punchcard-%s.png" % author
 
-    for r in grouped_data:
+stats = {d: [0] * 24 for d in days}
+
+for r in grouped_data:
+    if r['author_id'] == author_id:
         stats[r['day']][r['hour']] = r['commits']
 
 ############################################################
@@ -24,7 +63,7 @@ with open("../outputs/commit_punchcard.json") as file:
 # defaults
 width = 1100
 height = int(round(width/2.75, 0))
-output_file = 'output.png'
+# output_file = 'output.png'
 
 original_path = os.getcwd()
 opaque = -1
@@ -51,7 +90,7 @@ hours = (
 
 def get_x_y_from_date(day, hour):
     y = top + (days.index(day) + 1) * distance
-    x = left + (hour + 1) * distance
+    x = left + ((hour + tz_offset) % 24 + 1) * distance
     return x, y
 
 
@@ -77,8 +116,7 @@ final_data = []
 
 for d, num_commits in stats.items():
     for h, value in enumerate(num_commits):
-        final_data.append(
-            [get_length(int(float(value) / max_value * max_range)), get_x_y_from_date(d, h)])
+        final_data.append([get_length(int(float(value) / max_value * max_range)), get_x_y_from_date(d, h)])
 
 
 surface = cairo.ImageSurface(cairo.FORMAT_ARGB32, width, height)
