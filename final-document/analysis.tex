@@ -8,7 +8,7 @@ The \code{users.csv} file contains records of 19,925,838 (around 20 million) use
 
 \subsubsection{Exponential Growth}
 
-After launching in 2007, GitHub has seen exponential growth, which is made evident from Figure 1.
+After launching in 2007, GitHub has been growing exponentially, which is made evident from Figure 1.
 
 \begin{figure}[htb]
 \centering
@@ -67,14 +67,30 @@ It should be noted that GitHub treats pull request as a special form of Issues. 
 
 \code{commits.csv} contains information of 745,356,807 commits made during 2007 and 2017.
 
-\subsubsection{When do commits happen?}
+\subsubsection{Commit patterns of users}
 
-To find out if there is a correlation between time of day and number of commits, we plotted a punchcard (Figure 5)
-which shows that most of the commits happen during Weekdays between 8am - 8pm.
+To determine when a user works, we plot a punchcard created using the timestamps of the commits.
+This is created by considering the users's local timezone (since the GHTorrent data stores it in UTC.) \\
+
+Comparing Figure 5 \& 6, it is clear that both these users have very different work schedules.
 
 \begin{figure}[htb]
 \centering
-\includegraphics[scale=0.40]{commits-punchcard-overall}
-\caption{When do commits happen?}
-\small{Mon-Fri between 8am \& 8pm!}
+\includegraphics[scale=0.28]{commits-punchcard-JakeWharton}
+\caption{Commit punchcard of user "JakeWharton"}
 \end{figure}
+
+\begin{figure}[htb]
+\centering
+\includegraphics[scale=0.28]{commits-punchcard-mbostock}
+\caption{Commit punchcard of user "mbostock"}
+\end{figure}
+
+This can also be extended to entire countries to see when people of a country commit to GitHub.
+
+\begin{figure}[htb]
+\centering
+\includegraphics[scale=0.28]{commits-punchcard-indian}
+\caption{Commit punchcard of all Indian users}
+\end{figure}
+
