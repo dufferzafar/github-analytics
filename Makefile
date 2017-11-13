@@ -8,3 +8,6 @@ clean:
 
 pip-dump:
 	env/bin/pip freeze > requirements.txt
+
+zip:
+	@git archive --format=zip master > team-0-github-analytics.zip
