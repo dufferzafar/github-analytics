@@ -81,6 +81,13 @@
         {"name": "deleted"           , "type": "short"     , "nullable": false , "metadata": {}}
     ],
 
+    "project_languages.csv": [
+        {"name": "project_id" , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "language"   , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "bytes"      , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at" , "type": "timestamp" , "nullable": true  , "metadata": {}}
+    ],
+
     "project_members_new.csv": [
         {"name": "project_id"        , "type": "long"      , "nullable": false , "metadata": {}} ,
         {"name": "user_id"           , "type": "long"      , "nullable": false , "metadata": {}} ,
