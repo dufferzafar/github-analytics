@@ -34,7 +34,8 @@ GitHub allows users to enter their location field in a free form text field.
 Since this user entered data is not validated by GitHub, it can contain anything and does not have to be a valid location.
 GHTorrent service uses mapping APIs like Bing \& Open Street Maps to convert the text data into known locations. \\
 
-Since not everyone enters their location and or they don't enter it in a valid format, only 7.8\% (1,566,019) users have location data that can be used. \\
+Since not everyone enters their location and or they don't enter it in a valid format, only 7.8\% (1,566,019)
+ users have location data that can be used. \\
 
 Figure 3 shows that majority of such users are from USA, followed closely by India and China.
 
@@ -62,16 +63,29 @@ IT Hubs like Hyderabad, Bengalore, Pune etc.
 
 \subsection{Organizations}
 
-\subsubsection{Top Corporates}
+\subsubsection{Top Organizations}
 
 On GitHub, users can enter the company the work for in a free form text field.
-We use that data to find out which corporates have most number of users.
+We use that data to find out which organizations have most number of users.
+Considering only the number of employees of organizations,
+Microsoft has most number of employees i.e 8148, while IBM only has 2842. (Figure 5) \\
+
+Another way of finding popular organizations is to see how popular the work done by
+their users is. This is done by counting their followers and the stars on their repositories.
+we find that Facebook \& Google are at top, perhaps due to a large number of popular projects.
 
 \begin{figure}[htb]
 \centering
-\centerline{\includegraphics[scale=0.52]{org-employee-full}}
+\centerline{\includegraphics[scale=0.50]{org-employee-full}}
 \caption{Organisations with most employees (on GitHub)}
 \end{figure}
+
+\subsubsection{Top Organizations in India}
+
+Extending similar analysis onto organizations whose employees are located in India, we find that
+TCS has the most employees.
+
+% \newpage
 
 \newpage
 \subsection{Activities}
