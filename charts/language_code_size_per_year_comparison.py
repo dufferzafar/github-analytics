@@ -45,7 +45,8 @@ p = figure(
     plot_height=500,
     plot_width=1500,
     title="Language Code Size by Year",
-    x_axis_label="Code Size (GB)"
+    y_axis_label="Code Size (GB)",
+    x_axis_label="Language"
 )
 
 p.vbar(x=dodge('language', -0.25, range=p.x_range), top='2015', width=0.2, source=source,
@@ -55,7 +56,7 @@ p.vbar(x=dodge('language', 0.0, range=p.x_range), top='2016', width=0.2, source=
        color="#718dbf", legend=value("2016"))
 
 p.vbar(x=dodge('language', 0.25, range=p.x_range), top='2017', width=0.2, source=source,
-       color="#e84d60", legend=value("2017"))
+       color="#e84d60", legend=value("2017 (upto Aug)"))
 
 hover = HoverTool(tooltips=[
     ("users", "$y{(0.00 a)}")
