@@ -1,10 +1,9 @@
 from bokeh.io import show
 from bokeh.core.properties import value
-from bokeh.palettes import magma
 from bokeh.plotting import figure
-from bokeh.models import ColumnDataSource, FactorRange, HoverTool
-from bokeh.transform import factor_cmap, dodge
-from math import pi, ceil
+from bokeh.models import ColumnDataSource, HoverTool
+from bokeh.transform import dodge
+from math import ceil
 
 import pandas as pd
 
@@ -23,14 +22,18 @@ data_2017 = odf.loc[odf.year == 2017].sort_values("sum_GB").tail(10).sort_values
 languages = data_2015.language.unique()
 years = ['2015', '2016', '2017']
 
+cdata = list(zip(languages, list(data_2015.sum_GB), list(data_2016.sum_GB), list(data_2017.sum_GB)))
+cdata.sort(key=lambda x: max(x[1:]), reverse=True)
+
+cdata = list(zip(*cdata))
+languages = cdata[0]
 
 data = {
-    'language': languages,
-    '2015': list(data_2015.sum_GB),
-    '2016': list(data_2016.sum_GB),
-    '2017': list(data_2017.sum_GB),
+    'language': cdata[0],
+    '2015': cdata[1],
+    '2016': cdata[2],
+    '2017': cdata[3],
 }
-
 
 x = [(language, year) for language in languages for year in years]
 counts = sum(zip(data['2015'], data['2016'], data['2017']), ())
