@@ -30,6 +30,33 @@
         {"name": "commits_others" , "type": "long" , "nullable": true  , "metadata": {}}
     ],
 
+    "users_with_more.csv": [
+        {"name": "id"             , "type": "long"      , "nullable": false , "metadata": {}} ,
+        {"name": "login"          , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "company"        , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "created_at"     , "type": "timestamp" , "nullable": false , "metadata": {}} ,
+        {"name": "type"           , "type": "string"    , "nullable": false , "metadata": {}} ,
+        {"name": "fake"           , "type": "short"     , "nullable": false , "metadata": {}} ,
+        {"name": "deleted"        , "type": "short"     , "nullable": false , "metadata": {}} ,
+        {"name": "long"           , "type": "double"    , "nullable": true  , "metadata": {}} ,
+        {"name": "lat"            , "type": "double"    , "nullable": true  , "metadata": {}} ,
+        {"name": "country_code"   , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "state"          , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "city"           , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "location"       , "type": "string"    , "nullable": true  , "metadata": {}} ,
+        {"name": "following"      , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "followers"      , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "starred"        , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "repos_source"   , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "repos_forks"    , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "has_stars"      , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "contributes_to" , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "issues"         , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "pulls"          , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "commits"        , "type": "long"      , "nullable": true  , "metadata": {}} ,
+        {"name": "commits_others" , "type": "long"      , "nullable": true  , "metadata": {}}
+    ],
+
     "projects.csv": [
         {"name": "id"              , "type": "string"    , "nullable": false , "metadata": {}} ,
         {"name": "url"             , "type": "string"    , "nullable": true  , "metadata": {}} ,
