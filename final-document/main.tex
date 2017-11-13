@@ -70,8 +70,8 @@
 \tableofcontents
 \renewcommand{\baselinestretch}{1.0}\normalsize
 
-\listoftables
-\listoffigures
+% \listoftables
+% \listoffigures
 
 \newpage
 \section{Introduction}
@@ -83,9 +83,12 @@
 stores the data. Which is then provided for download for research related
 activities. \\
 
-In this paper we report various analyses that we performed on the GitHub data.
+In this paper we report various analyses that we performed on the GitHub data. \\
 
-\vspace{50px}
+We used \fnurl{d3.js}{https://d3js.org/} to generate topological maps and \fnurl{bokeh}{http://bokeh.pydata.org/}
+to create other charts and figures.
+
+\vspace{20px}
 \input{dataset.tex}
 \input{analysis.tex}
 
