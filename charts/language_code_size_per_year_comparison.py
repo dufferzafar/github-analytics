@@ -44,9 +44,9 @@ p = figure(
     x_range=languages,
     plot_height=500,
     plot_width=1500,
-    title="Language Code Size by Year",
+    # title="Language Code Size by Year",
     y_axis_label="Code Size (GB)",
-    x_axis_label="Language"
+    # x_axis_label="Language"
 )
 
 p.vbar(x=dodge('language', -0.25, range=p.x_range), top='2015', width=0.2, source=source,
