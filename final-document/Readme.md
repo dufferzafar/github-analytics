@@ -1,7 +1,8 @@
 
-* Abstract
-
 * Introduction
+    - GitHub is a...
+    - GHTorrent is a...
+    - In this report we present...
 
 * Data Prepartion
 
@@ -23,10 +24,23 @@
 
         + Who are the most popular users?
 
-    - Activities
-        + When do commits happen?
+    - Organisations
+        + Top Corporates
+        + Top Corporates in India
+        + IITs
 
-        + When does a particular user commits?
+    - Activities
+        + Commit pattern of users
+            * JakeWharton vs mbostock
+                - Mention local timezones
+
+        + Commit pattern of all users in India
+
+        + Community participation in projects
+        + Lifespan of projects
+
+    - Languages
+        + Top languages per year
 
 * References
 
