@@ -1,24 +1,18 @@
 from bokeh.io import show
 from bokeh.layouts import column, row
-from bokeh.palettes import magma
+from bokeh.palettes import magma, viridis
 from bokeh.plotting import figure
 from bokeh.transform import factor_cmap
 from math import pi
 
 import pandas as pd
-odf = pd.read_csv(open("outputs/orgs-employee-count.csv"))
-# odf = odf.loc[odf.year != 2017]
-# odf['year'] = pd.to_datetime(odf['year'], format="%Y")
+# odf = pd.read_csv(open("outputs/orgs-employee-count.csv"), delimiter=' *, *', engine='python')
+odf = pd.read_csv(open("outputs/orgs-employee-count-indian.csv"), delimiter=' *, *', engine='python')
 
-# odf.head(50).country_code.unique()
-odf = odf.rename(columns=lambda x: x.strip())
+# Remove spaces etc. from column names
+# odf = odf.rename(columns=lambda x: x.strip())
+
 odf = odf.sort_values("employees", ascending=False)
-# odf3.country_code.unique()
-
-# x_axis = list(odf.corporate)
-# x_axis = list(map(lambda x: x.strip(), x_axis))
-
-# y_axis = odf.employees
 
 plot_height = 600
 plot_width = 900
@@ -35,6 +29,9 @@ p = figure(
 colors = magma(30)
 colors = (colors)[6:]
 
+# colors = viridis(25)
+# colors = (colors)[2:]
+
 p.vbar(
     source=odf,
     x='corporate', top='employees',
@@ -45,6 +42,10 @@ p.vbar(
 )
 
 p.xaxis.major_label_orientation = pi / 3
+p.x_range.range_padding = 0.01
+p.y_range.range_padding = 0.01
+# p.xgrid.grid_line_color = None
+
 p.yaxis.axis_label_text_font_size = "14pt"
 p.xaxis.axis_label_text_font_size = "14pt"
 p.axis.major_label_text_font_size = "15pt"
@@ -59,9 +60,6 @@ s = figure(
     plot_width=plot_width
 )
 
-colors = magma(30)
-colors = (colors)[6:]
-
 s.vbar(
     source=odf,
     x='corporate', top='followers_per_employee',
@@ -72,6 +70,9 @@ s.vbar(
 )
 
 s.xaxis.major_label_orientation = pi / 3
+s.x_range.range_padding = 0.01
+s.y_range.range_padding = 0.01
+# s.xgrid.grid_line_color = None
 s.yaxis.axis_label_text_font_size = "14pt"
 s.xaxis.axis_label_text_font_size = "14pt"
 s.axis.major_label_text_font_size = "15pt"
@@ -86,9 +87,6 @@ t = figure(
     plot_width=plot_width
 )
 
-colors = magma(30)
-colors = (colors)[6:]
-
 t.vbar(
     source=odf,
     x='corporate', top='stars_per_employee',
@@ -99,6 +97,9 @@ t.vbar(
 )
 
 t.xaxis.major_label_orientation = pi / 3
+t.x_range.range_padding = 0.01
+t.y_range.range_padding = 0.01
+# t.xgrid.grid_line_color = None
 t.yaxis.axis_label_text_font_size = "14pt"
 t.xaxis.axis_label_text_font_size = "14pt"
 t.axis.major_label_text_font_size = "15pt"
