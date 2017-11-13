@@ -58,9 +58,20 @@ Table 1 lists the CSV files in the dataset.
 \subsection{Preprocessing}
 
 % We used standard UNIX command line tools to
-We used \fnurl{xsv}{https://github.com/BurntSushi/xsv/}, a command line CSV parsing tool, to remove columns that contained information we were not interested in. This helped reduce the size of the files. \\
+We used \fnurl{xsv}{https://github.com/BurntSushi/xsv/}, a command line CSV parsing tool, to remove columns that contained information we were not interested in. This helped reduce the size of the files. \\ \linebreak
 
-From \code{projects.csv}, we removed the description field which was free form text describing the project. \\
+From \code{projects.csv}, we removed the following:
+\begin{enumerate}
+    \item The description field which was free form text describing the project.
+    \item The name field which denoted the name of the project as the name of the project was evident from the url itself.
+    \item The update at field which denoted the last timestamp when the project was updated.
+\end{enumerate}
+By removing the above mentioned columns we were able to reudce the size of the file by 40\%. \linebreak
+
+
+From \code{commits.csv}, we removed the sha (160 bits) field which was the hash value associated with each commit. This lead to a significant reduction in the size of the file from 68.8 GB to 37.6 GB (nearly 55\%) size of the table. \\
+
+
 
 % TODO
 \large{ TODO: Other changes that we did! }
