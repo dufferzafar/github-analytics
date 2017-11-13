@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://d3js.org/topojson.v1.min.js"></script>
+    <script src="http://datamaps.github.io/scripts/datamaps.all.min.js?v=3"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <div id="india" style="height: 900px; width: 1000px;"></div>
+    <script>
+
+    $( document ).ready(function() {
+    
+        var map = new Datamap({
+                        element: document.getElementById('india'),
+                        scope: 'india',
+                        fills: {
+                            defaultFill: "#90CAF9",
+                            bubble : '#FF5722' 
+                        },
+                        geographyConfig: {
+                            popupOnHover: true,
+                            highlightOnHover: true,
+                            borderColor: '#444',
+                            borderWidth: 0.5,   
+                            dataUrl: 'topos/india-states.topo.json'
+                        },
+                        setProjection: function (element) {
+                            var projection = d3.geo.mercator()
+                                .center([78.9629, 23.5937]) // always in [East Latitude, North Longitude]
+                                .scale(1000);
+                            var path = d3.geo.path().projection(projection);
+                            return { path: path, projection: projection };
+                        }
+                    });
+
+
+            var iitdata = [
+
+                {
+                    "name": "IIT Bombay",
+                    "users": 255,
+                    "radius": 255/8,
+                    "latitude": 19.133430,
+                    "longitude": 72.913268,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Kharagpur",
+                    "users": 154,
+                    "radius": 154/6.8,
+                    "latitude": 22.314927,
+                    "longitude": 87.310531,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Kanpur",
+                    "users": 125,
+                    "radius": 125/6.5,
+                    "latitude": 26.449923,
+                    "longitude": 80.331874,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Madras",
+                    "users": 122,
+                    "radius": 122/6.5,
+                    "latitude": 13.082680,
+                    "longitude": 80.270718,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Delhi",
+                    "users": 87,
+                    "radius": 87/6.5,
+                    "latitude": 28.704059,
+                    "longitude": 77.102490,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Roorkee",
+                    "users": 76,
+                    "radius": 76/7.5,
+                    "latitude": 29.854263,
+                    "longitude": 77.888000,
+                    "fillKey":'bubble'
+
+                },
+                {
+                    "name": "IIT Guwahati",
+                    "users": 75,
+                    "radius": 75/7,
+                    "latitude": 26.144517,
+                    "longitude": 91.736237,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Guwahati",
+                    "users": 75,
+                    "radius": 75/6.5,
+                    "latitude": 26.144517,
+                    "longitude": 91.736237,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IISc Bangalore",
+                    "users": 56,
+                    "radius": 56/6.5,
+                    "latitude": 12.971599,
+                    "longitude": 77.594563,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IISc Jodhpur",
+                    "users": 20,
+                    "radius": 20/4,
+                    "latitude": 26.238947,
+                    "longitude": 73.024309,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Hyderabad",
+                    "users": 28,
+                    "radius": 28/4,
+                    "latitude": 17.385044,
+                    "longitude": 78.486671,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Indore",
+                    "users": 16,
+                    "radius": 16/4,
+                    "latitude": 22.719569,
+                    "longitude": 75.857726,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Gandhinagar",
+                    "users": 5,
+                    "radius": 5/2,
+                    "latitude": 23.215635,
+                    "longitude": 72.636941,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT BHU",
+                    "users": 23,
+                    "radius": 23/4,
+                    "latitude": 25.317645,
+                    "longitude": 82.973914,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Ropar",
+                    "users": 12,
+                    "radius": 12/4,
+                    "latitude": 29.965917,
+                    "longitude": 75.523023,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Mandi",
+                    "users": 11,
+                    "radius": 11/4,
+                    "latitude": 31.305400,
+                    "longitude": 76.986075,
+                    "fillKey":'bubble'
+                },
+                {
+                    "name": "IIT Patna",
+                    "users": 14,
+                    "radius": 14/4,
+                    "latitude": 25.535752,
+                    "longitude": 84.851065,
+                    "fillKey":'bubble'
+                },
+            ]
+
+            map.bubbles(iitdata, {
+              popupTemplate: function(geo, data) {
+                return '<div class="hoverinfo"><b>' + data.name + '<br>Users : ' + data.users+ '</b>'
+              }
+            });   
+        
+    });
+    </script>
+</body>
+
+</html>
