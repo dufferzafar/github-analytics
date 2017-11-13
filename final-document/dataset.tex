@@ -27,7 +27,8 @@ Table 1 lists the CSV files in the dataset.
            \rowcolor{LightCyan}
             5 & projects.csv                & 11.1 GB  & GitHub Projects \\
             6 & project\_commits.csv        & 89.8 GB  & Commits on projects (including commits on forks) \\
-            7 & project\_languages.cs       & 4.3 GB   & Programming languages used in projects \\
+           \rowcolor{LightCyan}
+            7 & project\_languages.csv       & 4.3 GB   & Programming languages used in projects \\
            \rowcolor{LightCyan}
             8 & project\_members.csv        & 491.8 MB & Users that are contributors to projects \\
             9 & repo\_labels.csv            & 6.6 GB   & Labels used in a project \\
@@ -40,6 +41,7 @@ Table 1 lists the CSV files in the dataset.
            14 & issue\_comments.csv         & 4.1 GB   & Comments made on issues \\
            15 & issue\_events.csv           & 4.9 GB   & Actions taken on issues (closing etc.) \\
            16 & issue\_labels.csv           & 262.6 MB & Labels assigned to issues \\
+           \rowcolor{LightCyan}
            17 & pull\_requests.csv          & 1.2 GB   & GitHub Pull-requests made on projects \\
            18 & pull\_request\_comments.csv & 2.7 GB   & Comments made on pull-requests \\
            19 & pull\_request\_commits.csv  & 2.3 GB   & Commits made on pull-requests \\
@@ -71,15 +73,17 @@ From \code{projects.csv}, we removed the description field which was free form t
     \toprule
         File & Fields Removed & Old Size & New Size \\
     \midrule
-        users.csv            & -                &   1.6 GB &    1.6 GB \\
-        followers.csv        & -                & 588.7 MB &  588.7 MB \\
-        watchers.csv         & -                &   2.9 GB &    2.9 GB \\
-        projects.csv         & Description, URL &  11.1 GB &    4.4 GB \\
-        project\_members.csv & ext\_ref\_id     & 491.8 MB &  321.0 MB \\
-        commits.csv          & SHA of Commits   &  68.8 GB &   37.6 GB \\
-        issues.csv           & Pull Request     &   3.0 GB &    2.8 GB \\
+        users.csv              & -                &   1.6 GB &    1.6 GB \\
+        followers.csv          & -                & 588.7 MB &  588.7 MB \\
+        watchers.csv           & -                &   2.9 GB &    2.9 GB \\
+        projects.csv           & Description, URL &  11.1 GB &    4.4 GB \\
+        project\_members.csv   & ext\_ref\_id     & 491.8 MB &  321.0 MB \\
+        project\_languages.csv & -                &   4.3 GB &    4.3 GB \\
+        commits.csv            & SHA of Commits   &  68.8 GB &   37.6 GB \\
+        issues.csv             & Pull Request     &   3.0 GB &    2.8 GB \\
+        pull_requests.csv      & -                &   1.2 GB &    1.2 GB \\
     \midrule
-        Total Size           &                  &  88.5 GB &   49.5 GB \\
+        Total Size             &                  &    94 GB &     55 GB \\
     \bottomrule
     \end{tabular}
 
