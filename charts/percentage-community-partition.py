@@ -9,16 +9,21 @@ p = figure(
     y_axis_label="No. of Projects",
     x_axis_label="Percentage Community Participation",
     y_axis_type="log",
-    title="Total Users",
+    # title="Total Users",
     width=1500
 )
 
 y = list(odf[0])
 x = [i for i in range(0, 100)]
 
-p.yaxis.axis_label_text_font_size = "14pt"
-p.xaxis.axis_label_text_font_size = "14pt"
+p.xaxis.axis_label_standoff = 15
+p.yaxis.axis_label_standoff = 15
+
+p.xaxis.axis_label_text_font_size = "15pt"
+p.yaxis.axis_label_text_font_size = "15pt"
+
 p.axis.major_label_text_font_size = "15pt"
+
 
 hover = HoverTool(tooltips=[
     ("Number of projects", "$y{(0.00 a)}")
