@@ -41,22 +41,24 @@ jamians = [
 
 # This data came from spark analysis
 # with open("../outputs/commit_punchcard.json") as file:
-with open("../outputs/top_users_commit_punchcard.json") as file:
+# with open("../outputs/top_users_commit_punchcard.json") as file:
 # with open("../outputs/jamians_commit_punchcard.json") as file:
+with open("../outputs/indians_commit_punchcard.json") as file:
     grouped_data = json.load(file)
 
 days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-author, author_id, tz_offset = top_users[9]
+# author, author_id, tz_offset = top_users[9]
 # author, author_id, tz_offset = jamians[6]
+author, author_id, tz_offset = "indian", "", 5
 
 output_file = "commits-punchcard-%s.png" % author
 
 stats = {d: [0] * 24 for d in days}
 
 for r in grouped_data:
-    if r['author_id'] == author_id:
-        stats[r['day']][r['hour']] = r['commits']
+    # if r['author_id'] == author_id:
+    stats[r['day']][r['hour']] = r['commits']
 
 ############################################################
 
