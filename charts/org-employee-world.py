@@ -26,11 +26,11 @@ p = figure(
     plot_width=plot_width
 )
 
-colors = magma(30)
-colors = (colors)[6:]
+# colors = magma(30)
+# colors = (colors)[6:]
 
-# colors = viridis(25)
-# colors = (colors)[2:]
+colors = viridis(30)
+colors = (colors)[6:]
 
 p.vbar(
     source=odf,
@@ -104,4 +104,4 @@ t.yaxis.axis_label_text_font_size = "14pt"
 t.xaxis.axis_label_text_font_size = "14pt"
 t.axis.major_label_text_font_size = "15pt"
 
-show(column(row(p), row(s, t), sizing_mode="scale_width"))
+show(column(row(p), row(s), row(t)))
