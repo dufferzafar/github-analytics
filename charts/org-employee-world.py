@@ -20,11 +20,16 @@ odf = odf.sort_values("employees", ascending=False)
 
 # y_axis = odf.employees
 
+plot_height = 600
+plot_width = 900
+
 p = figure(
     title="Number of Employees",
     x_range=odf.corporate.unique(),
-    plot_height=800,
-    plot_width=1000
+    tools="",
+    toolbar_location=None,
+    plot_height=plot_height,
+    plot_width=plot_width
 )
 
 colors = magma(30)
@@ -48,8 +53,10 @@ odf = odf.sort_values("followers_per_employee", ascending=False)
 s = figure(
     title="Number of Followers per Employee",
     x_range=odf.corporate.unique(),
-    plot_height=800,
-    plot_width=1000
+    tools="",
+    toolbar_location=None,
+    plot_height=plot_height,
+    plot_width=plot_width
 )
 
 colors = magma(30)
@@ -73,8 +80,10 @@ odf = odf.sort_values("stars_per_employee", ascending=False)
 t = figure(
     title="Number of Stars per Employee",
     x_range=odf.corporate.unique(),
-    plot_height=800,
-    plot_width=1000
+    tools="",
+    toolbar_location=None,
+    plot_height=plot_height,
+    plot_width=plot_width
 )
 
 colors = magma(30)
@@ -94,4 +103,4 @@ t.yaxis.axis_label_text_font_size = "14pt"
 t.xaxis.axis_label_text_font_size = "14pt"
 t.axis.major_label_text_font_size = "15pt"
 
-show(row(p, s, t))
+show(column(row(p), row(s, t), sizing_mode="scale_width"))
