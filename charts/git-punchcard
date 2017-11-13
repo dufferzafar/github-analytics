@@ -8,7 +8,7 @@ import json
 
 top_users = [
     ("torvalds", 5203, -8),
-    ("JakeWharton", 896, 0),
+    ("JakeWharton", 896, -5),
     ("Tj", 376498, 0),
     ("addyosmani", 6240, 0),
     ("paulirish", 1779, 0),
@@ -16,7 +16,7 @@ top_users = [
     ("defunkt", 1570, 0),
     ("sindresorhus", 3871, 0),
     ("douglascrockford", 1736, 0),
-    ("mbostock", 13009, 0),
+    ("mbostock", 13009, -8),
     ("jeresig", 24452, 0),
     ("ruanyf", 616741, 0),
     ("daimajia", 2468643, 0),
@@ -47,8 +47,8 @@ with open("../outputs/top_users_commit_punchcard.json") as file:
 
 days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
 
-author, author_id, tz_offset = top_users[15]
-# author, author_id, tz_offset = jamians[0]
+author, author_id, tz_offset = top_users[9]
+# author, author_id, tz_offset = jamians[6]
 
 output_file = "commits-punchcard-%s.png" % author
 
@@ -65,7 +65,8 @@ width = 1100
 height = int(round(width/2.75, 0))
 # output_file = 'output.png'
 
-original_path = os.getcwd()
+# original_path = os.getcwd()
+original_path = "../_Help/punchcards/"
 opaque = -1
 
 # Calculate the relative distance
@@ -197,7 +198,7 @@ for each in final_data:
     draw_circle(each[1], each[0])
 
 # write to output
-surface.write_to_png(output_file)
+surface.write_to_png(os.path.join(original_path, output_file))
 
 print("punchcard written to output file at: %s" %
       os.path.join(original_path, output_file))
