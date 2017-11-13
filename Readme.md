@@ -3,6 +3,12 @@
 
 Analysis of GitHub data (GHTorrent) using Hadoop & Spark
 
+## Team Participants
+
+2017MCS2074 - Harish Chandra Thuwal
+
+2017MCS2076 - Shadab Zafar
+
 ## Code
 
 We used Jupyter Lab notebooks to run Spark queries.
