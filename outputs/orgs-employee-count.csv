@@ -1,0 +1,21 @@
+corporate    , employees , total_stars , total_followers , stars_per_employee , followers_per_employee
+Facebook     , 940       , 322341      , 71384           , 584                , 97
+Alibaba      , 465       , 89384       , 29441           , 306                , 88
+Mozilla      , 461       , 108084      , 31980           , 333                , 82
+Google       , 2736      , 418718      , 162555          , 272                , 79
+Baidu        , 556       , 60371       , 19993           , 174                , 50
+Tencent      , 822       , 90544       , 25397           , 165                , 42
+ThoughtWorks , 941       , 31712       , 15061           , 58                 , 21
+Yandex       , 491       , 30583       , 7803            , 91                 , 20
+Red Hat      , 1684      , 45819       , 20920           , 46                 , 18
+Microsoft    , 8148      , 141171      , 81037           , 58                 , 17
+IBM          , 2842      , 24869       , 17628           , 32                 , 15
+Cisco        , 477       , 14032       , 2264            , 92                 , 11
+Amazon       , 558       , 9124        , 3765            , 33                 , 11
+Esri         , 897       , 4525        , 4753            , 27                 , 11
+Intel        , 1037      , 8086        , 4808            , 26                 , 10
+Oracle       , 690       , 3614        , 2530            , 19                 , 9
+Capgemini    , 492       , 4146        , 1091            , 39                 , 7
+EPAM Systems , 520       , 2919        , 1173            , 19                 , 6
+Accenture    , 668       , 1482        , 1034            , 13                 , 5
+TCS          , 477       , 1052        , 310             , 23                 , 4
